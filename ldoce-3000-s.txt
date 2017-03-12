@@ -1,0 +1,3149 @@
+A Core vocabulary: High-frequency ●●● S1 W1 indefinite article , determiner
+ability Core vocabulary: High-frequency ●●● S2 W1 noun
+able Core vocabulary: High-frequency ●●● S1 W1 adjective
+about Core vocabulary: High-frequency ●●● S1 W1 preposition
+about Core vocabulary: High-frequency ●●● S1 W1 adverb
+about Core vocabulary: High-frequency ●●● S3 W2 adjective
+above Core vocabulary: High-frequency ●●● S2 W1 adverb , preposition
+abroad Core vocabulary: High-frequency ●●● S2 W3 adverb
+absence Core vocabulary: High-frequency ●●● S3 W2 noun
+absolute Core vocabulary: Medium-frequency ●●○ S3 adjective
+absolutely Core vocabulary: High-frequency ●●● S1 W3 adverb
+abuse Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+accept Core vocabulary: High-frequency ●●● S1 W1 verb
+acceptable Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+access Core vocabulary: High-frequency ●●● S2 W1 noun
+accident Core vocabulary: High-frequency ●●● S2 W2 noun
+account Core vocabulary: High-frequency ●●● S1 W1 noun
+account Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+accurate Core vocabulary: High-frequency ●●● S2 W3 adjective
+achieve Core vocabulary: High-frequency ●●● S2 W1 verb
+achievement Core vocabulary: High-frequency ●●● S3 W2 noun
+acknowledge Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+across Core vocabulary: High-frequency ●●● S1 W1 adverb , preposition
+act Core vocabulary: High-frequency ●●● S1 W1 noun
+act Core vocabulary: High-frequency ●●● S2 W1 verb
+action Core vocabulary: High-frequency ●●● S1 W1 noun
+active Core vocabulary: High-frequency ●●● S2 W2 adjective
+activity Core vocabulary: High-frequency ●●● S2 W1 noun
+actual Core vocabulary: High-frequency ●●● S1 W2 adjective
+actually Core vocabulary: High-frequency ●●● S1 W1 adverb
+ad Core vocabulary: High-frequency ●●● S3 W3 noun
+add Core vocabulary: High-frequency ●●● S1 W1 verb
+addition Core vocabulary: High-frequency ●●● S3 W1 noun
+address Core vocabulary: High-frequency ●●● S2 W2 noun
+adequate Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+administration Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+admire Core vocabulary: High-frequency ●●● S3 verb
+admit Core vocabulary: High-frequency ●●● S2 W1 verb
+adopt Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+adult Core vocabulary: High-frequency ●●● S2 W2 noun
+advantage Core vocabulary: High-frequency ●●● S2 W1 noun
+advert Core vocabulary: Medium-frequency ●●○ S3 noun
+advertise Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+advertisement Core vocabulary: High-frequency ●●● S3 noun
+advice Core vocabulary: High-frequency ●●● S2 W2 noun
+advise Core vocabulary: High-frequency ●●● S2 W2 verb
+adviser Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+affair Core vocabulary: High-frequency ●●● S2 W1 noun
+affect Core vocabulary: High-frequency ●●● S2 W1 verb
+afford Core vocabulary: High-frequency ●●● S1 W3 verb
+afraid Core vocabulary: High-frequency ●●● S1 W2 adjective
+after Core vocabulary: High-frequency ●●● S1 W1 preposition , conjunction , adverb
+afternoon Core vocabulary: High-frequency ●●● S1 W2 noun
+afterwards Core vocabulary: High-frequency ●●● S2 W3 adverb
+again Core vocabulary: High-frequency ●●● S1 W1 adverb
+against Core vocabulary: High-frequency ●●● S1 W1 preposition
+age Core vocabulary: High-frequency ●●● S1 W1 noun
+agent Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+aggressive Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+ago Core vocabulary: High-frequency ●●● S1 W1 adverb
+agree Core vocabulary: High-frequency ●●● S1 W1 verb
+agreement Core vocabulary: High-frequency ●●● S2 W1 noun
+ahead Core vocabulary: High-frequency ●●● S1 W2 adverb
+aim Core vocabulary: High-frequency ●●● S2 W2 noun
+aim Core vocabulary: High-frequency ●●● S2 W2 verb
+air Core vocabulary: High-frequency ●●● S1 W1 noun
+aircraft Core vocabulary: High-frequency ●●● S2 W2 noun
+airline Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+airport Core vocabulary: High-frequency ●●● S3 W3 noun
+alarm Core vocabulary: High-frequency ●●● S2 noun
+album Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+alcohol Core vocabulary: High-frequency ●●● S2 W2 noun
+alive Core vocabulary: High-frequency ●●● S2 W3 adjective
+all Core vocabulary: High-frequency ●●● S1 W1 determiner , predeterminer , pronoun
+all Core vocabulary: High-frequency ●●● S1 W1 adverb
+allow Core vocabulary: High-frequency ●●● S1 W1 verb
+almost Core vocabulary: High-frequency ●●● S1 W1 adverb
+alone Core vocabulary: High-frequency ●●● S2 W1 adjective , adverb
+along Core vocabulary: High-frequency ●●● S1 W1 adverb
+along Core vocabulary: High-frequency ●●● S1 W1 preposition
+aloud Core vocabulary: High-frequency ●●● S3 W2 adverb
+already Core vocabulary: High-frequency ●●● S1 W1 adverb
+also Core vocabulary: High-frequency ●●● S1 W1 adverb
+alter Core vocabulary: High-frequency ●●● S3 W3 verb
+alternative Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+alternative Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+although Core vocabulary: High-frequency ●●● S1 W1 conjunction
+altogether Core vocabulary: High-frequency ●●● S2 W3 adverb
+always Core vocabulary: High-frequency ●●● S1 W1 adverb
+amazed Core vocabulary: High-frequency ●●● S2 adjective
+amazing Core vocabulary: High-frequency ●●● S2 adjective
+ambulance Core vocabulary: Medium-frequency ●●○ S3 noun
+among Core vocabulary: High-frequency ●●● S2 W1 preposition
+amount Core vocabulary: High-frequency ●●● S1 W1 noun
+an Core vocabulary: High-frequency ●●● S1 W1 indefinite article , determiner
+analysis Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+and Core vocabulary: High-frequency ●●● S1 W1 conjunction
+angle Core vocabulary: High-frequency ●●● S3 W3 noun
+angry Core vocabulary: High-frequency ●●● S2 W2 adjective
+animal Core vocabulary: High-frequency ●●● S1 W1 noun
+announce Core vocabulary: High-frequency ●●● S2 W1 verb
+announcement Core vocabulary: High-frequency ●●● S3 W3 noun
+annoy Core vocabulary: Medium-frequency ●●○ S3 verb
+annoyed Core vocabulary: High-frequency ●●● S2 adjective
+annoying Core vocabulary: High-frequency ●●● S2 adjective
+another Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+answer Core vocabulary: High-frequency ●●● S1 W1 noun
+answer Core vocabulary: High-frequency ●●● S1 W2 verb
+anticipate Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+anxiety Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+anxious Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+any Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+any Core vocabulary: High-frequency ●●● S2 adverb
+anybody Core vocabulary: High-frequency ●●● S1 W3 pronoun
+anyhow Core vocabulary: Medium-frequency ●●○ S3 adverb
+anymore Core vocabulary: High-frequency ●●● S1 W3 adverb
+anyone Core vocabulary: High-frequency ●●● S1 W1 pronoun
+anything Core vocabulary: High-frequency ●●● S1 W1 pronoun
+anytime Core vocabulary: High-frequency ●●● S3 adverb
+anyway Core vocabulary: High-frequency ●●● S1 W2 adverb
+anywhere Core vocabulary: High-frequency ●●● S1 W3 adverb
+apart Core vocabulary: High-frequency ●●● S2 W1 adverb , adjective
+apartment Core vocabulary: High-frequency ●●● S2 W3 noun
+apologize Core vocabulary: High-frequency ●●● S2 verb
+apology Core vocabulary: High-frequency ●●● S3 noun
+apparently Core vocabulary: High-frequency ●●● S1 W2 adverb
+appeal Core vocabulary: High-frequency ●●● S2 W1 noun
+appeal Core vocabulary: High-frequency ●●● S3 W3 verb
+appear Core vocabulary: High-frequency ●●● S2 W1 verb
+apple Core vocabulary: High-frequency ●●● S2 W3 noun
+application Core vocabulary: High-frequency ●●● S1 W1 noun
+apply Core vocabulary: High-frequency ●●● S1 W1 verb
+appointment Core vocabulary: High-frequency ●●● S2 W2 noun
+appreciate Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+approach Core vocabulary: High-frequency ●●● S2 W1 noun
+approach Core vocabulary: High-frequency ●●● S3 W2 verb
+appropriate Core vocabulary: High-frequency ●●● S2 W1 adjective
+approve Core vocabulary: High-frequency ●●● S3 W2 verb
+April Core vocabulary: High-frequency ●●● S2 W2 noun
+architecture Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+area Core vocabulary: High-frequency ●●● S1 W1 noun
+argue Core vocabulary: High-frequency ●●● S2 W1 verb
+argument Core vocabulary: High-frequency ●●● S1 W1 noun
+arm Core vocabulary: High-frequency ●●● S1 W1 noun
+armed Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+army Core vocabulary: High-frequency ●●● S1 W1 noun
+around Core vocabulary: High-frequency ●●● S1 W1 adverb , preposition
+arrange Core vocabulary: High-frequency ●●● S2 W2 verb
+arrangement Core vocabulary: High-frequency ●●● S2 W2 noun
+arrest Core vocabulary: High-frequency ●●● S3 W2 verb
+arrest Core vocabulary: High-frequency ●●● S3 W2 noun
+arrive Core vocabulary: High-frequency ●●● S2 W1 verb
+art Core vocabulary: High-frequency ●●● S1 W1 noun
+article Core vocabulary: High-frequency ●●● S2 W1 noun
+artificial Core vocabulary: High-frequency ●●● S3 adjective
+artist Core vocabulary: High-frequency ●●● S3 W2 noun
+as Core vocabulary: High-frequency ●●● S1 W1 preposition , adverb
+as Core vocabulary: High-frequency ●●● S1 W1 conjunction
+ashamed Core vocabulary: Medium-frequency ●●○ S3 adjective
+aside Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+ask Core vocabulary: High-frequency ●●● S1 W1 verb
+asleep Core vocabulary: High-frequency ●●● S2 adjective
+aspect Core vocabulary: High-frequency ●●● S2 W1 noun
+assignment Core vocabulary: High-frequency ●●● S2 noun
+associate Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+assume Core vocabulary: High-frequency ●●● S2 W1 verb
+at Core vocabulary: High-frequency ●●● S1 W1 preposition
+atmosphere Core vocabulary: High-frequency ●●● S3 W2 noun
+attach Core vocabulary: High-frequency ●●● S2 W2 verb
+attack Core vocabulary: High-frequency ●●● S2 W2 noun
+attack Core vocabulary: High-frequency ●●● S3 W2 verb
+attempt Core vocabulary: High-frequency ●●● S2 W1 noun
+attempt Core vocabulary: High-frequency ●●● S2 W2 verb
+attend Core vocabulary: High-frequency ●●● S2 W2 verb
+attention Core vocabulary: High-frequency ●●● S2 W1 noun
+attitude Core vocabulary: High-frequency ●●● S2 W1 noun
+attorney Core vocabulary: High-frequency ●●● S2 W3 noun
+attract Core vocabulary: High-frequency ●●● S2 W2 verb
+attractive Core vocabulary: High-frequency ●●● S2 W2 adjective
+audience Core vocabulary: High-frequency ●●● S2 W2 noun
+august Core vocabulary: High-frequency ●●● S2 W2 noun
+aunt Core vocabulary: High-frequency ●●● S3 W3 noun
+automatic Core vocabulary: Medium-frequency ●●○ S3 adjective
+automatically Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+available Core vocabulary: High-frequency ●●● S1 W1 adjective
+average Core vocabulary: High-frequency ●●● S2 W2 adjective
+average Core vocabulary: High-frequency ●●● S2 W2 noun
+avoid Core vocabulary: High-frequency ●●● S2 W1 verb
+awake Core vocabulary: High-frequency ●●● S2 adjective
+award Core vocabulary: High-frequency ●●● S3 W2 noun
+aware Core vocabulary: High-frequency ●●● S1 W1 adjective
+away Core vocabulary: High-frequency ●●● S1 W1 adverb
+awful Core vocabulary: High-frequency ●●● S1 adjective
+awkward Core vocabulary: Medium-frequency ●●○ S3 adjective
+baby Core vocabulary: High-frequency ●●● S1 W1 noun
+back Core vocabulary: High-frequency ●●● S1 W1 adverb
+back Core vocabulary: High-frequency ●●● S1 W1 noun
+back Core vocabulary: High-frequency ●●● S2 W3 verb
+back Core vocabulary: High-frequency ●●● S2 W3 adjective
+background Core vocabulary: High-frequency ●●● S2 W2 noun
+backwards Core vocabulary: High-frequency ●●● S3 adverb
+bacon Core vocabulary: Medium-frequency ●●○ S3 noun
+bad Core vocabulary: High-frequency ●●● S1 W1 adjective
+badly Core vocabulary: High-frequency ●●● S3 W3 adverb
+bag Core vocabulary: High-frequency ●●● S1 W2 noun
+bake Core vocabulary: High-frequency ●●● S3 verb
+balance Core vocabulary: High-frequency ●●● S2 W2 noun
+balance Core vocabulary: High-frequency ●●● S3 verb
+ball Core vocabulary: High-frequency ●●● S1 W2 noun
+banana Core vocabulary: High-frequency ●●● S2 noun
+band Core vocabulary: High-frequency ●●● S2 W2 noun
+bang Core vocabulary: Medium-frequency ●●○ S3 noun
+bang Core vocabulary: Medium-frequency ●●○ S3 verb
+bank Core vocabulary: High-frequency ●●● S1 W1 noun
+bar Core vocabulary: High-frequency ●●● S1 W1 noun
+barbecue Core vocabulary: High-frequency ●●● S3 noun
+base Core vocabulary: High-frequency ●●● S1 W1 verb
+base Core vocabulary: High-frequency ●●● S2 W2 noun
+baseball Core vocabulary: High-frequency ●●● S3 W2 noun
+basement Core vocabulary: High-frequency ●●● S2 noun
+basic Core vocabulary: High-frequency ●●● S2 W1 adjective
+basically Core vocabulary: High-frequency ●●● S1 adverb
+basis Core vocabulary: High-frequency ●●● S2 W1 noun
+basket Core vocabulary: High-frequency ●●● S3 noun
+basketball Core vocabulary: High-frequency ●●● S3 noun
+bat Core vocabulary: High-frequency ●●● S3 noun
+bath Core vocabulary: High-frequency ●●● S2 W3 noun
+bathroom Core vocabulary: High-frequency ●●● S2 W3 noun
+battery Core vocabulary: High-frequency ●●● S2 noun
+be Core vocabulary: High-frequency ●●● S1 W1 auxiliary verb
+be Core vocabulary: High-frequency ●●● S1 W1 verb
+beach Core vocabulary: High-frequency ●●● S2 W2 noun
+bean Core vocabulary: High-frequency ●●● S2 noun
+bear Core vocabulary: High-frequency ●●● S2 W2 verb
+beard Core vocabulary: High-frequency ●●● S3 noun
+beat Core vocabulary: High-frequency ●●● S2 W2 verb
+beat Core vocabulary: Medium-frequency ●●○ S3 noun
+beautiful Core vocabulary: High-frequency ●●● S1 W2 adjective
+beauty Core vocabulary: High-frequency ●●● S3 W2 noun
+because Core vocabulary: High-frequency ●●● S1 W1 conjunction
+because Core vocabulary: High-frequency ●●● S1 W1 preposition
+become Core vocabulary: High-frequency ●●● S1 W1 verb
+bed Core vocabulary: High-frequency ●●● S1 W1 noun
+bedroom Core vocabulary: High-frequency ●●● S1 W2 noun
+beef Core vocabulary: High-frequency ●●● S3 noun
+beer Core vocabulary: High-frequency ●●● S2 W3 noun
+before Core vocabulary: High-frequency ●●● S1 W1 conjunction
+before Core vocabulary: High-frequency ●●● S1 W1 preposition
+before Core vocabulary: High-frequency ●●● S1 W1 adverb
+begin Core vocabulary: High-frequency ●●● S1 W1 verb
+beginning Core vocabulary: High-frequency ●●● S1 W2 noun
+behalf Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+behave Core vocabulary: High-frequency ●●● S3 W3 verb
+behaviour Core vocabulary: High-frequency ●●● S2 W1 noun
+behind Core vocabulary: High-frequency ●●● S1 W1 preposition , adverb
+belief Core vocabulary: High-frequency ●●● S3 W2 noun
+believe Core vocabulary: High-frequency ●●● S1 W1 verb
+bell Core vocabulary: High-frequency ●●● S2 W3 noun
+belong Core vocabulary: High-frequency ●●● S2 W2 verb
+below Core vocabulary: High-frequency ●●● S2 W2 adverb , preposition
+belt Core vocabulary: High-frequency ●●● S2 W3 noun
+bench Core vocabulary: High-frequency ●●● S2 W3 noun
+bend Core vocabulary: High-frequency ●●● S3 W3 verb
+benefit Core vocabulary: High-frequency ●●● S2 W1 noun
+beside Core vocabulary: High-frequency ●●● S3 W2 preposition
+best Core vocabulary: High-frequency ●●● S1 W1 adjective
+best Core vocabulary: High-frequency ●●● S1 W2 adverb
+best Core vocabulary: High-frequency ●●● S2 W2 noun
+bet Core vocabulary: High-frequency ●●● S1 verb
+bet Core vocabulary: High-frequency ●●● S3 noun
+better Core vocabulary: High-frequency ●●● S1 W1 adjective
+better Core vocabulary: High-frequency ●●● S1 W1 adverb
+between Core vocabulary: High-frequency ●●● S1 W1 adverb , preposition
+beyond Core vocabulary: High-frequency ●●● S2 W1 preposition , adverb
+big Core vocabulary: High-frequency ●●● S1 W1 adjective
+bike Core vocabulary: High-frequency ●●● S2 noun
+bill Core vocabulary: High-frequency ●●● S1 W1 noun
+bin Core vocabulary: High-frequency ●●● S2 noun
+bird Core vocabulary: High-frequency ●●● S2 W2 noun
+birth Core vocabulary: High-frequency ●●● S2 W2 noun
+birthday Core vocabulary: High-frequency ●●● S1 W3 noun
+biscuit Core vocabulary: High-frequency ●●● S2 noun
+bit Core vocabulary: High-frequency ●●● S1 adverb , pronoun
+bit Core vocabulary: High-frequency ●●● S1 W1 noun
+bite Core vocabulary: High-frequency ●●● S2 verb
+bite Core vocabulary: High-frequency ●●● S3 noun
+bitter Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+black Core vocabulary: High-frequency ●●● S1 W1 adjective
+black Core vocabulary: High-frequency ●●● S2 W2 noun
+blackboard Core vocabulary: High-frequency ●●● S3 noun
+blade Core vocabulary: Medium-frequency ●●○ S3 noun
+blame Core vocabulary: High-frequency ●●● S2 W3 verb
+blame Core vocabulary: High-frequency ●●● S3 W2 noun
+blank Core vocabulary: Medium-frequency ●●○ S3 adjective
+bless Core vocabulary: Medium-frequency ●●○ S3 verb
+blind Core vocabulary: High-frequency ●●● S2 W3 adjective
+block Core vocabulary: High-frequency ●●● S2 W2 noun
+block Core vocabulary: High-frequency ●●● S3 verb
+bloke Core vocabulary: Medium-frequency ●●○ S3 noun
+blond Core vocabulary: High-frequency ●●● S3 adjective
+blonde Core vocabulary: High-frequency ●●● S3 adjective
+blood Core vocabulary: High-frequency ●●● S2 W1 noun
+blouse Core vocabulary: High-frequency ●●● S3 noun
+blow Core vocabulary: High-frequency ●●● S2 W3 verb
+blow Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+blue Core vocabulary: High-frequency ●●● S1 W2 adjective
+blue Core vocabulary: High-frequency ●●● S3 W3 noun
+board Core vocabulary: High-frequency ●●● S1 W1 noun
+boat Core vocabulary: High-frequency ●●● S1 W2 noun
+body Core vocabulary: High-frequency ●●● S1 W1 noun
+boil Core vocabulary: High-frequency ●●● S3 verb
+bomb Core vocabulary: High-frequency ●●● S3 W3 noun
+bone Core vocabulary: High-frequency ●●● S2 W2 noun
+book Core vocabulary: High-frequency ●●● S1 W1 noun
+book Core vocabulary: Medium-frequency ●●○ S3 verb
+bookshelf Core vocabulary: High-frequency ●●● S3 noun
+boot Core vocabulary: High-frequency ●●● S2 W3 noun
+border Core vocabulary: High-frequency ●●● S3 W2 noun
+bored Core vocabulary: High-frequency ●●● S3 adjective
+boring Core vocabulary: High-frequency ●●● S2 adjective
+born Core vocabulary: High-frequency ●●● S1 W1 verb
+borrow Core vocabulary: High-frequency ●●● S2 W3 verb
+boss Core vocabulary: High-frequency ●●● S2 W3 noun
+both Core vocabulary: High-frequency ●●● S1 W1 determiner , predeterminer , pronoun
+bother Core vocabulary: High-frequency ●●● S1 W3 verb
+bottle Core vocabulary: High-frequency ●●● S1 W2 noun
+bottom Core vocabulary: High-frequency ●●● S1 W3 noun
+bottom Core vocabulary: High-frequency ●●● S1 W3 adjective
+bounce Core vocabulary: High-frequency ●●● S3 verb
+bound Core vocabulary: Medium-frequency ●●○ S3 adjective
+bowl Core vocabulary: High-frequency ●●● S2 W3 noun
+bowling Core vocabulary: High-frequency ●●● S3 noun
+box Core vocabulary: High-frequency ●●● S1 W1 noun
+boy Core vocabulary: High-frequency ●●● S1 W1 noun
+boyfriend Core vocabulary: High-frequency ●●● S3 noun
+brain Core vocabulary: High-frequency ●●● S2 W2 noun
+brake Core vocabulary: High-frequency ●●● S3 noun
+branch Core vocabulary: High-frequency ●●● S2 W2 noun
+brave Core vocabulary: High-frequency ●●● S3 adjective
+bread Core vocabulary: High-frequency ●●● S2 W3 noun
+break Core vocabulary: High-frequency ●●● S1 W1 verb
+break Core vocabulary: High-frequency ●●● S2 W2 noun
+breakfast Core vocabulary: High-frequency ●●● S2 W2 noun
+breast Core vocabulary: High-frequency ●●● S3 noun
+breath Core vocabulary: High-frequency ●●● S3 W2 noun
+breathe Core vocabulary: High-frequency ●●● S3 W3 verb
+brick Core vocabulary: High-frequency ●●● S2 W3 noun
+bridge Core vocabulary: High-frequency ●●● S2 W2 noun
+brief Core vocabulary: High-frequency ●●● S2 W2 adjective
+bright Core vocabulary: High-frequency ●●● S2 W2 adjective
+brilliant Core vocabulary: High-frequency ●●● S2 W3 adjective
+bring Core vocabulary: High-frequency ●●● S1 W1 verb
+broad Core vocabulary: High-frequency ●●● S2 W2 adjective
+broken Core vocabulary: High-frequency ●●● S3 W2 adjective
+brother Core vocabulary: High-frequency ●●● S1 W1 noun
+brown Core vocabulary: High-frequency ●●● S2 W2 adjective
+brown Core vocabulary: High-frequency ●●● S2 W2 noun
+brush Core vocabulary: High-frequency ●●● S3 noun
+brush Core vocabulary: High-frequency ●●● S3 verb
+bucket Core vocabulary: High-frequency ●●● S2 noun
+budget Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+bug Core vocabulary: Medium-frequency ●●○ S3 noun
+build Core vocabulary: High-frequency ●●● S1 W1 verb
+builder Core vocabulary: Medium-frequency ●●○ S3 noun
+building Core vocabulary: High-frequency ●●● S1 W1 noun
+bump Core vocabulary: High-frequency ●●● S3 verb
+bunch Core vocabulary: High-frequency ●●● S2 noun
+burger Core vocabulary: High-frequency ●●● S3 noun
+burn Core vocabulary: High-frequency ●●● S2 W3 verb
+burn Core vocabulary: Medium-frequency ●●○ S3 noun
+bus Core vocabulary: High-frequency ●●● S1 W2 noun
+bush Core vocabulary: High-frequency ●●● S3 noun
+business Core vocabulary: High-frequency ●●● S1 W1 noun
+busy Core vocabulary: High-frequency ●●● S1 W2 adjective
+but Core vocabulary: High-frequency ●●● S1 W1 conjunction
+but Core vocabulary: High-frequency ●●● S2 W3 preposition
+butcher Core vocabulary: Medium-frequency ●●○ S3 noun
+butter Core vocabulary: High-frequency ●●● S2 noun
+button Core vocabulary: High-frequency ●●● S2 noun
+buy Core vocabulary: High-frequency ●●● S1 W1 verb
+buyer Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+by Core vocabulary: High-frequency ●●● S1 W1 preposition
+by Core vocabulary: High-frequency ●●● S1 W1 adverb
+bye Core vocabulary: High-frequency ●●● S1 interjection
+cab Core vocabulary: High-frequency ●●● S3 noun
+café Core vocabulary: High-frequency ●●● S2 noun
+cafeteria Core vocabulary: High-frequency ●●● S3 noun
+cake Core vocabulary: High-frequency ●●● S2 W3 noun
+calculate Core vocabulary: High-frequency ●●● S2 W3 verb
+calculator Core vocabulary: High-frequency ●●● S3 noun
+calendar Core vocabulary: High-frequency ●●● S3 noun
+call Core vocabulary: High-frequency ●●● S1 W1 verb
+call Core vocabulary: High-frequency ●●● S1 W1 noun
+calm Core vocabulary: High-frequency ●●● S3 W3 adjective
+camera Core vocabulary: High-frequency ●●● S2 W3 noun
+camp Core vocabulary: High-frequency ●●● S3 W3 noun
+campaign Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+camping Core vocabulary: High-frequency ●●● S3 noun
+campus Core vocabulary: High-frequency ●●● S2 W3 noun
+can Core vocabulary: High-frequency ●●● S1 W1 modal verb
+can Core vocabulary: High-frequency ●●● S2 noun
+cancel Core vocabulary: High-frequency ●●● S2 verb
+cancer Core vocabulary: High-frequency ●●● S2 W2 noun
+candle Core vocabulary: Medium-frequency ●●○ S3 noun
+candy Core vocabulary: High-frequency ●●● S3 noun
+cap Core vocabulary: High-frequency ●●● S3 noun
+capable Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+capital Core vocabulary: High-frequency ●●● S3 W1 noun
+car Core vocabulary: High-frequency ●●● S1 W1 noun
+card Core vocabulary: High-frequency ●●● S1 W2 noun
+cardigan Core vocabulary: High-frequency ●●● S3 noun
+care Core vocabulary: High-frequency ●●● S1 W1 noun
+care Core vocabulary: High-frequency ●●● S1 W2 verb
+career Core vocabulary: High-frequency ●●● S2 W2 noun
+careful Core vocabulary: High-frequency ●●● S1 W2 adjective
+carefully Core vocabulary: High-frequency ●●● S2 W2 adverb
+carpet Core vocabulary: High-frequency ●●● S2 W3 noun
+carrot Core vocabulary: High-frequency ●●● S3 noun
+carry Core vocabulary: High-frequency ●●● S1 W1 verb
+cartoon Core vocabulary: Medium-frequency ●●○ S3 noun
+case Core vocabulary: High-frequency ●●● S1 W1 noun
+cash Core vocabulary: High-frequency ●●● S2 W2 noun
+cat Core vocabulary: High-frequency ●●● S1 W3 noun
+catch Core vocabulary: High-frequency ●●● S1 W1 verb
+category Core vocabulary: High-frequency ●●● S2 W2 noun
+cause Core vocabulary: High-frequency ●●● S1 W1 verb
+cause Core vocabulary: High-frequency ●●● S2 W1 noun
+CD Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+ceiling Core vocabulary: High-frequency ●●● S3 W3 noun
+celebration Core vocabulary: Medium-frequency ●●○ S3 noun
+cell Core vocabulary: High-frequency ●●● S3 W2 noun
+cellphone Core vocabulary: High-frequency ●●● S2 W3 noun
+cent Core vocabulary: High-frequency ●●● S1 W1 noun
+centimetre Core vocabulary: High-frequency ●●● S3 W3 noun
+central Core vocabulary: High-frequency ●●● S1 W1 adjective
+centre Core vocabulary: High-frequency ●●● S1 W1 noun
+century Core vocabulary: High-frequency ●●● S2 W1 noun
+cereal Core vocabulary: High-frequency ●●● S3 noun
+ceremony Core vocabulary: High-frequency ●●● S3 W2 noun
+certain Core vocabulary: High-frequency ●●● S1 W1 adjective
+certainly Core vocabulary: High-frequency ●●● S1 W1 adverb
+certificate Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+chain Core vocabulary: High-frequency ●●● S3 W2 noun
+chair Core vocabulary: High-frequency ●●● S1 W2 noun
+challenge Core vocabulary: High-frequency ●●● S2 W2 noun
+challenge Core vocabulary: High-frequency ●●● S3 W3 verb
+chance Core vocabulary: High-frequency ●●● S1 W1 noun
+change Core vocabulary: High-frequency ●●● S1 W1 verb
+change Core vocabulary: High-frequency ●●● S1 W1 noun
+channel Core vocabulary: High-frequency ●●● S3 W2 noun
+chap Core vocabulary: Medium-frequency ●●○ S3 noun
+chapter Core vocabulary: High-frequency ●●● S3 W1 noun
+character Core vocabulary: High-frequency ●●● S1 W1 noun
+characteristic Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+charge Core vocabulary: High-frequency ●●● S1 W1 noun
+charge Core vocabulary: High-frequency ●●● S1 W2 verb
+charity Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+chart Core vocabulary: High-frequency ●●● S3 W3 noun
+chase Core vocabulary: High-frequency ●●● S3 verb
+cheap Core vocabulary: High-frequency ●●● S1 W2 adjective
+cheat Core vocabulary: Medium-frequency ●●○ S3 verb
+check Core vocabulary: High-frequency ●●● S1 W2 verb
+check Core vocabulary: High-frequency ●●● S1 W3 noun
+cheese Core vocabulary: High-frequency ●●● S2 W3 noun
+chemical Core vocabulary: High-frequency ●●● S3 W3 noun
+chemist Core vocabulary: Medium-frequency ●●○ S3 noun
+cheque Core vocabulary: High-frequency ●●● S2 noun
+cherry Core vocabulary: Medium-frequency ●●○ S3 noun
+chest Core vocabulary: High-frequency ●●● S2 W3 noun
+chew Core vocabulary: High-frequency ●●● S2 verb
+chicken Core vocabulary: High-frequency ●●● S2 noun
+chief Core vocabulary: High-frequency ●●● S2 W2 adjective
+child Core vocabulary: High-frequency ●●● S1 W1 noun
+chip Core vocabulary: High-frequency ●●● S2 W3 noun
+chocolate Core vocabulary: High-frequency ●●● S2 noun
+choice Core vocabulary: High-frequency ●●● S1 W1 noun
+choose Core vocabulary: High-frequency ●●● S1 W1 verb
+chop Core vocabulary: High-frequency ●●● S3 verb
+Christmas Core vocabulary: High-frequency ●●● S2 W2 noun
+church Core vocabulary: High-frequency ●●● S1 W1 noun
+cigarette Core vocabulary: High-frequency ●●● S2 W3 noun
+cinema Core vocabulary: High-frequency ●●● S3 noun
+circle Core vocabulary: High-frequency ●●● S2 W2 noun
+circumstance Core vocabulary: High-frequency ●●● S2 W1 noun
+citizen Core vocabulary: High-frequency ●●● S2 W2 noun
+city Core vocabulary: High-frequency ●●● S1 W1 noun
+civil Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+claim Core vocabulary: High-frequency ●●● S1 W1 verb
+claim Core vocabulary: High-frequency ●●● S2 W1 noun
+class Core vocabulary: High-frequency ●●● S1 W1 noun
+classroom Core vocabulary: High-frequency ●●● S3 W3 noun
+clean Core vocabulary: High-frequency ●●● S2 W2 adjective
+clean Core vocabulary: High-frequency ●●● S1 W3 verb
+cleaner Core vocabulary: Medium-frequency ●●○ S3 noun
+clear Core vocabulary: High-frequency ●●● S1 W1 adjective
+clear Core vocabulary: High-frequency ●●● S1 W2 verb
+clearly Core vocabulary: High-frequency ●●● S1 W1 adverb
+clerk Core vocabulary: Medium-frequency ●●○ S3 noun
+clever Core vocabulary: High-frequency ●●● S2 adjective
+click Core vocabulary: High-frequency ●●● S3 verb
+client Core vocabulary: High-frequency ●●● S2 W1 noun
+clock Core vocabulary: High-frequency ●●● S2 W3 noun
+close Core vocabulary: High-frequency ●●● S1 W1 verb
+close Core vocabulary: High-frequency ●●● S1 W1 adjective
+close Core vocabulary: High-frequency ●●● S2 W2 adverb
+closed Core vocabulary: High-frequency ●●● S3 adjective
+closely Core vocabulary: High-frequency ●●● S3 W2 adverb
+closet Core vocabulary: High-frequency ●●● S3 noun
+cloth Core vocabulary: Medium-frequency ●●○ S3 noun
+clothes Core vocabulary: High-frequency ●●● S2 W2 noun
+clothing Core vocabulary: High-frequency ●●● S3 W3 noun
+cloud Core vocabulary: High-frequency ●●● S3 W3 noun
+cloudy Core vocabulary: High-frequency ●●● S2 W3 adjective
+club Core vocabulary: High-frequency ●●● S1 W1 noun
+clue Core vocabulary: High-frequency ●●● S2 noun
+coach Core vocabulary: High-frequency ●●● S3 W2 noun
+coal Core vocabulary: High-frequency ●●● S2 W2 noun
+coast Core vocabulary: High-frequency ●●● S3 W2 noun
+coat Core vocabulary: High-frequency ●●● S2 W3 noun
+code Core vocabulary: High-frequency ●●● S2 W2 noun
+coffee Core vocabulary: High-frequency ●●● S1 W2 noun
+coin Core vocabulary: High-frequency ●●● S3 noun
+cold Core vocabulary: High-frequency ●●● S1 W1 adjective
+cold Core vocabulary: High-frequency ●●● S2 W3 noun
+collapse Core vocabulary: Medium-frequency ●●○ S3 verb
+collar Core vocabulary: High-frequency ●●● S3 noun
+colleague Core vocabulary: High-frequency ●●● S2 W2 noun
+collect Core vocabulary: High-frequency ●●● S1 W2 verb
+collection Core vocabulary: High-frequency ●●● S2 W1 noun
+college Core vocabulary: High-frequency ●●● S1 W2 noun
+colour Core vocabulary: High-frequency ●●● S1 W1 noun
+comb Core vocabulary: High-frequency ●●● S3 noun
+comb Core vocabulary: High-frequency ●●● S3 verb
+combination Core vocabulary: High-frequency ●●● S3 W2 noun
+combine Core vocabulary: High-frequency ●●● S3 W2 verb
+come Core vocabulary: High-frequency ●●● S1 W1 verb
+comfortable Core vocabulary: High-frequency ●●● S2 W3 adjective
+comment Core vocabulary: High-frequency ●●● S1 W2 noun
+comment Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+commercial Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+commission Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+commit Core vocabulary: High-frequency ●●● S2 W2 verb
+commitment Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+committee Core vocabulary: High-frequency ●●● S3 W1 noun
+common Core vocabulary: High-frequency ●●● S1 W1 adjective
+communicate Core vocabulary: High-frequency ●●● S3 W3 verb
+communication Core vocabulary: High-frequency ●●● S2 W1 noun
+community Core vocabulary: High-frequency ●●● S1 W1 noun
+company Core vocabulary: High-frequency ●●● S1 W1 noun
+compare Core vocabulary: High-frequency ●●● S1 W1 verb
+compete Core vocabulary: High-frequency ●●● S3 W3 verb
+competition Core vocabulary: High-frequency ●●● S2 W1 noun
+competitive Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+complain Core vocabulary: High-frequency ●●● S2 W3 verb
+complaint Core vocabulary: High-frequency ●●● S3 W3 noun
+complete Core vocabulary: High-frequency ●●● S2 W1 adjective
+complete Core vocabulary: High-frequency ●●● S2 W1 verb
+completely Core vocabulary: High-frequency ●●● S1 W2 adverb
+complicated Core vocabulary: High-frequency ●●● S2 W3 adjective
+computer Core vocabulary: High-frequency ●●● S1 W1 noun
+concentrate Core vocabulary: High-frequency ●●● S2 W2 verb
+concentration Core vocabulary: High-frequency ●●● S3 W2 noun
+concern Core vocabulary: High-frequency ●●● S3 W1 noun
+concerned Core vocabulary: High-frequency ●●● S2 W2 adjective
+concert Core vocabulary: High-frequency ●●● S3 W3 noun
+conclusion Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+condition Core vocabulary: High-frequency ●●● S2 W1 noun
+conference Core vocabulary: High-frequency ●●● S2 W1 noun
+confidence Core vocabulary: High-frequency ●●● S2 W2 noun
+confident Core vocabulary: High-frequency ●●● S3 W3 adjective
+confirm Core vocabulary: High-frequency ●●● S2 W2 verb
+confused Core vocabulary: High-frequency ●●● S3 adjective
+confusing Core vocabulary: High-frequency ●●● S3 adjective
+confusion Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+congratulation Core vocabulary: High-frequency ●●● S3 noun
+connect Core vocabulary: High-frequency ●●● S2 W2 verb
+connected Core vocabulary: High-frequency ●●● S3 W3 adjective
+connection Core vocabulary: High-frequency ●●● S3 W2 noun
+conscious Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+consider Core vocabulary: High-frequency ●●● S1 W1 verb
+consistent Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+constant Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+constantly Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+consult Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+consumer Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+contact Core vocabulary: High-frequency ●●● S2 W2 noun
+contact Core vocabulary: High-frequency ●●● S2 W2 verb
+contain Core vocabulary: High-frequency ●●● S2 W1 verb
+content Core vocabulary: High-frequency ●●● S3 W2 noun
+continue Core vocabulary: High-frequency ●●● S1 W1 verb
+continuous Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+contract Core vocabulary: High-frequency ●●● S1 W1 noun
+contribute Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+control Core vocabulary: High-frequency ●●● S1 W1 noun
+control Core vocabulary: High-frequency ●●● S2 W1 verb
+convenient Core vocabulary: Medium-frequency ●●○ S3 adjective
+conversation Core vocabulary: High-frequency ●●● S1 W2 noun
+convince Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+cook Core vocabulary: High-frequency ●●● S1 W3 verb
+cook Core vocabulary: High-frequency ●●● S2 noun
+cookie Core vocabulary: High-frequency ●●● S3 W3 noun
+cool Core vocabulary: High-frequency ●●● S2 W3 adjective
+cool Core vocabulary: Medium-frequency ●●○ S3 verb
+cooperation Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+cope Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+copy Core vocabulary: High-frequency ●●● S1 W2 noun
+copy Core vocabulary: High-frequency ●●● S2 verb
+corn Core vocabulary: Medium-frequency ●●○ S3 noun
+corner Core vocabulary: High-frequency ●●● S1 W2 noun
+correct Core vocabulary: High-frequency ●●● S1 W2 adjective
+correct Core vocabulary: Medium-frequency ●●○ S3 verb
+corridor Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+cost Core vocabulary: High-frequency ●●● S1 W1 noun
+cost Core vocabulary: High-frequency ●●● S1 W2 verb
+cottage Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+couch Core vocabulary: High-frequency ●●● S3 noun
+cough Core vocabulary: High-frequency ●●● S3 W3 verb
+cough Core vocabulary: High-frequency ●●● S3 W3 noun
+could Core vocabulary: High-frequency ●●● S1 W1 modal verb
+council Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+count Core vocabulary: High-frequency ●●● S2 W3 verb
+counter Core vocabulary: High-frequency ●●● S3 noun
+country Core vocabulary: High-frequency ●●● S1 W1 noun
+countryside Core vocabulary: High-frequency ●●● S3 W3 noun
+couple Core vocabulary: High-frequency ●●● S1 W1 noun
+course Core vocabulary: High-frequency ●●● S1 W1 noun
+court Core vocabulary: High-frequency ●●● S1 W1 noun
+cousin Core vocabulary: High-frequency ●●● S2 noun
+cover Core vocabulary: High-frequency ●●● S1 W1 verb
+cover Core vocabulary: High-frequency ●●● S1 W2 noun
+cow Core vocabulary: High-frequency ●●● S2 noun
+crack Core vocabulary: High-frequency ●●● S2 W2 verb
+crack Core vocabulary: High-frequency ●●● S3 noun
+crash Core vocabulary: High-frequency ●●● S3 W2 verb
+crash Core vocabulary: High-frequency ●●● S3 W2 noun
+crazy Core vocabulary: High-frequency ●●● S2 adjective
+cream Core vocabulary: High-frequency ●●● S2 noun
+create Core vocabulary: High-frequency ●●● S2 W1 verb
+credit Core vocabulary: High-frequency ●●● S2 W2 noun
+crew Core vocabulary: High-frequency ●●● S3 W3 noun
+crime Core vocabulary: High-frequency ●●● S2 W2 noun
+criminal Core vocabulary: High-frequency ●●● S3 W2 adjective
+crisis Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+critical Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+criticism Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+cross Core vocabulary: High-frequency ●●● S2 W2 verb
+cross Core vocabulary: High-frequency ●●● S3 W3 noun
+cross Core vocabulary: High-frequency ●●● S2 adjective
+crowd Core vocabulary: High-frequency ●●● S3 W2 noun
+crowded Core vocabulary: High-frequency ●●● S3 adjective
+cruel Core vocabulary: High-frequency ●●● S3 adjective
+cry Core vocabulary: High-frequency ●●● S2 W2 verb
+culture Core vocabulary: High-frequency ●●● S2 W1 noun
+cup Core vocabulary: High-frequency ●●● S1 W1 noun
+cupboard Core vocabulary: High-frequency ●●● S2 noun
+curly Core vocabulary: High-frequency ●●● S3 adjective
+current Core vocabulary: High-frequency ●●● S2 W2 adjective
+currently Core vocabulary: High-frequency ●●● S2 W2 adverb
+curtain Core vocabulary: High-frequency ●●● S3 W3 noun
+curve Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+cushion Core vocabulary: High-frequency ●●● S3 noun
+customer Core vocabulary: High-frequency ●●● S1 W1 noun
+cut Core vocabulary: High-frequency ●●● S1 W1 verb
+cut Core vocabulary: High-frequency ●●● S2 W2 noun
+cute Core vocabulary: High-frequency ●●● S2 adjective
+cycle Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+dad Core vocabulary: High-frequency ●●● S1 W3 noun
+daddy Core vocabulary: High-frequency ●●● S1 noun
+daily Core vocabulary: High-frequency ●●● S3 W2 adjective
+damage Core vocabulary: High-frequency ●●● S3 W2 noun
+damage Core vocabulary: High-frequency ●●● S3 W3 verb
+dance Core vocabulary: High-frequency ●●● S2 W3 noun
+dance Core vocabulary: High-frequency ●●● S2 W3 verb
+danger Core vocabulary: High-frequency ●●● S2 W2 noun
+dangerous Core vocabulary: High-frequency ●●● S2 W2 adjective
+dare Core vocabulary: Medium-frequency ●●○ S3 W3 verb , modal verb
+dark Core vocabulary: High-frequency ●●● S2 W1 adjective
+dark Core vocabulary: High-frequency ●●● S3 W3 noun
+darling Core vocabulary: Medium-frequency ●●○ S3 noun
+data Core vocabulary: High-frequency ●●● S1 W1 noun
+database Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+date Core vocabulary: High-frequency ●●● S1 W1 noun
+date Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+daughter Core vocabulary: High-frequency ●●● S1 W1 noun
+day Core vocabulary: High-frequency ●●● S1 W1 noun
+dead Core vocabulary: High-frequency ●●● S1 W1 adjective
+deal Core vocabulary: High-frequency ●●● S1 W1 noun
+deal Core vocabulary: High-frequency ●●● S1 W1 verb
+dear Core vocabulary: High-frequency ●●● S1 interjection
+dear Core vocabulary: Medium-frequency ●●○ S3 noun
+death Core vocabulary: High-frequency ●●● S1 W1 noun
+debate Core vocabulary: High-frequency ●●● S2 W2 noun
+debt Core vocabulary: High-frequency ●●● S3 W2 noun
+December Core vocabulary: High-frequency ●●● S2 W2 noun
+decent Core vocabulary: Medium-frequency ●●○ S3 adjective
+decide Core vocabulary: High-frequency ●●● S1 W1 verb
+decision Core vocabulary: High-frequency ●●● S1 W1 noun
+deck Core vocabulary: High-frequency ●●● S3 noun
+deep Core vocabulary: High-frequency ●●● S2 W1 adjective
+defence Core vocabulary: High-frequency ●●● S2 W1 noun
+defend Core vocabulary: High-frequency ●●● S3 W3 verb
+define Core vocabulary: High-frequency ●●● S2 W2 verb
+definite Core vocabulary: Medium-frequency ●●○ S3 adjective
+definitely Core vocabulary: High-frequency ●●● S1 adverb
+definition Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+degree Core vocabulary: High-frequency ●●● S2 W1 noun
+deliberately Core vocabulary: Medium-frequency ●●○ S3 adverb
+delicious Core vocabulary: High-frequency ●●● S2 adjective
+deliver Core vocabulary: High-frequency ●●● S2 W2 verb
+delivery Core vocabulary: High-frequency ●●● S3 W3 noun
+demand Core vocabulary: High-frequency ●●● S2 W1 noun
+dentist Core vocabulary: High-frequency ●●● S3 noun
+deny Core vocabulary: High-frequency ●●● S3 W2 verb
+department Core vocabulary: High-frequency ●●● S2 W1 noun
+depend Core vocabulary: High-frequency ●●● S1 W2 verb
+deposit Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+depth Core vocabulary: High-frequency ●●● S3 W3 noun
+describe Core vocabulary: High-frequency ●●● S2 W1 verb
+description Core vocabulary: High-frequency ●●● S2 W2 noun
+deserve Core vocabulary: High-frequency ●●● S3 W3 verb
+design Core vocabulary: High-frequency ●●● S2 W1 noun
+design Core vocabulary: High-frequency ●●● S3 W1 verb
+desk Core vocabulary: High-frequency ●●● S2 W2 noun
+desperate Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+despite Core vocabulary: High-frequency ●●● S3 W1 preposition
+dessert Core vocabulary: High-frequency ●●● S2 noun
+destroy Core vocabulary: High-frequency ●●● S2 W2 verb
+detail Core vocabulary: High-frequency ●●● S2 W1 noun
+develop Core vocabulary: High-frequency ●●● S2 W1 verb
+development Core vocabulary: High-frequency ●●● S1 W1 noun
+device Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+devil Core vocabulary: Medium-frequency ●●○ S3 noun
+diagram Core vocabulary: Medium-frequency ●●○ S3 noun
+dialogue Core vocabulary: High-frequency ●●● S3 noun
+diamond Core vocabulary: Medium-frequency ●●○ S3 noun
+diary Core vocabulary: Medium-frequency ●●○ S3 noun
+dictionary Core vocabulary: High-frequency ●●● S3 noun
+die Core vocabulary: High-frequency ●●● S1 W1 verb
+diet Core vocabulary: High-frequency ●●● S3 W2 noun
+difference Core vocabulary: High-frequency ●●● S1 W1 noun
+different Core vocabulary: High-frequency ●●● S1 W1 adjective
+difficult Core vocabulary: High-frequency ●●● S1 W1 adjective
+difficulty Core vocabulary: High-frequency ●●● S2 W1 noun
+dig Core vocabulary: High-frequency ●●● S2 verb
+dinner Core vocabulary: High-frequency ●●● S1 W2 noun
+direct Core vocabulary: High-frequency ●●● S2 W1 adjective
+direct Core vocabulary: High-frequency ●●● S3 W2 verb
+direction Core vocabulary: High-frequency ●●● S1 W1 noun
+directly Core vocabulary: High-frequency ●●● S2 W2 adverb
+director Core vocabulary: High-frequency ●●● S2 W1 noun
+directory Core vocabulary: Medium-frequency ●●○ S3 noun
+dirt Core vocabulary: High-frequency ●●● S3 noun
+dirty Core vocabulary: High-frequency ●●● S2 W3 adjective
+disabled Core vocabulary: High-frequency ●●● S3 W3 adjective
+disagree Core vocabulary: High-frequency ●●● S3 verb
+disappear Core vocabulary: High-frequency ●●● S2 W2 verb
+disappointed Core vocabulary: High-frequency ●●● S3 W3 adjective
+disaster Core vocabulary: High-frequency ●●● S3 W3 noun
+disc Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+discipline Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+discount Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+discover Core vocabulary: High-frequency ●●● S2 W1 verb
+discuss Core vocabulary: High-frequency ●●● S2 W1 verb
+discussion Core vocabulary: High-frequency ●●● S2 W1 noun
+disease Core vocabulary: High-frequency ●●● S3 W1 noun
+disgusting Core vocabulary: High-frequency ●●● S2 adjective
+dish Core vocabulary: High-frequency ●●● S2 W2 noun
+display Core vocabulary: High-frequency ●●● S3 W2 noun
+distance Core vocabulary: High-frequency ●●● S2 W2 noun
+distinguish Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+district Core vocabulary: High-frequency ●●● S3 W2 noun
+divide Core vocabulary: High-frequency ●●● S2 W2 verb
+division Core vocabulary: High-frequency ●●● S3 W1 noun
+divorce Core vocabulary: High-frequency ●●● S2 W2 noun
+divorce Core vocabulary: High-frequency ●●● S2 W3 verb
+divorced Core vocabulary: High-frequency ●●● S2 W3 adjective
+do Core vocabulary: High-frequency ●●● S1 W1 auxiliary verb
+do Core vocabulary: High-frequency ●●● S1 W1 verb
+doctor Core vocabulary: High-frequency ●●● S1 W1 noun
+document Core vocabulary: High-frequency ●●● S2 W2 noun
+dog Core vocabulary: High-frequency ●●● S1 W1 noun
+doll Core vocabulary: High-frequency ●●● S3 noun
+dollar Core vocabulary: High-frequency ●●● S1 W2 noun
+door Core vocabulary: High-frequency ●●● S1 W1 noun
+dot Core vocabulary: High-frequency ●●● S2 noun
+double Core vocabulary: High-frequency ●●● S1 W2 adjective
+double Core vocabulary: High-frequency ●●● S3 W3 noun
+double Core vocabulary: High-frequency ●●● S3 verb
+doubt Core vocabulary: High-frequency ●●● S1 W1 noun
+doubt Core vocabulary: High-frequency ●●● S2 verb
+down Core vocabulary: High-frequency ●●● S1 W1 adverb , preposition , adjective
+download Core vocabulary: High-frequency ●●● S2 W2 verb
+downstairs Core vocabulary: High-frequency ●●● S2 adverb
+downtown Core vocabulary: High-frequency ●●● S3 W3 adverb
+dozen Core vocabulary: High-frequency ●●● S2 W3 number
+draft Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+drag Core vocabulary: High-frequency ●●● S3 W3 verb
+draw Core vocabulary: High-frequency ●●● S1 W1 verb
+draw Core vocabulary: Medium-frequency ●●○ S3 noun
+drawer Core vocabulary: High-frequency ●●● S3 noun
+drawing Core vocabulary: High-frequency ●●● S3 W3 noun
+dream Core vocabulary: High-frequency ●●● S2 W2 noun
+dream Core vocabulary: High-frequency ●●● S3 W3 verb
+dress Core vocabulary: High-frequency ●●● S2 W2 noun
+dress Core vocabulary: High-frequency ●●● S2 W2 verb
+drink Core vocabulary: High-frequency ●●● S1 W2 verb
+drink Core vocabulary: High-frequency ●●● S1 W2 noun
+drive Core vocabulary: High-frequency ●●● S1 W1 verb
+drive Core vocabulary: High-frequency ●●● S2 W2 noun
+driver Core vocabulary: High-frequency ●●● S1 W2 noun
+drop Core vocabulary: High-frequency ●●● S1 W2 verb
+drop Core vocabulary: High-frequency ●●● S2 W3 noun
+drug Core vocabulary: High-frequency ●●● S2 W1 noun
+drugstore Core vocabulary: High-frequency ●●● S3 noun
+drum Core vocabulary: High-frequency ●●● S3 noun
+drunk Core vocabulary: Medium-frequency ●●○ S3 adjective
+dry Core vocabulary: High-frequency ●●● S2 W2 adjective
+dry Core vocabulary: High-frequency ●●● S2 W3 verb
+duck Core vocabulary: High-frequency ●●● S3 noun
+due Core vocabulary: High-frequency ●●● S1 W1 adjective
+dull Core vocabulary: Medium-frequency ●●○ S3 adjective
+dumb Core vocabulary: Medium-frequency ●●○ S3 adjective
+dump Core vocabulary: High-frequency ●●● S3 verb
+during Core vocabulary: High-frequency ●●● S1 W1 preposition
+dust Core vocabulary: High-frequency ●●● S3 W3 noun
+duty Core vocabulary: High-frequency ●●● S2 W1 noun
+DVD Core vocabulary: High-frequency ●●● S3 W3 noun
+each Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun , adverb
+ear Core vocabulary: High-frequency ●●● S2 W2 noun
+early Core vocabulary: High-frequency ●●● S1 W1 adjective
+early Core vocabulary: High-frequency ●●● S1 W1 adverb
+earn Core vocabulary: High-frequency ●●● S2 W2 verb
+earring Core vocabulary: High-frequency ●●● S3 noun
+earth Core vocabulary: High-frequency ●●● S2 W2 noun
+easily Core vocabulary: High-frequency ●●● S2 W1 adverb
+east Core vocabulary: High-frequency ●●● S2 W1 noun
+east Core vocabulary: High-frequency ●●● S3 W3 adjective
+east Core vocabulary: High-frequency ●●● S2 W2 adverb
+eastern Core vocabulary: High-frequency ●●● S2 W2 adjective
+easy Core vocabulary: High-frequency ●●● S1 W1 adjective
+easy Core vocabulary: High-frequency ●●● S2 adverb
+eat Core vocabulary: High-frequency ●●● S1 W1 verb
+economic Core vocabulary: High-frequency ●●● S2 W1 adjective
+economy Core vocabulary: High-frequency ●●● S2 W1 noun
+edge Core vocabulary: High-frequency ●●● S2 W2 noun
+education Core vocabulary: High-frequency ●●● S1 W1 noun
+educational Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+effect Core vocabulary: High-frequency ●●● S1 W1 noun
+effective Core vocabulary: High-frequency ●●● S2 W1 adjective
+effectively Core vocabulary: High-frequency ●●● S3 W2 adverb
+efficient Core vocabulary: High-frequency ●●● S3 W3 adjective
+effort Core vocabulary: High-frequency ●●● S1 W1 noun
+egg Core vocabulary: High-frequency ●●● S1 W2 noun
+eight Core vocabulary: High-frequency ●●● S2 W2 number , noun
+eighteen Core vocabulary: High-frequency ●●● S3 W2 number
+eighth Core vocabulary: High-frequency ●●● S3 W3 adjective
+either Core vocabulary: High-frequency ●●● S1 W1 conjunction
+either Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+either Core vocabulary: High-frequency ●●● S1 W2 adverb
+elderly Core vocabulary: High-frequency ●●● S3 W2 adjective
+elect Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+election Core vocabulary: High-frequency ●●● S2 W1 noun
+electric Core vocabulary: High-frequency ●●● S2 W3 adjective
+electrical Core vocabulary: Medium-frequency ●●○ S3 adjective
+electricity Core vocabulary: High-frequency ●●● S2 W3 noun
+electronic Core vocabulary: High-frequency ●●● S3 W3 adjective
+element Core vocabulary: High-frequency ●●● S2 W1 noun
+elevator Core vocabulary: High-frequency ●●● S3 W3 noun
+eleven Core vocabulary: High-frequency ●●● S3 W2 number , noun
+eleventh Core vocabulary: High-frequency ●●● S3 W3 adjective
+else Core vocabulary: High-frequency ●●● S1 W1 adverb
+elsewhere Core vocabulary: High-frequency ●●● S3 W2 adverb
+email Core vocabulary: High-frequency ●●● S1 W1 noun
+email Core vocabulary: High-frequency ●●● S1 W1 verb
+embarrassed Core vocabulary: High-frequency ●●● S2 adjective
+embarrassing Core vocabulary: High-frequency ●●● S3 adjective
+emergency Core vocabulary: High-frequency ●●● S3 W3 noun
+emotional Core vocabulary: High-frequency ●●● S3 W3 adjective
+employ Core vocabulary: High-frequency ●●● S3 W2 verb
+employee Core vocabulary: High-frequency ●●● S2 W2 noun
+employer Core vocabulary: High-frequency ●●● S2 W2 noun
+employment Core vocabulary: High-frequency ●●● S2 W1 noun
+empty Core vocabulary: High-frequency ●●● S2 W2 adjective
+enable Core vocabulary: High-frequency ●●● S3 W1 verb
+encourage Core vocabulary: High-frequency ●●● S2 W1 verb
+encouraging Core vocabulary: Medium-frequency ●●○ S3 adjective
+end Core vocabulary: High-frequency ●●● S1 W1 noun
+end Core vocabulary: High-frequency ●●● S1 W1 verb
+energy Core vocabulary: High-frequency ●●● S2 W1 noun
+engine Core vocabulary: High-frequency ●●● S2 W2 noun
+engineer Core vocabulary: High-frequency ●●● S3 W3 noun
+engineering Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+enjoy Core vocabulary: High-frequency ●●● S1 W1 verb
+enormous Core vocabulary: High-frequency ●●● S2 W3 adjective
+enough Core vocabulary: High-frequency ●●● S1 W1 adverb
+enough Core vocabulary: High-frequency ●●● S1 W2 determiner , pronoun
+ensure Core vocabulary: High-frequency ●●● S2 W1 verb
+enter Core vocabulary: High-frequency ●●● S2 W1 verb
+entertainment Core vocabulary: High-frequency ●●● S3 W3 noun
+enthusiastic Core vocabulary: Medium-frequency ●●○ S3 adjective
+entire Core vocabulary: High-frequency ●●● S3 W2 adjective
+entirely Core vocabulary: High-frequency ●●● S2 W2 adverb
+entitle Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+entrance Core vocabulary: High-frequency ●●● S3 W3 noun
+entry Core vocabulary: High-frequency ●●● S3 W2 noun
+envelope Core vocabulary: High-frequency ●●● S3 noun
+environment Core vocabulary: High-frequency ●●● S1 W1 noun
+environmental Core vocabulary: High-frequency ●●● S2 W2 adjective
+equal Core vocabulary: High-frequency ●●● S1 W2 adjective
+equal Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+equipment Core vocabulary: High-frequency ●●● S2 W2 noun
+error Core vocabulary: High-frequency ●●● S3 W2 noun
+escape Core vocabulary: High-frequency ●●● S3 W2 verb
+escape Core vocabulary: Medium-frequency ●●○ S3 noun
+especially Core vocabulary: High-frequency ●●● S1 W1 adverb
+essay Core vocabulary: High-frequency ●●● S3 noun
+essential Core vocabulary: High-frequency ●●● S3 W2 adjective
+essentially Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+establish Core vocabulary: High-frequency ●●● S2 W1 verb
+estimate Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+euro Core vocabulary: High-frequency ●●● S2 W2 noun
+even Core vocabulary: High-frequency ●●● S1 W1 adverb
+evening Core vocabulary: High-frequency ●●● S1 W1 noun
+event Core vocabulary: High-frequency ●●● S1 W1 noun
+eventually Core vocabulary: High-frequency ●●● S1 W2 adverb
+ever Core vocabulary: High-frequency ●●● S1 W1 adverb
+every Core vocabulary: High-frequency ●●● S1 W1 determiner
+everybody Core vocabulary: High-frequency ●●● S1 W3 pronoun
+everyone Core vocabulary: High-frequency ●●● S1 W1 pronoun
+everything Core vocabulary: High-frequency ●●● S1 W1 pronoun
+everywhere Core vocabulary: High-frequency ●●● S2 W3 adverb
+evidence Core vocabulary: High-frequency ●●● S2 W1 noun
+evil Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+exact Core vocabulary: High-frequency ●●● S2 W3 adjective
+exactly Core vocabulary: High-frequency ●●● S1 W2 adverb
+exam Core vocabulary: High-frequency ●●● S1 noun
+examine Core vocabulary: High-frequency ●●● S3 W2 verb
+example Core vocabulary: High-frequency ●●● S1 W1 noun
+excellent Core vocabulary: High-frequency ●●● S1 W2 adjective
+except Core vocabulary: High-frequency ●●● S2 W2 conjunction , preposition
+exception Core vocabulary: High-frequency ●●● S3 W2 noun
+exchange Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+excited Core vocabulary: High-frequency ●●● S2 adjective
+excitement Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+exciting Core vocabulary: High-frequency ●●● S2 W3 adjective
+excuse Core vocabulary: High-frequency ●●● S1 verb
+excuse Core vocabulary: High-frequency ●●● S3 noun
+exercise Core vocabulary: High-frequency ●●● S2 W2 noun
+exercise Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+exist Core vocabulary: High-frequency ●●● S2 W1 verb
+existing Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+exit Core vocabulary: High-frequency ●●● S3 W3 noun
+expand Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+expect Core vocabulary: High-frequency ●●● S1 W1 verb
+expensive Core vocabulary: High-frequency ●●● S1 W2 adjective
+experience Core vocabulary: High-frequency ●●● S1 W1 noun
+experience Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+experienced Core vocabulary: Medium-frequency ●●○ S3 adjective
+experiment Core vocabulary: High-frequency ●●● S3 W2 noun
+expert Core vocabulary: High-frequency ●●● S3 W2 noun
+explain Core vocabulary: High-frequency ●●● S1 W1 verb
+explanation Core vocabulary: High-frequency ●●● S3 W2 noun
+explore Core vocabulary: High-frequency ●●● S3 W2 verb
+express Core vocabulary: High-frequency ●●● S2 W1 verb
+expression Core vocabulary: High-frequency ●●● S2 W2 noun
+extend Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+extension Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+extent Core vocabulary: High-frequency ●●● S2 W1 noun
+extra Core vocabulary: High-frequency ●●● S1 W2 adjective
+extraordinary Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+extreme Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+extremely Core vocabulary: High-frequency ●●● S2 W2 adverb
+eye Core vocabulary: High-frequency ●●● S1 W1 noun
+face Core vocabulary: High-frequency ●●● S1 W1 noun
+face Core vocabulary: High-frequency ●●● S1 W1 verb
+fact Core vocabulary: High-frequency ●●● S1 W1 noun
+factor Core vocabulary: High-frequency ●●● S3 W1 noun
+factory Core vocabulary: High-frequency ●●● S2 W2 noun
+fail Core vocabulary: High-frequency ●●● S2 W1 verb
+failure Core vocabulary: High-frequency ●●● S3 W2 noun
+fair Core vocabulary: High-frequency ●●● S1 W2 adjective
+fairly Core vocabulary: High-frequency ●●● S1 W2 adverb
+faith Core vocabulary: High-frequency ●●● S3 W2 noun
+fall Core vocabulary: High-frequency ●●● S1 W1 verb
+fall Core vocabulary: High-frequency ●●● S2 W2 noun
+familiar Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+family Core vocabulary: High-frequency ●●● S1 W1 noun
+famous Core vocabulary: High-frequency ●●● S2 W2 adjective
+fan Core vocabulary: High-frequency ●●● S3 W2 noun
+fancy Core vocabulary: Medium-frequency ●●○ S3 verb
+fantastic Core vocabulary: High-frequency ●●● S3 adjective
+far Core vocabulary: High-frequency ●●● S1 W1 adverb
+far Core vocabulary: High-frequency ●●● S1 W1 adjective
+farm Core vocabulary: High-frequency ●●● S2 W2 noun
+farmer Core vocabulary: High-frequency ●●● S2 W2 noun
+fascinating Core vocabulary: Medium-frequency ●●○ S3 adjective
+fashion Core vocabulary: High-frequency ●●● S3 W2 noun
+fashionable Core vocabulary: High-frequency ●●● S3 W2 adjective
+fast Core vocabulary: High-frequency ●●● S2 W2 adjective
+fast Core vocabulary: High-frequency ●●● S2 W3 adverb
+fat Core vocabulary: High-frequency ●●● S1 W2 adjective
+fat Core vocabulary: High-frequency ●●● S2 W2 noun
+father Core vocabulary: High-frequency ●●● S1 W1 noun
+fault Core vocabulary: High-frequency ●●● S2 W3 noun
+favour Core vocabulary: High-frequency ●●● S2 W3 noun
+favourite Core vocabulary: High-frequency ●●● S2 W2 adjective
+favourite Core vocabulary: High-frequency ●●● S2 W2 noun
+fear Core vocabulary: High-frequency ●●● S3 W1 noun
+feature Core vocabulary: High-frequency ●●● S2 W1 noun
+February Core vocabulary: High-frequency ●●● S2 W2 noun
+fee Core vocabulary: High-frequency ●●● S3 W3 noun
+feed Core vocabulary: High-frequency ●●● S1 W2 verb
+feedback Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+feel Core vocabulary: High-frequency ●●● S1 W1 verb
+feeling Core vocabulary: High-frequency ●●● S1 W1 noun
+female Core vocabulary: High-frequency ●●● S3 W2 adjective
+fence Core vocabulary: High-frequency ●●● S3 noun
+festival Core vocabulary: High-frequency ●●● S3 W3 noun
+fetch Core vocabulary: High-frequency ●●● S3 verb
+few Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun , adjective
+field Core vocabulary: High-frequency ●●● S1 W1 noun
+fifteen Core vocabulary: High-frequency ●●● S3 W3 number , noun
+fifth Core vocabulary: High-frequency ●●● S3 W3 adjective
+fifty Core vocabulary: High-frequency ●●● S3 W3 number , noun
+fight Core vocabulary: High-frequency ●●● S1 W1 verb
+fight Core vocabulary: High-frequency ●●● S2 W3 noun
+figure Core vocabulary: High-frequency ●●● S1 W1 noun
+figure Core vocabulary: High-frequency ●●● S1 W3 verb
+file Core vocabulary: High-frequency ●●● S1 W2 noun
+file Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+fill Core vocabulary: High-frequency ●●● S1 W1 verb
+film Core vocabulary: High-frequency ●●● S1 W1 noun
+filthy Core vocabulary: Medium-frequency ●●○ S3 adjective
+final Core vocabulary: High-frequency ●●● S1 W1 adjective
+finally Core vocabulary: High-frequency ●●● S2 W1 adverb
+find Core vocabulary: High-frequency ●●● S1 W1 verb
+fine Core vocabulary: High-frequency ●●● S1 W1 adjective
+fine Core vocabulary: High-frequency ●●● S3 adverb
+finger Core vocabulary: High-frequency ●●● S2 W2 noun
+finish Core vocabulary: High-frequency ●●● S1 W2 verb
+finish Core vocabulary: Medium-frequency ●●○ S3 noun
+fire Core vocabulary: High-frequency ●●● S1 W1 noun
+fire Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+firm Core vocabulary: High-frequency ●●● S1 W1 noun
+firm Core vocabulary: High-frequency ●●● S3 W2 adjective
+first Core vocabulary: High-frequency ●●● S1 W1 adjective
+first Core vocabulary: High-frequency ●●● S1 W2 adverb
+first Core vocabulary: High-frequency ●●● S2 W2 noun
+first Core vocabulary: High-frequency ●●● S2 W2 pronoun
+firstly Core vocabulary: Medium-frequency ●●○ S3 adverb
+fish Core vocabulary: High-frequency ●●● S1 W1 noun
+fish Core vocabulary: Medium-frequency ●●○ S3 verb
+fishing Core vocabulary: High-frequency ●●● S3 noun
+fit Core vocabulary: High-frequency ●●● S1 W2 verb
+fit Core vocabulary: High-frequency ●●● S2 W3 adjective
+five Core vocabulary: High-frequency ●●● S2 W2 number , noun
+fix Core vocabulary: High-frequency ●●● S2 W2 verb
+fixed Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+flag Core vocabulary: High-frequency ●●● S2 W2 noun
+Flash Core vocabulary: Medium-frequency ●●○ S3 verb
+flat Core vocabulary: High-frequency ●●● S2 W2 adjective
+flat Core vocabulary: High-frequency ●●● S2 W3 noun
+flavour Core vocabulary: High-frequency ●●● S2 W2 noun
+flight Core vocabulary: High-frequency ●●● S3 W2 noun
+float Core vocabulary: High-frequency ●●● S3 W2 verb
+floor Core vocabulary: High-frequency ●●● S1 W1 noun
+flour Core vocabulary: High-frequency ●●● S3 W3 noun
+flow Core vocabulary: High-frequency ●●● S3 W2 noun
+flower Core vocabulary: High-frequency ●●● S2 W2 noun
+flu Core vocabulary: High-frequency ●●● S2 noun
+fly Core vocabulary: High-frequency ●●● S1 W1 verb
+fly Core vocabulary: High-frequency ●●● S3 W3 noun
+focus Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+focus Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+fog Core vocabulary: High-frequency ●●● S3 W3 noun
+foggy Core vocabulary: High-frequency ●●● S3 adjective
+folder Core vocabulary: High-frequency ●●● S2 W2 noun
+folk Core vocabulary: High-frequency ●●● S2 W3 noun
+follow Core vocabulary: High-frequency ●●● S1 W1 verb
+following Core vocabulary: High-frequency ●●● S3 W1 adjective
+food Core vocabulary: High-frequency ●●● S1 W1 noun
+foot Core vocabulary: High-frequency ●●● S1 W1 noun
+football Core vocabulary: High-frequency ●●● S1 W2 noun
+for Core vocabulary: High-frequency ●●● S1 W1 preposition
+force Core vocabulary: High-frequency ●●● S2 W1 noun
+force Core vocabulary: High-frequency ●●● S2 W1 verb
+foreign Core vocabulary: High-frequency ●●● S3 W1 adjective
+forest Core vocabulary: High-frequency ●●● S2 W2 noun
+forever Core vocabulary: High-frequency ●●● S2 W3 adverb
+forget Core vocabulary: High-frequency ●●● S1 W1 verb
+fork Core vocabulary: High-frequency ●●● S3 noun
+form Core vocabulary: High-frequency ●●● S1 W1 noun
+form Core vocabulary: High-frequency ●●● S2 W1 verb
+formal Core vocabulary: High-frequency ●●● S2 W2 adjective
+former Core vocabulary: High-frequency ●●● S2 W1 adjective
+formula Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+fortnight Core vocabulary: Medium-frequency ●●○ S3 noun
+fortune Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+forty Core vocabulary: High-frequency ●●● S3 W3 number
+forward Core vocabulary: High-frequency ●●● S1 W1 adverb
+forward Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+four Core vocabulary: High-frequency ●●● S2 W1 number , noun
+fourteen Core vocabulary: High-frequency ●●● S3 W3 number
+fourth Core vocabulary: High-frequency ●●● S3 W3 adjective
+fourth Core vocabulary: High-frequency ●●● S3 W3 pronoun
+frame Core vocabulary: High-frequency ●●● S3 W3 noun
+frankly Core vocabulary: Medium-frequency ●●○ S3 adverb
+free Core vocabulary: High-frequency ●●● S1 W1 adjective
+free Core vocabulary: High-frequency ●●● S3 adverb
+freedom Core vocabulary: High-frequency ●●● S3 W2 noun
+freeway Core vocabulary: High-frequency ●●● S2 W3 noun
+freeze Core vocabulary: High-frequency ●●● S3 W3 verb
+freezer Core vocabulary: High-frequency ●●● S3 noun
+freezing Core vocabulary: High-frequency ●●● S3 adjective , adverb
+frequently Core vocabulary: High-frequency ●●● S3 W2 adverb
+fresh Core vocabulary: High-frequency ●●● S2 W2 adjective
+Friday Core vocabulary: High-frequency ●●● S2 W2 noun
+fridge Core vocabulary: High-frequency ●●● S2 noun
+friend Core vocabulary: High-frequency ●●● S1 W1 noun
+friendly Core vocabulary: High-frequency ●●● S2 W3 adjective
+frighten Core vocabulary: High-frequency ●●● S3 W3 verb
+frightened Core vocabulary: High-frequency ●●● S3 adjective
+frightening Core vocabulary: High-frequency ●●● S3 adjective
+from Core vocabulary: High-frequency ●●● S1 W1 preposition
+front Core vocabulary: High-frequency ●●● S1 W1 noun
+front Core vocabulary: High-frequency ●●● S1 W2 adjective
+frozen Core vocabulary: High-frequency ●●● S2 W2 adjective
+fruit Core vocabulary: High-frequency ●●● S2 W2 noun
+fry Core vocabulary: High-frequency ●●● S2 W3 verb
+fry Core vocabulary: High-frequency ●●● S2 noun
+fuel Core vocabulary: High-frequency ●●● S3 W2 noun
+full Core vocabulary: High-frequency ●●● S1 W1 adjective
+fully Core vocabulary: High-frequency ●●● S2 W2 adverb
+fun Core vocabulary: High-frequency ●●● S2 W3 noun
+fun Core vocabulary: High-frequency ●●● S2 W3 adjective
+function Core vocabulary: High-frequency ●●● S3 W1 noun
+funeral Core vocabulary: High-frequency ●●● S3 W3 noun
+funny Core vocabulary: High-frequency ●●● S1 W3 adjective
+furniture Core vocabulary: High-frequency ●●● S2 W3 noun
+further Core vocabulary: High-frequency ●●● S1 W1 adverb
+future Core vocabulary: High-frequency ●●● S1 W1 adjective
+future Core vocabulary: High-frequency ●●● S1 W1 noun
+gain Core vocabulary: High-frequency ●●● S3 W1 verb
+gallon Core vocabulary: High-frequency ●●● S3 W3 noun
+game Core vocabulary: High-frequency ●●● S1 W1 noun
+gang Core vocabulary: High-frequency ●●● S3 noun
+gap Core vocabulary: High-frequency ●●● S2 W2 noun
+garage Core vocabulary: High-frequency ●●● S2 noun
+garbage Core vocabulary: High-frequency ●●● S3 noun
+garden Core vocabulary: High-frequency ●●● S1 W1 noun
+garlic Core vocabulary: Medium-frequency ●●○ S3 noun
+gas Core vocabulary: High-frequency ●●● S1 W2 noun
+gasoline Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+gate Core vocabulary: High-frequency ●●● S2 W2 noun
+gather Core vocabulary: High-frequency ●●● S3 W2 verb
+gay Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+gear Core vocabulary: Medium-frequency ●●○ S3 noun
+gene Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+general Core vocabulary: High-frequency ●●● S1 W1 adjective
+generally Core vocabulary: High-frequency ●●● S2 W1 adverb
+generation Core vocabulary: High-frequency ●●● S3 W2 noun
+gentle Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+gentleman Core vocabulary: High-frequency ●●● S2 W2 noun
+genuine Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+get Core vocabulary: High-frequency ●●● S1 W1 verb
+ghost Core vocabulary: High-frequency ●●● S3 noun
+giant Core vocabulary: High-frequency ●●● S3 W2 adjective
+gift Core vocabulary: High-frequency ●●● S2 W2 noun
+girl Core vocabulary: High-frequency ●●● S1 W1 noun
+girlfriend Core vocabulary: High-frequency ●●● S3 noun
+give Core vocabulary: High-frequency ●●● S1 W1 verb
+glad Core vocabulary: High-frequency ●●● S2 W3 adjective
+glass Core vocabulary: High-frequency ●●● S1 W1 noun
+glove Core vocabulary: High-frequency ●●● S3 W3 noun
+go Core vocabulary: High-frequency ●●● S1 W1 verb
+go Core vocabulary: High-frequency ●●● S1 noun
+goal Core vocabulary: High-frequency ●●● S2 W1 noun
+god Core vocabulary: High-frequency ●●● S1 W1 noun
+gold Core vocabulary: High-frequency ●●● S2 W2 noun
+gold Core vocabulary: High-frequency ●●● S3 W3 adjective
+golf Core vocabulary: High-frequency ●●● S2 W3 noun
+good Core vocabulary: High-frequency ●●● S1 W1 adjective
+good Core vocabulary: High-frequency ●●● S3 W2 noun
+goodbye Core vocabulary: High-frequency ●●● S3
+goodness Core vocabulary: Medium-frequency ●●○ S3 noun
+gorgeous Core vocabulary: Medium-frequency ●●○ S3 adjective
+government Core vocabulary: High-frequency ●●● S2 W1 noun
+grab Core vocabulary: High-frequency ●●● S1 W3 verb
+grade Core vocabulary: High-frequency ●●● S2 W3 noun
+gradually Core vocabulary: High-frequency ●●● S3 W3 adverb
+graduate Core vocabulary: High-frequency ●●● S2 W2 noun
+graduate Core vocabulary: High-frequency ●●● S2 W2 verb
+graduation Core vocabulary: High-frequency ●●● S3 noun
+gram Core vocabulary: High-frequency ●●● S3 noun
+grammar Core vocabulary: High-frequency ●●● S3 W3 noun
+grand Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+grandad Core vocabulary: High-frequency ●●● S3 noun
+grandchild Core vocabulary: High-frequency ●●● S3 W3 noun
+granddaughter Core vocabulary: High-frequency ●●● S3 W3 noun
+grandfather Core vocabulary: High-frequency ●●● S2 W3 noun
+grandma Core vocabulary: High-frequency ●●● S2 noun
+grandmother Core vocabulary: High-frequency ●●● S2 W2 noun
+grandpa Core vocabulary: High-frequency ●●● S2 noun
+grandson Core vocabulary: High-frequency ●●● S3 W3 noun
+granny Core vocabulary: Medium-frequency ●●○ S3 noun
+grape Core vocabulary: High-frequency ●●● S3 noun
+grapefruit Core vocabulary: High-frequency ●●● S3 noun
+graph Core vocabulary: High-frequency ●●● S3 W2 noun
+grass Core vocabulary: High-frequency ●●● S2 W2 noun
+grateful Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+gravy Core vocabulary: High-frequency ●●● S3 noun
+great Core vocabulary: High-frequency ●●● S1 W1 adjective
+green Core vocabulary: High-frequency ●●● S1 W2 adjective
+green Core vocabulary: High-frequency ●●● S2 W3 noun
+grey Core vocabulary: High-frequency ●●● S2 W2 adjective
+grey Core vocabulary: High-frequency ●●● S3 W3 noun
+grill Core vocabulary: High-frequency ●●● S3 W3 verb
+grill Core vocabulary: High-frequency ●●● S3 W3 noun
+grocery Core vocabulary: High-frequency ●●● S3 noun
+gross Core vocabulary: Medium-frequency ●●○ S3 adjective
+ground Core vocabulary: High-frequency ●●● S1 W1 noun
+group Core vocabulary: High-frequency ●●● S1 W1 noun
+grow Core vocabulary: High-frequency ●●● S1 W1 verb
+growth Core vocabulary: High-frequency ●●● S3 W1 noun
+guarantee Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+guard Core vocabulary: High-frequency ●●● S2 W2 noun
+guess Core vocabulary: High-frequency ●●● S1 W3 verb
+guess Core vocabulary: High-frequency ●●● S3 noun
+guest Core vocabulary: High-frequency ●●● S3 W2 noun
+guidance Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+guide Core vocabulary: High-frequency ●●● S3 W2 noun
+guilty Core vocabulary: High-frequency ●●● S2 W3 adjective
+guitar Core vocabulary: High-frequency ●●● S3 W3 noun
+gum Core vocabulary: High-frequency ●●● S3 noun
+gun Core vocabulary: High-frequency ●●● S2 W2 noun
+guy Core vocabulary: High-frequency ●●● S1 W3 noun
+gym Core vocabulary: High-frequency ●●● S3 noun
+habit Core vocabulary: High-frequency ●●● S3 W3 noun
+hair Core vocabulary: High-frequency ●●● S1 W1 noun
+half Core vocabulary: High-frequency ●●● S1 W1 predeterminer , pronoun , adjective
+half Core vocabulary: High-frequency ●●● S1 W2 noun
+half Core vocabulary: High-frequency ●●● S2 adverb
+halfway Core vocabulary: Medium-frequency ●●○ S3 adjective , adverb
+hall Core vocabulary: High-frequency ●●● S2 W2 noun
+Halloween Core vocabulary: High-frequency ●●● S3 noun
+ham Core vocabulary: High-frequency ●●● S3 noun
+hamburger Core vocabulary: High-frequency ●●● S3 noun
+hand Core vocabulary: High-frequency ●●● S1 W1 noun
+handbag Core vocabulary: Medium-frequency ●●○ S3 noun
+handle Core vocabulary: High-frequency ●●● S1 W2 verb
+handle Core vocabulary: High-frequency ●●● S1 W3 noun
+handy Core vocabulary: Medium-frequency ●●○ S3 adjective
+hang Core vocabulary: High-frequency ●●● S1 W2 verb
+happen Core vocabulary: High-frequency ●●● S1 W1 verb
+happy Core vocabulary: High-frequency ●●● S1 W1 adjective
+hard Core vocabulary: High-frequency ●●● S1 W1 adjective
+hard Core vocabulary: High-frequency ●●● S1 W2 adverb
+hardly Core vocabulary: High-frequency ●●● S2 W2 adverb
+harm Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+hat Core vocabulary: High-frequency ●●● S1 W3 noun
+hate Core vocabulary: High-frequency ●●● S1 W3 verb
+have Core vocabulary: High-frequency ●●● S1 W1 auxiliary verb
+have Core vocabulary: High-frequency ●●● S1 W1 verb
+have Core vocabulary: High-frequency ●●● S1 W3 verb
+he Core vocabulary: High-frequency ●●● S1 W1 pronoun
+head Core vocabulary: High-frequency ●●● S1 W1 noun
+head Core vocabulary: High-frequency ●●● S2 W2 verb
+headache Core vocabulary: High-frequency ●●● S2 W3 noun
+health Core vocabulary: High-frequency ●●● S1 W1 noun
+healthy Core vocabulary: High-frequency ●●● S3 W3 adjective
+hear Core vocabulary: High-frequency ●●● S1 W1 verb
+hearing Core vocabulary: High-frequency ●●● S3 W2 noun
+heart Core vocabulary: High-frequency ●●● S1 W1 noun
+heat Core vocabulary: High-frequency ●●● S2 W2 noun
+heat Core vocabulary: High-frequency ●●● S3 W3 verb
+heater Core vocabulary: High-frequency ●●● S3 noun
+heating Core vocabulary: Medium-frequency ●●○ S3 noun
+heaven Core vocabulary: High-frequency ●●● S3 W3 noun
+heavy Core vocabulary: High-frequency ●●● S1 W1 adjective
+height Core vocabulary: High-frequency ●●● S2 W3 noun
+helicopter Core vocabulary: High-frequency ●●● S3 noun
+hell Core vocabulary: Medium-frequency ●●○ S3 noun
+Hello! Core vocabulary: High-frequency ●●● S1 interjection , noun
+help Core vocabulary: High-frequency ●●● S1 W1 verb
+help Core vocabulary: High-frequency ●●● S1 W1 noun
+helpful Core vocabulary: High-frequency ●●● S2 W3 adjective
+her Core vocabulary: High-frequency ●●● S1 W1 determiner
+her Core vocabulary: High-frequency ●●● S1 W1 pronoun
+here Core vocabulary: High-frequency ●●● S1 W1 adverb
+hers Core vocabulary: High-frequency ●●● S3 W3 pronoun
+herself Core vocabulary: High-frequency ●●● S2 W1 pronoun
+hi Core vocabulary: High-frequency ●●● S1 interjection
+hide Core vocabulary: High-frequency ●●● S2 W2 verb
+high Core vocabulary: High-frequency ●●● S1 W1 adjective
+high Core vocabulary: High-frequency ●●● S2 W3 adverb
+highly Core vocabulary: High-frequency ●●● S2 W2 adverb
+highway Core vocabulary: High-frequency ●●● S3 W2 noun
+hill Core vocabulary: High-frequency ●●● S2 W2 noun
+him Core vocabulary: High-frequency ●●● S1 W1 pronoun
+himself Core vocabulary: High-frequency ●●● S1 W1 pronoun
+hip Core vocabulary: High-frequency ●●● S3 noun
+hire Core vocabulary: High-frequency ●●● S2 W3 verb
+his Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+history Core vocabulary: High-frequency ●●● S2 W1 noun
+hit Core vocabulary: High-frequency ●●● S1 W2 verb
+hit Core vocabulary: High-frequency ●●● S3 W3 noun
+hold Core vocabulary: High-frequency ●●● S1 W1 verb
+hold Core vocabulary: High-frequency ●●● S2 W3 noun
+hole Core vocabulary: High-frequency ●●● S1 W2 noun
+holiday Core vocabulary: High-frequency ●●● S1 W2 noun
+home Core vocabulary: High-frequency ●●● S1 W1 noun
+home Core vocabulary: High-frequency ●●● S1 W1 adverb
+homepage Core vocabulary: High-frequency ●●● S2 W1 noun
+homework Core vocabulary: High-frequency ●●● S2 noun
+honest Core vocabulary: High-frequency ●●● S2 W3 adjective
+honestly Core vocabulary: Medium-frequency ●●○ S3 adverb
+honey Core vocabulary: High-frequency ●●● S2 noun
+hook Core vocabulary: High-frequency ●●● S3 noun
+hope Core vocabulary: High-frequency ●●● S1 W1 verb
+hope Core vocabulary: High-frequency ●●● S2 W2 noun
+hopefully Core vocabulary: High-frequency ●●● S1 adverb
+hopeless Core vocabulary: Medium-frequency ●●○ S3 adjective
+horrible Core vocabulary: High-frequency ●●● S2 adjective
+horse Core vocabulary: High-frequency ●●● S1 W1 noun
+hospital Core vocabulary: High-frequency ●●● S1 W1 noun
+hot Core vocabulary: High-frequency ●●● S1 W2 adjective
+hotel Core vocabulary: High-frequency ●●● S2 W1 noun
+hour Core vocabulary: High-frequency ●●● S1 W1 noun
+house Core vocabulary: High-frequency ●●● S1 W1 noun
+how Core vocabulary: High-frequency ●●● S1 W1 adverb
+however Core vocabulary: High-frequency ●●● S2 W1 adverb
+however Core vocabulary: High-frequency ●●● S2 W3 conjunction
+huge Core vocabulary: High-frequency ●●● S1 W2 adjective
+human Core vocabulary: High-frequency ●●● S2 W1 adjective
+hundred Core vocabulary: High-frequency ●●● S2 W2 number , noun
+hungry Core vocabulary: High-frequency ●●● S2 adjective
+hurry Core vocabulary: High-frequency ●●● S3 W3 verb
+hurry Core vocabulary: High-frequency ●●● S3 noun
+hurt Core vocabulary: High-frequency ●●● S1 W2 verb
+hurt Core vocabulary: High-frequency ●●● S3 adjective
+husband Core vocabulary: High-frequency ●●● S1 W1 noun
+I Core vocabulary: High-frequency ●●● S1 W1 pronoun
+ice Core vocabulary: High-frequency ●●● S2 W3 noun
+idea Core vocabulary: High-frequency ●●● S1 W1 noun
+ideal Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+ideally Core vocabulary: Medium-frequency ●●○ S3 adverb
+idiot Core vocabulary: Medium-frequency ●●○ S3 noun
+if Core vocabulary: High-frequency ●●● S1 W1 conjunction
+ignore Core vocabulary: High-frequency ●●● S2 W2 verb
+ill Core vocabulary: High-frequency ●●● S3 W2 adjective
+illness Core vocabulary: High-frequency ●●● S3 W3 noun
+image Core vocabulary: High-frequency ●●● S2 W1 noun
+imagination Core vocabulary: High-frequency ●●● S3 W3 noun
+imagine Core vocabulary: High-frequency ●●● S1 W2 verb
+immediate Core vocabulary: High-frequency ●●● S3 W2 adjective
+immediately Core vocabulary: High-frequency ●●● S2 W1 adverb
+impact Core vocabulary: High-frequency ●●● S3 W2 noun
+importance Core vocabulary: High-frequency ●●● S3 W1 noun
+important Core vocabulary: High-frequency ●●● S1 W1 adjective
+impossible Core vocabulary: High-frequency ●●● S2 W2 adjective
+impress Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+impression Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+improve Core vocabulary: High-frequency ●●● S2 W1 verb
+improvement Core vocabulary: High-frequency ●●● S3 W2 noun
+in Core vocabulary: High-frequency ●●● S1 W1 preposition
+in Core vocabulary: High-frequency ●●● S1 W1 adverb
+inch Core vocabulary: High-frequency ●●● S2 W3 noun
+include Core vocabulary: High-frequency ●●● S1 W1 verb
+including Core vocabulary: High-frequency ●●● S2 W1 preposition
+income Core vocabulary: High-frequency ●●● S2 W1 noun
+increase Core vocabulary: High-frequency ●●● S2 W1 verb
+increase Core vocabulary: High-frequency ●●● S2 W1 noun
+incredible Core vocabulary: Medium-frequency ●●○ S3 adjective
+incredibly Core vocabulary: Medium-frequency ●●○ S3 adverb
+indeed Core vocabulary: High-frequency ●●● S1 W1 adverb
+Independent, the Core vocabulary: High-frequency ●●● S2 W2 adjective
+indicate Core vocabulary: High-frequency ●●● S3 W1 verb
+indication Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+individual Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+individual Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+industrial Core vocabulary: High-frequency ●●● S3 W1 adjective
+industry Core vocabulary: High-frequency ●●● S2 W1 noun
+influence Core vocabulary: High-frequency ●●● S3 W1 noun
+influence Core vocabulary: High-frequency ●●● S3 W2 verb
+inform Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+information Core vocabulary: High-frequency ●●● S1 W1 noun
+initial Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+initially Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+injury Core vocabulary: High-frequency ●●● S3 W2 noun
+inquiry Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+inside Core vocabulary: High-frequency ●●● S2 W2 adverb , preposition
+inside Core vocabulary: High-frequency ●●● S3 noun
+inside Core vocabulary: High-frequency ●●● S3 adjective
+insist Core vocabulary: High-frequency ●●● S3 W2 verb
+inspector Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+instead Core vocabulary: High-frequency ●●● S1 W1 adverb
+instruction Core vocabulary: High-frequency ●●● S3 W2 noun
+insurance Core vocabulary: High-frequency ●●● S2 W2 noun
+intelligence Core vocabulary: High-frequency ●●● S3 W3 noun
+intelligent Core vocabulary: High-frequency ●●● S3 W3 adjective
+intend Core vocabulary: High-frequency ●●● S2 W1 verb
+intention Core vocabulary: High-frequency ●●● S3 W2 noun
+interest Core vocabulary: High-frequency ●●● S2 W1 noun
+interested Core vocabulary: High-frequency ●●● S1 W2 adjective
+interesting Core vocabulary: High-frequency ●●● S1 W2 adjective
+international Core vocabulary: High-frequency ●●● S2 W1 adjective
+Internet Core vocabulary: High-frequency ●●● S2 W2 noun
+interrupt Core vocabulary: High-frequency ●●● S3 verb
+intersection Core vocabulary: High-frequency ●●● S3 noun
+interview Core vocabulary: High-frequency ●●● S2 W1 noun
+interview Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+into Core vocabulary: High-frequency ●●● S1 W1 preposition
+introduce Core vocabulary: High-frequency ●●● S2 W1 verb
+introduction Core vocabulary: High-frequency ●●● S3 W2 noun
+invent Core vocabulary: High-frequency ●●● S3 W3 verb
+invest Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+invitation Core vocabulary: High-frequency ●●● S2 noun
+invite Core vocabulary: High-frequency ●●● S1 W2 verb
+involve Core vocabulary: High-frequency ●●● S2 W1 verb
+involved Core vocabulary: High-frequency ●●● S2 W3 adjective
+iron Core vocabulary: High-frequency ●●● S2 W3 noun
+iron Core vocabulary: High-frequency ●●● S3 verb
+island Core vocabulary: High-frequency ●●● S3 W2 noun
+issue Core vocabulary: High-frequency ●●● S1 W1 noun
+issue Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+it Core vocabulary: High-frequency ●●● S1 W1 pronoun
+item Core vocabulary: High-frequency ●●● S3 W2 noun
+its Core vocabulary: High-frequency ●●● S1 W1 determiner
+itself Core vocabulary: High-frequency ●●● S1 W1 pronoun
+jacket Core vocabulary: High-frequency ●●● S2 W3 noun
+jail Core vocabulary: High-frequency ●●● S3 W2 noun
+jam Core vocabulary: High-frequency ●●● S3 noun
+January Core vocabulary: High-frequency ●●● S2 W2 noun
+jar Core vocabulary: High-frequency ●●● S3 noun
+jealous Core vocabulary: High-frequency ●●● S2 adjective
+jeans Core vocabulary: High-frequency ●●● S2 W3 noun
+jelly Core vocabulary: High-frequency ●●● S3 noun
+job Core vocabulary: High-frequency ●●● S1 W1 noun
+join Core vocabulary: High-frequency ●●● S1 W1 verb
+joint Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+joke Core vocabulary: High-frequency ●●● S2 W3 noun
+joke Core vocabulary: High-frequency ●●● S3 verb
+journey Core vocabulary: High-frequency ●●● S3 W2 noun
+judge Core vocabulary: High-frequency ●●● S2 W2 noun
+judge Core vocabulary: High-frequency ●●● S3 W3 verb
+juice Core vocabulary: High-frequency ●●● S2 noun
+July Core vocabulary: High-frequency ●●● S2 W3 noun
+jump Core vocabulary: High-frequency ●●● S2 W3 verb
+jump Core vocabulary: High-frequency ●●● S3 noun
+jumper Core vocabulary: Medium-frequency ●●○ S3 noun
+June Core vocabulary: High-frequency ●●● S2 W3 noun
+junk Core vocabulary: High-frequency ●●● S2 noun
+jury Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+just Core vocabulary: High-frequency ●●● S1 W1 adverb
+justify Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+keen Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+keep Core vocabulary: High-frequency ●●● S1 W1 verb
+kettle Core vocabulary: High-frequency ●●● S3 noun
+key Core vocabulary: High-frequency ●●● S1 W2 noun
+key Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+keyboard Core vocabulary: High-frequency ●●● S3 noun
+kick Core vocabulary: High-frequency ●●● S2 W3 verb
+kick Core vocabulary: Medium-frequency ●●○ S3 noun
+kid Core vocabulary: High-frequency ●●● S1 W2 noun
+kill Core vocabulary: High-frequency ●●● S1 W1 verb
+kilo Core vocabulary: High-frequency ●●● S3 noun
+kilogram Core vocabulary: High-frequency ●●● S3 W3 noun
+kilometre Core vocabulary: High-frequency ●●● S3 W3 noun
+kind Core vocabulary: High-frequency ●●● S1 W1 noun
+kind Core vocabulary: High-frequency ●●● S3 W3 adjective
+kiss Core vocabulary: High-frequency ●●● S3 W3 verb
+kiss Core vocabulary: High-frequency ●●● S3 noun
+kit Core vocabulary: Medium-frequency ●●○ S3 noun
+kitchen Core vocabulary: High-frequency ●●● S1 W2 noun
+kitten Core vocabulary: High-frequency ●●● S3 noun
+knee Core vocabulary: High-frequency ●●● S2 W2 noun
+knife Core vocabulary: High-frequency ●●● S3 W3 noun
+knock Core vocabulary: High-frequency ●●● S1 W3 verb
+know Core vocabulary: High-frequency ●●● S1 W1 verb
+knowledge Core vocabulary: High-frequency ●●● S2 W1 noun
+lab Core vocabulary: High-frequency ●●● S3 noun
+label Core vocabulary: High-frequency ●●● S3 W3 noun
+labour Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+lack Core vocabulary: High-frequency ●●● S3 W2 noun
+lad Core vocabulary: Medium-frequency ●●○ S3 noun
+ladder Core vocabulary: High-frequency ●●● S3 noun
+lady Core vocabulary: High-frequency ●●● S1 W2 noun
+lake Core vocabulary: High-frequency ●●● S3 W3 noun
+lamb Core vocabulary: Medium-frequency ●●○ S3 noun
+lamp Core vocabulary: High-frequency ●●● S3 noun
+land Core vocabulary: High-frequency ●●● S1 W1 noun
+land Core vocabulary: High-frequency ●●● S2 W3 verb
+lane Core vocabulary: High-frequency ●●● S3 W3 noun
+language Core vocabulary: High-frequency ●●● S1 W1 noun
+laptop Core vocabulary: High-frequency ●●● S2 W2 noun
+large Core vocabulary: High-frequency ●●● S1 W1 adjective
+last Core vocabulary: High-frequency ●●● S1 W1 determiner , adjective
+last Core vocabulary: High-frequency ●●● S1 W1 adverb
+last Core vocabulary: High-frequency ●●● S1 W1 noun , pronoun
+last Core vocabulary: High-frequency ●●● S1 W2 verb
+late Core vocabulary: High-frequency ●●● S1 W1 adjective
+late Core vocabulary: High-frequency ●●● S2 W3 adverb
+lately Core vocabulary: High-frequency ●●● S2 adverb
+later Core vocabulary: High-frequency ●●● S1 W1 adverb
+latest Core vocabulary: High-frequency ●●● S2 W2 adjective
+laugh Core vocabulary: High-frequency ●●● S2 W2 verb
+laugh Core vocabulary: High-frequency ●●● S3 noun
+laundry Core vocabulary: High-frequency ●●● S3 noun
+law Core vocabulary: High-frequency ●●● S1 W1 noun
+lawn Core vocabulary: High-frequency ●●● S2 noun
+lawyer Core vocabulary: High-frequency ●●● S3 W2 noun
+lay Core vocabulary: High-frequency ●●● S1 W2 verb
+layer Core vocabulary: High-frequency ●●● S3 W3 noun
+lazy Core vocabulary: High-frequency ●●● S3 adjective
+lead Core vocabulary: High-frequency ●●● S1 W1 verb
+lead Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+leader Core vocabulary: High-frequency ●●● S2 W1 noun
+leadership Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+leaf Core vocabulary: High-frequency ●●● S2 W2 noun
+lean Core vocabulary: Medium-frequency ●●○ S3 verb
+learn Core vocabulary: High-frequency ●●● S1 W1 verb
+least Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+leave Core vocabulary: High-frequency ●●● S1 W1 verb
+leave Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+lecture Core vocabulary: High-frequency ●●● S2 W3 noun
+left Core vocabulary: High-frequency ●●● S1 W1 adjective
+left Core vocabulary: High-frequency ●●● S3 W3 adverb
+left Core vocabulary: High-frequency ●●● S3 W3 noun
+leg Core vocabulary: High-frequency ●●● S1 W1 noun
+legal Core vocabulary: High-frequency ●●● S2 W1 adjective
+lemon Core vocabulary: High-frequency ●●● S3 noun
+lend Core vocabulary: High-frequency ●●● S3 W3 verb
+length Core vocabulary: High-frequency ●●● S2 W2 noun
+less Core vocabulary: High-frequency ●●● S1 W1 adverb
+less Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+lesson Core vocabulary: High-frequency ●●● S2 W3 noun
+let Core vocabulary: High-frequency ●●● S1 W1 verb
+letter Core vocabulary: High-frequency ●●● S1 W1 noun
+lettuce Core vocabulary: High-frequency ●●● S3 noun
+level Core vocabulary: High-frequency ●●● S1 W1 noun
+library Core vocabulary: High-frequency ●●● S2 W1 noun
+licence Core vocabulary: High-frequency ●●● S3 W2 noun
+lick Core vocabulary: High-frequency ●●● S3 verb
+lid Core vocabulary: High-frequency ●●● S3 noun
+lie Core vocabulary: High-frequency ●●● S2 W1 verb
+lie Core vocabulary: High-frequency ●●● S3 W3 verb
+lie Core vocabulary: High-frequency ●●● S3 noun
+life Core vocabulary: High-frequency ●●● S1 W1 noun
+lift Core vocabulary: High-frequency ●●● S2 W2 verb
+lift Core vocabulary: High-frequency ●●● S3 W3 noun
+light Core vocabulary: High-frequency ●●● S1 W1 noun
+light Core vocabulary: High-frequency ●●● S1 W1 adjective
+light Core vocabulary: High-frequency ●●● S2 W3 verb
+lighting Core vocabulary: Medium-frequency ●●○ S3 noun
+like Core vocabulary: High-frequency ●●● S1 W1 preposition
+like Core vocabulary: High-frequency ●●● S1 W1 verb
+like Core vocabulary: High-frequency ●●● S1 conjunction
+like Core vocabulary: Medium-frequency ●●○ S3 adverb
+likely Core vocabulary: High-frequency ●●● S1 W1 adjective
+limit Core vocabulary: High-frequency ●●● S2 W2 noun
+limit Core vocabulary: High-frequency ●●● S3 W2 verb
+line Core vocabulary: High-frequency ●●● S1 W1 noun
+link Core vocabulary: High-frequency ●●● S3 W2 verb
+link Core vocabulary: High-frequency ●●● S3 W2 noun
+lion Core vocabulary: High-frequency ●●● S3 W3 noun
+lip Core vocabulary: High-frequency ●●● S3 W2 noun
+list Core vocabulary: High-frequency ●●● S1 W1 noun
+list Core vocabulary: High-frequency ●●● S2 W3 verb
+listen Core vocabulary: High-frequency ●●● S1 W1 verb
+literally Core vocabulary: Medium-frequency ●●○ S3 adverb
+literature Core vocabulary: High-frequency ●●● S3 W2 noun
+litre Core vocabulary: High-frequency ●●● S3 W3 noun
+litter Core vocabulary: High-frequency ●●● S3 W3 noun
+little Core vocabulary: High-frequency ●●● S1 W1 adjective
+little Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+little Core vocabulary: High-frequency ●●● S1 W1 adverb
+live Core vocabulary: High-frequency ●●● S1 W1 verb
+live Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+lively Core vocabulary: Medium-frequency ●●○ S3 adjective
+load Core vocabulary: High-frequency ●●● S1 W3 noun
+load Core vocabulary: High-frequency ●●● S2 W3 verb
+loaf Core vocabulary: High-frequency ●●● S3 noun
+loan Core vocabulary: High-frequency ●●● S2 W2 noun
+local Core vocabulary: High-frequency ●●● S1 W1 adjective
+location Core vocabulary: High-frequency ●●● S3 W2 noun
+lock Core vocabulary: High-frequency ●●● S2 W3 verb
+lock Core vocabulary: High-frequency ●●● S2 noun
+log Core vocabulary: Medium-frequency ●●○ S3 noun
+logical Core vocabulary: Medium-frequency ●●○ S3 adjective
+lonely Core vocabulary: High-frequency ●●● S3 adjective
+long Core vocabulary: High-frequency ●●● S1 W1 adjective
+long Core vocabulary: High-frequency ●●● S1 W1 adverb
+look Core vocabulary: High-frequency ●●● S1 W1 verb
+look Core vocabulary: High-frequency ●●● S1 W1 noun
+loose Core vocabulary: High-frequency ●●● S3 W3 adjective
+lorry Core vocabulary: High-frequency ●●● S3 noun
+lose Core vocabulary: High-frequency ●●● S1 W1 verb
+loss Core vocabulary: High-frequency ●●● S2 W1 noun
+lost Core vocabulary: High-frequency ●●● S2 W3 adjective
+lot Core vocabulary: High-frequency ●●● S1 W1 pronoun , adverb
+lot Core vocabulary: High-frequency ●●● S2 noun
+loud Core vocabulary: High-frequency ●●● S2 W3 adjective
+loud Core vocabulary: High-frequency ●●● S3 adverb
+lounge Core vocabulary: Medium-frequency ●●○ S3 noun
+love Core vocabulary: High-frequency ●●● S1 W1 verb
+love Core vocabulary: High-frequency ●●● S1 W1 noun
+lovely Core vocabulary: High-frequency ●●● S1 W3 adjective
+low Core vocabulary: High-frequency ●●● S1 W1 adjective
+lower Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+luck Core vocabulary: High-frequency ●●● S2 W3 noun
+luckily Core vocabulary: Medium-frequency ●●○ S3 adverb
+lucky Core vocabulary: High-frequency ●●● S2 W3 adjective
+lunch Core vocabulary: High-frequency ●●● S1 W2 noun
+lunchtime Core vocabulary: Medium-frequency ●●○ S3 noun
+machine Core vocabulary: High-frequency ●●● S1 W1 noun
+mad Core vocabulary: High-frequency ●●● S2 W3 adjective
+magazine Core vocabulary: High-frequency ●●● S2 W2 noun
+magic Core vocabulary: High-frequency ●●● S3 W3 noun
+magic Core vocabulary: High-frequency ●●● S3 W3 adjective
+mail Core vocabulary: High-frequency ●●● S3 W3 noun
+mail Core vocabulary: High-frequency ●●● S3 verb
+main Core vocabulary: High-frequency ●●● S1 W1 adjective
+mainly Core vocabulary: High-frequency ●●● S2 W2 adverb
+maintain Core vocabulary: High-frequency ●●● S2 W1 verb
+major Core vocabulary: High-frequency ●●● S1 W1 adjective
+majority Core vocabulary: High-frequency ●●● S2 W1 noun
+make Core vocabulary: High-frequency ●●● S1 W1 verb
+male Core vocabulary: High-frequency ●●● S3 W2 adjective
+mall Core vocabulary: High-frequency ●●● S3 W3 noun
+man Core vocabulary: High-frequency ●●● S1 W1 noun
+manage Core vocabulary: High-frequency ●●● S1 W1 verb
+management Core vocabulary: High-frequency ●●● S1 W1 noun
+manager Core vocabulary: High-frequency ●●● S1 W1 noun
+manner Core vocabulary: High-frequency ●●● S3 W2 noun
+many Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun , adjective
+map Core vocabulary: High-frequency ●●● S2 W2 noun
+march Core vocabulary: High-frequency ●●● S2 W2 noun
+mark Core vocabulary: High-frequency ●●● S2 W2 verb
+mark Core vocabulary: High-frequency ●●● S3 W2 noun
+market Core vocabulary: High-frequency ●●● S1 W1 noun
+marketing Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+marriage Core vocabulary: High-frequency ●●● S2 W2 noun
+married Core vocabulary: High-frequency ●●● S2 W2 adjective
+marry Core vocabulary: High-frequency ●●● S1 W2 verb
+marvellous Core vocabulary: Medium-frequency ●●○ S3 adjective
+mass Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+massive Core vocabulary: High-frequency ●●● S2 W3 adjective
+master Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+match Core vocabulary: High-frequency ●●● S2 W2 noun
+match Core vocabulary: High-frequency ●●● S3 W2 verb
+mate Core vocabulary: Medium-frequency ●●○ S3 noun
+material Core vocabulary: High-frequency ●●● S1 W1 noun
+math Core vocabulary: High-frequency ●●● S2 noun
+maths Core vocabulary: High-frequency ●●● S2 noun
+matter Core vocabulary: High-frequency ●●● S1 W1 noun
+matter Core vocabulary: High-frequency ●●● S1 W3 verb
+maximum Core vocabulary: High-frequency ●●● S3 W2 adjective
+maximum Core vocabulary: High-frequency ●●● S3 W3 noun
+may Core vocabulary: High-frequency ●●● S1 W1 modal verb
+may Core vocabulary: High-frequency ●●● S2 W3 noun
+maybe Core vocabulary: High-frequency ●●● S1 W1 adverb
+me Core vocabulary: High-frequency ●●● S1 W1 pronoun
+meal Core vocabulary: High-frequency ●●● S2 W2 noun
+mean Core vocabulary: High-frequency ●●● S1 W1 verb
+mean Core vocabulary: High-frequency ●●● S3 adjective
+meaning Core vocabulary: High-frequency ●●● S2 W1 noun
+means Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+measure Core vocabulary: High-frequency ●●● S2 W2 verb
+meat Core vocabulary: High-frequency ●●● S2 W3 noun
+media Core vocabulary: High-frequency ●●● S2 W2 noun
+medical Core vocabulary: High-frequency ●●● S2 W2 adjective
+medicine Core vocabulary: High-frequency ●●● S2 W3 noun
+medium Core vocabulary: High-frequency ●●● S3 adjective
+meet Core vocabulary: High-frequency ●●● S1 W1 verb
+meeting Core vocabulary: High-frequency ●●● S1 W1 noun
+member Core vocabulary: High-frequency ●●● S1 W1 noun
+membership Core vocabulary: High-frequency ●●● S3 W2 noun
+memory Core vocabulary: High-frequency ●●● S2 W1 noun
+mental Core vocabulary: High-frequency ●●● S2 W2 adjective
+mention Core vocabulary: High-frequency ●●● S1 W1 verb
+menu Core vocabulary: High-frequency ●●● S3 noun
+mess Core vocabulary: High-frequency ●●● S2 noun
+mess Core vocabulary: Medium-frequency ●●○ S3 verb
+message Core vocabulary: High-frequency ●●● S1 W2 noun
+messy Core vocabulary: High-frequency ●●● S3 adjective
+metal Core vocabulary: High-frequency ●●● S2 W2 noun
+method Core vocabulary: High-frequency ●●● S1 W1 noun
+metre Core vocabulary: High-frequency ●●● S2 W3 noun
+microwave Core vocabulary: High-frequency ●●● S2 noun
+middle Core vocabulary: High-frequency ●●● S1 W2 noun
+middle Core vocabulary: High-frequency ●●● S1 W2 adjective
+midnight Core vocabulary: High-frequency ●●● S3 noun
+might Core vocabulary: High-frequency ●●● S1 W1 modal verb
+mile Core vocabulary: High-frequency ●●● S1 W1 noun
+military Core vocabulary: High-frequency ●●● S2 W1 adjective
+milk Core vocabulary: High-frequency ●●● S2 W3 noun
+millimetre Core vocabulary: Medium-frequency ●●○ S3 noun
+million Core vocabulary: High-frequency ●●● S3 W1 number
+mind Core vocabulary: High-frequency ●●● S1 W1 noun
+mind Core vocabulary: High-frequency ●●● S1 W2 verb
+mine Core vocabulary: High-frequency ●●● S1 pronoun
+minimum Core vocabulary: High-frequency ●●● S3 W2 adjective
+minimum Core vocabulary: High-frequency ●●● S3 W2 noun
+minor Core vocabulary: High-frequency ●●● S2 W2 adjective
+minority Core vocabulary: High-frequency ●●● S3 W2 noun
+minus Core vocabulary: High-frequency ●●● S3 preposition
+minute Core vocabulary: High-frequency ●●● S1 W1 noun
+mirror Core vocabulary: High-frequency ●●● S3 W3 noun
+miserable Core vocabulary: High-frequency ●●● S3 W3 adjective
+misery Core vocabulary: Medium-frequency ●●○ S3 noun
+miss Core vocabulary: High-frequency ●●● S1 W2 verb
+miss Core vocabulary: High-frequency ●●● S2 W2 noun
+mistake Core vocabulary: High-frequency ●●● S2 W2 noun
+mix Core vocabulary: High-frequency ●●● S2 W3 verb
+mixture Core vocabulary: High-frequency ●●● S3 W3 noun
+mobile Core vocabulary: High-frequency ●●● S1 W2 noun
+model Core vocabulary: High-frequency ●●● S2 W1 noun
+modern Core vocabulary: High-frequency ●●● S1 W1 adjective
+mom Core vocabulary: High-frequency ●●● S1 noun
+moment Core vocabulary: High-frequency ●●● S1 W1 noun
+mommy Core vocabulary: High-frequency ●●● S3 noun
+Monday Core vocabulary: High-frequency ●●● S2 W2 noun
+money Core vocabulary: High-frequency ●●● S1 W1 noun
+monitor Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+monkey Core vocabulary: High-frequency ●●● S3 noun
+month Core vocabulary: High-frequency ●●● S1 W1 noun
+mood Core vocabulary: High-frequency ●●● S3 W3 noun
+moon Core vocabulary: High-frequency ●●● S3 W3 noun
+more Core vocabulary: High-frequency ●●● S1 W1 adverb
+more Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+morning Core vocabulary: High-frequency ●●● S1 W1 noun
+morning Core vocabulary: High-frequency ●●● S2 interjection
+most Core vocabulary: High-frequency ●●● S1 W1 adverb
+most Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+mostly Core vocabulary: High-frequency ●●● S2 W3 adverb
+mother Core vocabulary: High-frequency ●●● S1 W1 noun
+motor Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+motorway Core vocabulary: High-frequency ●●● S2 noun
+mountain Core vocabulary: High-frequency ●●● S3 W3 noun
+mouse Core vocabulary: High-frequency ●●● S2 W3 noun
+moustache Core vocabulary: High-frequency ●●● S3 noun
+mouth Core vocabulary: High-frequency ●●● S2 W1 noun
+move Core vocabulary: High-frequency ●●● S1 W1 verb
+move Core vocabulary: High-frequency ●●● S2 W1 noun
+movement Core vocabulary: High-frequency ●●● S1 W1 noun
+movie Core vocabulary: High-frequency ●●● S2 W2 noun
+much Core vocabulary: High-frequency ●●● S1 W1 adverb
+much Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+mud Core vocabulary: Medium-frequency ●●○ S3 noun
+mum Core vocabulary: High-frequency ●●● S1 W2 noun
+mummy Core vocabulary: High-frequency ●●● S1 noun
+murder Core vocabulary: High-frequency ●●● S3 W2 noun
+muscle Core vocabulary: High-frequency ●●● S2 W3 noun
+museum Core vocabulary: High-frequency ●●● S3 W2 noun
+mushroom Core vocabulary: High-frequency ●●● S3 noun
+music Core vocabulary: High-frequency ●●● S1 W1 noun
+musical Core vocabulary: High-frequency ●●● S3 W3 adjective
+must Core vocabulary: High-frequency ●●● S1 W1 modal verb
+my Core vocabulary: High-frequency ●●● S1 W1 determiner
+myself Core vocabulary: High-frequency ●●● S1 W1 pronoun
+myth Core vocabulary: High-frequency ●●● S3 W3 noun
+nail Core vocabulary: High-frequency ●●● S3 noun
+naked Core vocabulary: High-frequency ●●● S3 adjective
+name Core vocabulary: High-frequency ●●● S1 W1 noun
+name Core vocabulary: High-frequency ●●● S2 W2 verb
+narrow Core vocabulary: High-frequency ●●● S3 W2 adjective
+nasty Core vocabulary: High-frequency ●●● S2 adjective
+nation Core vocabulary: High-frequency ●●● S3 W2 noun
+national Core vocabulary: High-frequency ●●● S1 W1 adjective
+native Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+natural Core vocabulary: High-frequency ●●● S2 W1 adjective
+naturally Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+nature Core vocabulary: High-frequency ●●● S1 W1 noun
+naughty Core vocabulary: Medium-frequency ●●○ S3 adjective
+near Core vocabulary: High-frequency ●●● S1 W1 adverb , preposition
+near Core vocabulary: High-frequency ●●● S2 W3 adjective
+nearly Core vocabulary: High-frequency ●●● S1 W1 adverb
+neat Core vocabulary: High-frequency ●●● S2 adjective
+necessarily Core vocabulary: High-frequency ●●● S2 W2 adverb
+necessary Core vocabulary: High-frequency ●●● S2 W1 adjective
+neck Core vocabulary: High-frequency ●●● S2 W2 noun
+necklace Core vocabulary: High-frequency ●●● S3 noun
+need Core vocabulary: High-frequency ●●● S1 W1 verb
+need Core vocabulary: High-frequency ●●● S1 W1 noun
+negative Core vocabulary: High-frequency ●●● S2 W2 adjective
+negotiate Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+neighbour Core vocabulary: High-frequency ●●● S2 W2 noun
+neighbourhood Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+neither Core vocabulary: High-frequency ●●● S3 W2 determiner , pronoun
+neither Core vocabulary: High-frequency ●●● S3 adverb
+nephew Core vocabulary: High-frequency ●●● S3 noun
+nerve Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+nervous Core vocabulary: High-frequency ●●● S3 W3 adjective
+net Core vocabulary: High-frequency ●●● S2 W2 noun
+network Core vocabulary: High-frequency ●●● S3 W2 noun
+never Core vocabulary: High-frequency ●●● S1 W1 adverb
+new Core vocabulary: High-frequency ●●● S1 W1 adjective
+news Core vocabulary: High-frequency ●●● S1 W1 noun
+newspaper Core vocabulary: High-frequency ●●● S2 W2 noun
+next Core vocabulary: High-frequency ●●● S1 W1 determiner , adjective
+next Core vocabulary: High-frequency ●●● S1 W1 adverb
+next Core vocabulary: High-frequency ●●● S3 W3 pronoun
+nice Core vocabulary: High-frequency ●●● S1 W2 adjective
+nicely Core vocabulary: Medium-frequency ●●○ S3 adverb
+niece Core vocabulary: High-frequency ●●● S3 noun
+night Core vocabulary: High-frequency ●●● S1 W1 noun
+nine Core vocabulary: High-frequency ●●● S2 W2 number
+nineteen Core vocabulary: High-frequency ●●● S3 W3 number
+ninety Core vocabulary: High-frequency ●●● S3 W3 number
+ninth Core vocabulary: High-frequency ●●● S3 W3 adjective
+no Core vocabulary: High-frequency ●●● S1 W1 adverb
+no Core vocabulary: High-frequency ●●● S1 W1 determiner
+nobody Core vocabulary: High-frequency ●●● S1 W2 pronoun
+noise Core vocabulary: High-frequency ●●● S2 W2 noun
+noisy Core vocabulary: High-frequency ●●● S3 adjective
+none Core vocabulary: High-frequency ●●● S1 W2 pronoun
+nonsense Core vocabulary: Medium-frequency ●●○ S3 noun
+nor Core vocabulary: High-frequency ●●● S2 W1 conjunction , adverb
+normal Core vocabulary: High-frequency ●●● S1 W1 adjective
+normally Core vocabulary: High-frequency ●●● S1 W2 adverb
+north Core vocabulary: High-frequency ●●● S2 W1 noun
+north Core vocabulary: High-frequency ●●● S3 W3 adjective
+north Core vocabulary: High-frequency ●●● S3 W1 adverb
+northern Core vocabulary: High-frequency ●●● S2 W2 adjective
+nose Core vocabulary: High-frequency ●●● S2 W2 noun
+not Core vocabulary: High-frequency ●●● S1 W1 adverb
+note Core vocabulary: High-frequency ●●● S1 W2 noun
+notebook Core vocabulary: High-frequency ●●● S3 noun
+nothing Core vocabulary: High-frequency ●●● S1 W1 pronoun
+notice Core vocabulary: High-frequency ●●● S1 W2 verb
+notice Core vocabulary: High-frequency ●●● S2 W2 noun
+November Core vocabulary: High-frequency ●●● S2 W2 noun
+now Core vocabulary: High-frequency ●●● S1 W1 adverb
+now Core vocabulary: High-frequency ●●● S1 W3 conjunction
+nowadays Core vocabulary: Medium-frequency ●●○ S3 adverb
+nowhere Core vocabulary: High-frequency ●●● S2 adverb
+nuisance Core vocabulary: Medium-frequency ●●○ S3 noun
+number Core vocabulary: High-frequency ●●● S1 W1 noun
+nurse Core vocabulary: High-frequency ●●● S2 W3 noun
+nut Core vocabulary: High-frequency ●●● S3 noun
+object Core vocabulary: High-frequency ●●● S2 W2 noun
+objective Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+obtain Core vocabulary: High-frequency ●●● S3 W2 verb
+obvious Core vocabulary: High-frequency ●●● S2 W2 adjective
+obviously Core vocabulary: High-frequency ●●● S1 W2 adverb
+occasion Core vocabulary: High-frequency ●●● S1 W2 noun
+occasional Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+occasionally Core vocabulary: High-frequency ●●● S2 W3 adverb
+occupation Core vocabulary: High-frequency ●●● S3 W3 noun
+occur Core vocabulary: High-frequency ●●● S3 W1 verb
+ocean Core vocabulary: High-frequency ●●● S3 W2 noun
+October Core vocabulary: High-frequency ●●● S2 W2 noun
+odd Core vocabulary: High-frequency ●●● S1 W3 adjective
+odds Core vocabulary: Medium-frequency ●●○ S3 noun
+of Core vocabulary: High-frequency ●●● S1 W1 preposition
+off Core vocabulary: High-frequency ●●● S1 W1 adverb , preposition , adjective
+offence Core vocabulary: High-frequency ●●● S3 W2 noun
+offer Core vocabulary: High-frequency ●●● S1 W1 verb
+offer Core vocabulary: High-frequency ●●● S2 W1 noun
+office Core vocabulary: High-frequency ●●● S1 W1 noun
+officer Core vocabulary: High-frequency ●●● S1 W1 noun
+official Core vocabulary: High-frequency ●●● S3 W1 noun
+official Core vocabulary: High-frequency ●●● S3 W2 adjective
+often Core vocabulary: High-frequency ●●● S1 W1 adverb
+oil Core vocabulary: High-frequency ●●● S2 W1 noun
+OK Core vocabulary: High-frequency ●●● S1 interjection
+OK Core vocabulary: High-frequency ●●● S1 adjective , adverb
+old Core vocabulary: High-frequency ●●● S1 W1 adjective
+on Core vocabulary: High-frequency ●●● S1 W1 preposition
+on Core vocabulary: High-frequency ●●● S1 W1 adjective , adverb
+once Core vocabulary: High-frequency ●●● S1 W1 adverb
+once Core vocabulary: High-frequency ●●● S1 W1 conjunction
+one Core vocabulary: High-frequency ●●● S1 W1 number
+one Core vocabulary: High-frequency ●●● S1 W1 pronoun
+one Core vocabulary: High-frequency ●●● S1 W1 determiner
+one Core vocabulary: High-frequency ●●● S3 W3 adjective
+onion Core vocabulary: High-frequency ●●● S3 noun
+online Core vocabulary: High-frequency ●●● S2 W2 adjective
+only Core vocabulary: High-frequency ●●● S1 W1 adverb
+only Core vocabulary: High-frequency ●●● S1 W1 adjective
+onto Core vocabulary: High-frequency ●●● S1 W2 preposition
+open Core vocabulary: High-frequency ●●● S1 W1 adjective
+open Core vocabulary: High-frequency ●●● S1 W1 verb
+opening Core vocabulary: Medium-frequency ●●○ S3 noun
+operate Core vocabulary: High-frequency ●●● S3 W2 verb
+operation Core vocabulary: High-frequency ●●● S1 W1 noun
+opinion Core vocabulary: High-frequency ●●● S1 W2 noun
+opportunity Core vocabulary: High-frequency ●●● S1 W1 noun
+oppose Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+opposite Core vocabulary: High-frequency ●●● S2 W2 preposition
+opposite Core vocabulary: High-frequency ●●● S3 W2 adjective
+option Core vocabulary: High-frequency ●●● S1 W2 noun
+or Core vocabulary: High-frequency ●●● S1 W1 conjunction
+orange Core vocabulary: High-frequency ●●● S1 W2 noun
+orange Core vocabulary: High-frequency ●●● S2 W2 adjective
+order Core vocabulary: High-frequency ●●● S1 W1 noun
+order Core vocabulary: High-frequency ●●● S2 W2 verb
+ordinary Core vocabulary: High-frequency ●●● S1 W2 adjective
+organization Core vocabulary: High-frequency ●●● S2 W1 noun
+organize Core vocabulary: High-frequency ●●● S1 W2 verb
+organized Core vocabulary: Medium-frequency ●●○ S3 adjective
+original Core vocabulary: High-frequency ●●● S1 W1 adjective
+originally Core vocabulary: High-frequency ●●● S2 W2 adverb
+other Core vocabulary: High-frequency ●●● S1 W1 determiner , adjective , pronoun
+otherwise Core vocabulary: High-frequency ●●● S1 W2 adverb
+ounce Core vocabulary: High-frequency ●●● S3 W3 noun
+our Core vocabulary: High-frequency ●●● S1 W1 determiner
+ours Core vocabulary: High-frequency ●●● S1 pronoun
+ourselves Core vocabulary: High-frequency ●●● S1 W3 pronoun
+out Core vocabulary: High-frequency ●●● S1 W1 adverb
+out Core vocabulary: High-frequency ●●● S1 W2 preposition
+outside Core vocabulary: High-frequency ●●● S1 W1 adverb , preposition
+outside Core vocabulary: High-frequency ●●● S2 W2 adjective
+outside Core vocabulary: High-frequency ●●● S3 noun
+oven Core vocabulary: High-frequency ●●● S3 noun
+over Core vocabulary: High-frequency ●●● S1 W1 preposition
+over Core vocabulary: High-frequency ●●● S1 W1 adverb , adjective
+overall Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+owe Core vocabulary: High-frequency ●●● S2 W3 verb
+own Core vocabulary: High-frequency ●●● S1 W1 adjective , pronoun
+own Core vocabulary: High-frequency ●●● S2 W2 verb
+owner Core vocabulary: High-frequency ●●● S2 W2 noun
+pack Core vocabulary: High-frequency ●●● S2 W3 verb
+pack Core vocabulary: High-frequency ●●● S2 W3 noun
+package Core vocabulary: High-frequency ●●● S2 W2 noun
+packet Core vocabulary: High-frequency ●●● S2 noun
+pad Core vocabulary: Medium-frequency ●●○ S3 noun
+page Core vocabulary: High-frequency ●●● S1 W1 noun
+pain Core vocabulary: High-frequency ●●● S2 W2 noun
+paint Core vocabulary: High-frequency ●●● S2 W2 noun
+paint Core vocabulary: High-frequency ●●● S2 W3 verb
+painting Core vocabulary: High-frequency ●●● S3 W2 noun
+pair Core vocabulary: High-frequency ●●● S2 W2 noun
+pan Core vocabulary: High-frequency ●●● S3 W3 noun
+pancake Core vocabulary: High-frequency ●●● S3 noun
+panel Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+panic Core vocabulary: Medium-frequency ●●○ S3 noun
+pants Core vocabulary: High-frequency ●●● S3 noun
+paper Core vocabulary: High-frequency ●●● S1 W1 noun
+paper Core vocabulary: High-frequency ●●● S3 W2 adjective
+paragraph Core vocabulary: High-frequency ●●● S2 noun
+parcel Core vocabulary: Medium-frequency ●●○ S3 noun
+pardon Core vocabulary: High-frequency ●●● S2 interjection
+parent Core vocabulary: High-frequency ●●● S1 W1 noun
+park Core vocabulary: High-frequency ●●● S1 W2 noun
+park Core vocabulary: High-frequency ●●● S2 verb
+parking Core vocabulary: High-frequency ●●● S3 noun
+part Core vocabulary: High-frequency ●●● S1 W1 noun
+particular Core vocabulary: High-frequency ●●● S1 W1 adjective
+particularly Core vocabulary: High-frequency ●●● S1 W1 adverb
+partly Core vocabulary: High-frequency ●●● S2 W2 adverb
+partner Core vocabulary: High-frequency ●●● S2 W2 noun
+party Core vocabulary: High-frequency ●●● S1 W1 noun
+pass Core vocabulary: High-frequency ●●● S1 W1 verb
+pass Core vocabulary: High-frequency ●●● S2 W3 noun
+passenger Core vocabulary: High-frequency ●●● S3 W2 noun
+password Core vocabulary: High-frequency ●●● S2 W2 noun
+past Core vocabulary: High-frequency ●●● S1 W1 adjective
+past Core vocabulary: High-frequency ●●● S1 W2 preposition , adverb
+past Core vocabulary: High-frequency ●●● S1 W2 noun
+pasta Core vocabulary: High-frequency ●●● S2 noun
+path Core vocabulary: High-frequency ●●● S2 W2 noun
+patience Core vocabulary: Medium-frequency ●●○ S3 noun
+patient Core vocabulary: High-frequency ●●● S2 W1 noun
+pattern Core vocabulary: High-frequency ●●● S2 W1 noun
+pay Core vocabulary: High-frequency ●●● S1 W1 verb
+pay Core vocabulary: High-frequency ●●● S1 W2 noun
+payment Core vocabulary: High-frequency ●●● S2 W1 noun
+pea Core vocabulary: High-frequency ●●● S3 noun
+peace Core vocabulary: High-frequency ●●● S2 W2 noun
+peaceful Core vocabulary: Medium-frequency ●●○ S3 adjective
+peach Core vocabulary: High-frequency ●●● S3 noun
+peanut Core vocabulary: High-frequency ●●● S3 noun
+pear Core vocabulary: High-frequency ●●● S3 noun
+pen Core vocabulary: High-frequency ●●● S2 noun
+pencil Core vocabulary: High-frequency ●●● S2 noun
+penny Core vocabulary: High-frequency ●●● S1 noun
+pension Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+people Core vocabulary: High-frequency ●●● S1 W1 noun
+pepper Core vocabulary: High-frequency ●●● S3 noun
+per Core vocabulary: High-frequency ●●● S3 W1 preposition
+percent Core vocabulary: High-frequency ●●● S3 W2 noun
+perfect Core vocabulary: High-frequency ●●● S2 W2 adjective
+perfectly Core vocabulary: High-frequency ●●● S2 W3 adverb
+perform Core vocabulary: High-frequency ●●● S3 W2 verb
+performance Core vocabulary: High-frequency ●●● S2 W1 noun
+perhaps Core vocabulary: High-frequency ●●● S1 W1 adverb
+period Core vocabulary: High-frequency ●●● S1 W1 noun
+permanent Core vocabulary: High-frequency ●●● S2 W2 adjective
+permission Core vocabulary: High-frequency ●●● S2 W3 noun
+person Core vocabulary: High-frequency ●●● S1 W1 noun
+personal Core vocabulary: High-frequency ●●● S1 W1 adjective
+personality Core vocabulary: High-frequency ●●● S3 W3 noun
+personally Core vocabulary: High-frequency ●●● S2 adverb
+persuade Core vocabulary: High-frequency ●●● S3 W2 verb
+pet Core vocabulary: High-frequency ●●● S2 noun
+petrol Core vocabulary: High-frequency ●●● S3 noun
+pharmacy Core vocabulary: High-frequency ●●● S3 noun
+phone Core vocabulary: High-frequency ●●● S1 W2 noun
+phone Core vocabulary: High-frequency ●●● S1 verb
+photo Core vocabulary: High-frequency ●●● S3 W3 noun
+photograph Core vocabulary: High-frequency ●●● S2 W2 noun
+phrase Core vocabulary: High-frequency ●●● S3 W3 noun
+physical Core vocabulary: High-frequency ●●● S2 W1 adjective
+physically Core vocabulary: Medium-frequency ●●○ S3 adverb
+physics Core vocabulary: High-frequency ●●● S3 noun
+piano Core vocabulary: High-frequency ●●● S3 noun
+pick Core vocabulary: High-frequency ●●● S1 W1 verb
+picnic Core vocabulary: High-frequency ●●● S3 noun
+picture Core vocabulary: High-frequency ●●● S1 W1 noun
+pie Core vocabulary: High-frequency ●●● S2 noun
+piece Core vocabulary: High-frequency ●●● S1 W1 noun
+pig Core vocabulary: High-frequency ●●● S2 noun
+pile Core vocabulary: High-frequency ●●● S2 noun
+pill Core vocabulary: High-frequency ●●● S3 noun
+pillow Core vocabulary: High-frequency ●●● S3 noun
+pin Core vocabulary: High-frequency ●●● S3 noun
+pink Core vocabulary: High-frequency ●●● S2 adjective
+pink Core vocabulary: High-frequency ●●● S2 noun
+pipe Core vocabulary: High-frequency ●●● S2 W3 noun
+pitch Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+pity Core vocabulary: Medium-frequency ●●○ S3 noun
+pizza Core vocabulary: High-frequency ●●● S2 noun
+place Core vocabulary: High-frequency ●●● S1 W1 noun
+place Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+plain Core vocabulary: High-frequency ●●● S2 W3 adjective
+plan Core vocabulary: High-frequency ●●● S1 W1 noun
+plan Core vocabulary: High-frequency ●●● S1 W1 verb
+plane Core vocabulary: High-frequency ●●● S2 W2 noun
+plant Core vocabulary: High-frequency ●●● S2 W1 noun
+plastic Core vocabulary: High-frequency ●●● S2 W2 adjective
+plastic Core vocabulary: High-frequency ●●● S3 W2 noun
+plate Core vocabulary: High-frequency ●●● S2 W2 noun
+platform Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+play Core vocabulary: High-frequency ●●● S1 W1 verb
+play Core vocabulary: High-frequency ●●● S1 W2 noun
+player Core vocabulary: High-frequency ●●● S2 W1 noun
+playground Core vocabulary: High-frequency ●●● S3 noun
+pleasant Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+please Core vocabulary: High-frequency ●●● S1 W2 interjection
+pleased Core vocabulary: High-frequency ●●● S2 W3 adjective
+pleasure Core vocabulary: High-frequency ●●● S2 W2 noun
+plenty Core vocabulary: High-frequency ●●● S1 W1 pronoun
+plug Core vocabulary: High-frequency ●●● S3 noun
+plug Core vocabulary: High-frequency ●●● S3 verb
+plus Core vocabulary: High-frequency ●●● S1 W2 preposition
+pocket Core vocabulary: High-frequency ●●● S2 W2 noun
+poem Core vocabulary: High-frequency ●●● S3 W3 noun
+point Core vocabulary: High-frequency ●●● S1 W1 noun
+point Core vocabulary: High-frequency ●●● S2 W2 verb
+police Core vocabulary: High-frequency ●●● S1 W1 noun
+policeman Core vocabulary: High-frequency ●●● S2 W3 noun
+policy Core vocabulary: High-frequency ●●● S3 W1 noun
+polish Core vocabulary: High-frequency ●●● S3 verb
+polish Core vocabulary: High-frequency ●●● S3 noun
+polite Core vocabulary: High-frequency ●●● S3 adjective
+political Core vocabulary: High-frequency ●●● S2 W1 adjective
+politics Core vocabulary: High-frequency ●●● S2 W2 noun
+pollution Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+pond Core vocabulary: Medium-frequency ●●○ S3 noun
+pool Core vocabulary: High-frequency ●●● S2 W2 noun
+poor Core vocabulary: High-frequency ●●● S1 W1 adjective
+pop Core vocabulary: Medium-frequency ●●○ S3 verb
+pop Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+popcorn Core vocabulary: High-frequency ●●● S3 noun
+popular Core vocabulary: High-frequency ●●● S2 W1 adjective
+population Core vocabulary: High-frequency ●●● S2 W1 noun
+porch Core vocabulary: High-frequency ●●● S3 noun
+pork Core vocabulary: High-frequency ●●● S3 noun
+position Core vocabulary: High-frequency ●●● S1 W1 noun
+positive Core vocabulary: High-frequency ●●● S2 W2 adjective
+possibility Core vocabulary: High-frequency ●●● S2 W2 noun
+possible Core vocabulary: High-frequency ●●● S1 W1 adjective
+possibly Core vocabulary: High-frequency ●●● S1 W2 adverb
+post Core vocabulary: High-frequency ●●● S2 W2 noun
+post Core vocabulary: High-frequency ●●● S3 verb
+postcard Core vocabulary: High-frequency ●●● S3 noun
+poster Core vocabulary: High-frequency ●●● S3 noun
+pot Core vocabulary: High-frequency ●●● S2 W2 noun
+potato Core vocabulary: High-frequency ●●● S2 noun
+potential Core vocabulary: High-frequency ●●● S3 W2 adjective
+pound Core vocabulary: High-frequency ●●● S1 W2 noun
+pour Core vocabulary: High-frequency ●●● S2 W3 verb
+power Core vocabulary: High-frequency ●●● S1 W1 noun
+powerful Core vocabulary: High-frequency ●●● S3 W2 adjective
+practical Core vocabulary: High-frequency ●●● S3 W2 adjective
+practice Core vocabulary: High-frequency ●●● S2 W1 noun
+practise Core vocabulary: High-frequency ●●● S3 W3 verb
+pray Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+prayer Core vocabulary: High-frequency ●●● S3 W3 noun
+prefer Core vocabulary: High-frequency ●●● S2 W2 verb
+pregnant Core vocabulary: Medium-frequency ●●○ S3 adjective
+preparation Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+prepare Core vocabulary: High-frequency ●●● S1 W1 verb
+present Core vocabulary: High-frequency ●●● S2 W2 adjective
+present Core vocabulary: High-frequency ●●● S2 W2 verb
+present Core vocabulary: High-frequency ●●● S2 W3 noun
+presentation Core vocabulary: Medium-frequency ●●○ S3 noun
+President Core vocabulary: High-frequency ●●● S2 W2 noun
+press Core vocabulary: High-frequency ●●● S2 W1 noun
+press Core vocabulary: High-frequency ●●● S1 W2 verb
+pressure Core vocabulary: High-frequency ●●● S1 W1 noun
+presumably Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+presume Core vocabulary: Medium-frequency ●●○ S3 verb
+pretend Core vocabulary: High-frequency ●●● S2 W3 verb
+pretty Core vocabulary: High-frequency ●●● S1 W3 adverb
+pretty Core vocabulary: High-frequency ●●● S2 W3 adjective
+prevent Core vocabulary: High-frequency ●●● S2 W1 verb
+previous Core vocabulary: High-frequency ●●● S1 W1 adjective
+previously Core vocabulary: High-frequency ●●● S3 W2 adverb
+price Core vocabulary: High-frequency ●●● S1 W1 noun
+pride Core vocabulary: High-frequency ●●● S3 W3 noun
+principle Core vocabulary: High-frequency ●●● S2 W1 noun
+print Core vocabulary: High-frequency ●●● S2 W3 verb
+printer Core vocabulary: High-frequency ●●● S3 W3 noun
+priority Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+prison Core vocabulary: High-frequency ●●● S2 W2 noun
+prisoner Core vocabulary: High-frequency ●●● S3 W2 noun
+private Core vocabulary: High-frequency ●●● S1 W1 adjective
+prize Core vocabulary: High-frequency ●●● S2 W2 noun
+probably Core vocabulary: High-frequency ●●● S1 W1 adverb
+problem Core vocabulary: High-frequency ●●● S1 W1 noun
+proceed Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+process Core vocabulary: High-frequency ●●● S1 W1 noun
+produce Core vocabulary: High-frequency ●●● S1 W1 verb
+product Core vocabulary: High-frequency ●●● S1 W1 noun
+production Core vocabulary: High-frequency ●●● S1 W1 noun
+professional Core vocabulary: High-frequency ●●● S2 W1 adjective
+professor Core vocabulary: High-frequency ●●● S3 W3 noun
+profit Core vocabulary: High-frequency ●●● S1 W1 noun
+programme Core vocabulary: High-frequency ●●● S1 W1 noun
+progress Core vocabulary: High-frequency ●●● S2 W2 noun
+project Core vocabulary: High-frequency ●●● S1 W1 noun
+promise Core vocabulary: High-frequency ●●● S2 W2 verb
+promise Core vocabulary: High-frequency ●●● S3 W2 noun
+promotion Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+pronounce Core vocabulary: High-frequency ●●● S3 verb
+pronunciation Core vocabulary: High-frequency ●●● S3 noun
+proof Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+proper Core vocabulary: High-frequency ●●● S1 W2 adjective
+properly Core vocabulary: High-frequency ●●● S1 W2 adverb
+property Core vocabulary: High-frequency ●●● S2 W1 noun
+proposal Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+protect Core vocabulary: High-frequency ●●● S2 W2 verb
+protection Core vocabulary: High-frequency ●●● S2 W2 noun
+proud Core vocabulary: High-frequency ●●● S2 W3 adjective
+prove Core vocabulary: High-frequency ●●● S2 W1 verb
+provide Core vocabulary: High-frequency ●●● S1 W1 verb
+provided Core vocabulary: Medium-frequency ●●○ S3 W2 conjunction
+providing Core vocabulary: Medium-frequency ●●○ S3 conjunction
+pub Core vocabulary: High-frequency ●●● S2 W3 noun
+public Core vocabulary: High-frequency ●●● S1 W1 adjective
+public Core vocabulary: High-frequency ●●● S2 W2 noun
+publicity Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+publish Core vocabulary: High-frequency ●●● S3 W1 verb
+pudding Core vocabulary: High-frequency ●●● S3 noun
+pull Core vocabulary: High-frequency ●●● S1 W1 verb
+punch Core vocabulary: High-frequency ●●● S3 verb
+pupil Core vocabulary: High-frequency ●●● S2 W1 noun
+puppy Core vocabulary: High-frequency ●●● S3 noun
+pure Core vocabulary: High-frequency ●●● S3 W3 adjective
+purely Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+purple Core vocabulary: High-frequency ●●● S3 W3 noun
+purple Core vocabulary: High-frequency ●●● S3 W3 adjective
+purpose Core vocabulary: High-frequency ●●● S2 W2 noun
+purse Core vocabulary: High-frequency ●●● S3 noun
+pursue Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+push Core vocabulary: High-frequency ●●● S1 W1 verb
+put Core vocabulary: High-frequency ●●● S1 W1 verb
+puzzle Core vocabulary: High-frequency ●●● S3 noun
+qualify Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+quality Core vocabulary: High-frequency ●●● S1 W1 noun
+quantity Core vocabulary: High-frequency ●●● S3 W2 noun
+quarter Core vocabulary: High-frequency ●●● S1 W2 noun
+queen Core vocabulary: High-frequency ●●● S2 W2 noun
+question Core vocabulary: High-frequency ●●● S1 W1 noun
+question Core vocabulary: High-frequency ●●● S2 W3 verb
+queue Core vocabulary: Medium-frequency ●●○ S3 noun
+quick Core vocabulary: High-frequency ●●● S1 W2 adjective
+quick Core vocabulary: High-frequency ●●● S1 interjection
+quick Core vocabulary: Medium-frequency ●●○ S3 adverb
+quickly Core vocabulary: High-frequency ●●● S1 W1 adverb
+quiet Core vocabulary: High-frequency ●●● S2 W2 adjective
+quietly Core vocabulary: High-frequency ●●● S3 W3 adverb
+quit Core vocabulary: Medium-frequency ●●○ S3 verb
+quite Core vocabulary: High-frequency ●●● S1 W1 predeterminer , adverb
+quiz Core vocabulary: High-frequency ●●● S3 noun
+quote Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+rabbit Core vocabulary: High-frequency ●●● S3 noun
+race Core vocabulary: High-frequency ●●● S2 W2 noun
+race Core vocabulary: High-frequency ●●● S3 W3 verb
+radio Core vocabulary: High-frequency ●●● S1 W2 noun
+rail Core vocabulary: High-frequency ●●● S2 W2 noun
+railway Core vocabulary: High-frequency ●●● S2 W2 noun
+rain Core vocabulary: High-frequency ●●● S2 W2 noun
+rain Core vocabulary: High-frequency ●●● S3 verb
+rainy Core vocabulary: High-frequency ●●● S3 adjective
+raise Core vocabulary: High-frequency ●●● S1 W1 verb
+range Core vocabulary: High-frequency ●●● S1 W1 noun
+rare Core vocabulary: High-frequency ●●● S3 W2 adjective
+raspberry Core vocabulary: High-frequency ●●● S3 noun
+rate Core vocabulary: High-frequency ●●● S1 W1 noun
+rather Core vocabulary: High-frequency ●●● S1 W1 predeterminer , adverb
+reach Core vocabulary: High-frequency ●●● S1 W1 verb
+react Core vocabulary: High-frequency ●●● S3 W3 verb
+reaction Core vocabulary: High-frequency ●●● S2 W2 noun
+read Core vocabulary: High-frequency ●●● S1 W1 verb
+reader Core vocabulary: High-frequency ●●● S3 W2 noun
+ready Core vocabulary: High-frequency ●●● S1 W2 adjective
+real Core vocabulary: High-frequency ●●● S1 W1 adjective
+real Core vocabulary: High-frequency ●●● S2 adverb
+realistic Core vocabulary: Medium-frequency ●●○ S3 adjective
+reality Core vocabulary: High-frequency ●●● S2 W2 noun
+realize Core vocabulary: High-frequency ●●● S1 W1 verb
+really Core vocabulary: High-frequency ●●● S1 W1 adverb
+reason Core vocabulary: High-frequency ●●● S1 W1 noun
+reasonable Core vocabulary: High-frequency ●●● S1 W2 adjective
+reasonably Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+recall Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+receipt Core vocabulary: High-frequency ●●● S2 noun
+receive Core vocabulary: High-frequency ●●● S1 W1 verb
+recent Core vocabulary: High-frequency ●●● S2 W1 adjective
+recently Core vocabulary: High-frequency ●●● S1 W1 adverb
+recipe Core vocabulary: High-frequency ●●● S3 noun
+reckon Core vocabulary: Medium-frequency ●●○ S3 verb
+recognize Core vocabulary: High-frequency ●●● S1 W1 verb
+recommend Core vocabulary: High-frequency ●●● S2 W2 verb
+recommendation Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+record Core vocabulary: High-frequency ●●● S1 W1 noun
+record Core vocabulary: High-frequency ●●● S3 W2 verb
+red Core vocabulary: High-frequency ●●● S1 W1 adjective
+red Core vocabulary: High-frequency ●●● S2 W2 noun
+reduce Core vocabulary: High-frequency ●●● S1 W1 verb
+reduction Core vocabulary: High-frequency ●●● S3 W2 noun
+refer Core vocabulary: High-frequency ●●● S1 W1 verb
+reference Core vocabulary: High-frequency ●●● S2 W1 noun
+reflect Core vocabulary: High-frequency ●●● S2 W1 verb
+refrigerator Core vocabulary: High-frequency ●●● S3 noun
+refuse Core vocabulary: High-frequency ●●● S2 W1 verb
+region Core vocabulary: High-frequency ●●● S1 W1 noun
+regional Core vocabulary: High-frequency ●●● S1 W2 adjective
+register Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+register Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+registration Core vocabulary: Medium-frequency ●●○ S3 noun
+regular Core vocabulary: High-frequency ●●● S2 W2 adjective
+regularly Core vocabulary: High-frequency ●●● S3 W3 adverb
+relate Core vocabulary: High-frequency ●●● S2 W1 verb
+related Core vocabulary: High-frequency ●●● S2 W3 adjective
+relation Core vocabulary: High-frequency ●●● S2 W1 noun
+relationship Core vocabulary: High-frequency ●●● S1 W1 noun
+relative Core vocabulary: High-frequency ●●● S3 W3 noun
+relatively Core vocabulary: Medium-frequency ●●○ S3 W2 adverb
+relax Core vocabulary: High-frequency ●●● S3 W3 verb
+relaxed Core vocabulary: High-frequency ●●● S2 W3 adjective
+release Core vocabulary: High-frequency ●●● S3 W1 verb
+release Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+relevant Core vocabulary: High-frequency ●●● S2 W2 adjective
+relieve Core vocabulary: Medium-frequency ●●○ S3 verb
+religion Core vocabulary: High-frequency ●●● S2 W2 noun
+religious Core vocabulary: High-frequency ●●● S2 W2 adjective
+rely Core vocabulary: High-frequency ●●● S3 W2 verb
+remain Core vocabulary: High-frequency ●●● S1 W1 verb
+remember Core vocabulary: High-frequency ●●● S1 W1 verb
+remind Core vocabulary: High-frequency ●●● S1 W2 verb
+remove Core vocabulary: High-frequency ●●● S2 W1 verb
+rent Core vocabulary: High-frequency ●●● S2 W3 verb
+rent Core vocabulary: High-frequency ●●● S2 W3 noun
+repeat Core vocabulary: High-frequency ●●● S2 W2 verb
+replace Core vocabulary: High-frequency ●●● S2 W1 verb
+reply Core vocabulary: High-frequency ●●● S3 W3 noun
+report Core vocabulary: High-frequency ●●● S2 W1 noun
+report Core vocabulary: High-frequency ●●● S2 W1 verb
+reporter Core vocabulary: High-frequency ●●● S3 noun
+represent Core vocabulary: High-frequency ●●● S2 W1 verb
+request Core vocabulary: High-frequency ●●● S3 W2 noun
+require Core vocabulary: High-frequency ●●● S1 W1 verb
+requirement Core vocabulary: High-frequency ●●● S2 W2 noun
+rescue Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+research Core vocabulary: High-frequency ●●● S2 W1 noun
+reservation Core vocabulary: High-frequency ●●● S3 W3 noun
+resident Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+resistance Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+resource Core vocabulary: High-frequency ●●● S2 W1 noun
+respect Core vocabulary: High-frequency ●●● S3 W2 noun
+respect Core vocabulary: High-frequency ●●● S3 W2 verb
+respond Core vocabulary: High-frequency ●●● S2 W2 verb
+response Core vocabulary: High-frequency ●●● S1 W1 noun
+responsibility Core vocabulary: High-frequency ●●● S2 W1 noun
+responsible Core vocabulary: High-frequency ●●● S2 W2 adjective
+rest Core vocabulary: High-frequency ●●● S1 W1 noun
+rest Core vocabulary: High-frequency ●●● S3 W3 verb
+restaurant Core vocabulary: High-frequency ●●● S2 W2 noun
+result Core vocabulary: High-frequency ●●● S1 W1 noun
+retire Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+retirement Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+return Core vocabulary: High-frequency ●●● S2 W1 verb
+return Core vocabulary: High-frequency ●●● S2 W2 noun
+review Core vocabulary: High-frequency ●●● S2 W2 noun
+review Core vocabulary: High-frequency ●●● S3 W3 verb
+rice Core vocabulary: High-frequency ●●● S3 noun
+rich Core vocabulary: High-frequency ●●● S2 W2 adjective
+rid Core vocabulary: Medium-frequency ●●○ S3 adjective
+ride Core vocabulary: High-frequency ●●● S2 W2 verb
+ride Core vocabulary: High-frequency ●●● S3 noun
+ridiculous Core vocabulary: Medium-frequency ●●○ S3 adjective
+right Core vocabulary: High-frequency ●●● S1 W1 adjective
+right Core vocabulary: High-frequency ●●● S1 W1 adverb
+right Core vocabulary: High-frequency ●●● S1 W1 noun
+right Core vocabulary: High-frequency ●●● S2 interjection
+ring Core vocabulary: High-frequency ●●● S1 W2 noun
+ring Core vocabulary: High-frequency ●●● S1 W2 verb
+rip Core vocabulary: Medium-frequency ●●○ S3 verb
+rise Core vocabulary: High-frequency ●●● S2 W1 verb
+rise Core vocabulary: High-frequency ●●● S3 W2 noun
+risk Core vocabulary: High-frequency ●●● S2 W1 noun
+river Core vocabulary: High-frequency ●●● S2 W2 noun
+road Core vocabulary: High-frequency ●●● S1 W1 noun
+rob Core vocabulary: Medium-frequency ●●○ S3 verb
+rock Core vocabulary: High-frequency ●●● S2 W2 noun
+role Core vocabulary: High-frequency ●●● S2 W1 noun
+roll Core vocabulary: High-frequency ●●● S1 W2 verb
+roof Core vocabulary: High-frequency ●●● S2 W2 noun
+room Core vocabulary: High-frequency ●●● S1 W1 noun
+root Core vocabulary: High-frequency ●●● S2 W2 noun
+rope Core vocabulary: High-frequency ●●● S3 W3 noun
+rosé Core vocabulary: High-frequency ●●● S3 noun
+rough Core vocabulary: High-frequency ●●● S2 W3 adjective
+roughly Core vocabulary: High-frequency ●●● S2 adverb
+round Core vocabulary: High-frequency ●●● S2 W2 adverb, preposition
+round Core vocabulary: High-frequency ●●● S1 W2 adjective
+route Core vocabulary: High-frequency ●●● S3 W2 noun
+row Core vocabulary: High-frequency ●●● S2 W2 noun
+royal Core vocabulary: High-frequency ●●● S3 W1 adjective
+rub Core vocabulary: High-frequency ●●● S2 verb
+rubber Core vocabulary: Medium-frequency ●●○ S3 noun
+rubbish Core vocabulary: High-frequency ●●● S2 noun
+rude Core vocabulary: High-frequency ●●● S3 adjective
+rug Core vocabulary: High-frequency ●●● S3 noun
+rugby Core vocabulary: High-frequency ●●● S3 noun
+ruin Core vocabulary: Medium-frequency ●●○ S3 verb
+rule Core vocabulary: High-frequency ●●● S1 W1 noun
+run Core vocabulary: High-frequency ●●● S1 W1 verb
+run Core vocabulary: High-frequency ●●● S1 W1 noun
+running Core vocabulary: High-frequency ●●● S3 noun
+rural Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+rush Core vocabulary: High-frequency ●●● S2 W3 verb
+sack Core vocabulary: Medium-frequency ●●○ S3 noun
+sad Core vocabulary: High-frequency ●●● S2 W3 adjective
+safe Core vocabulary: High-frequency ●●● S2 W2 adjective
+safety Core vocabulary: High-frequency ●●● S2 W2 noun
+sail Core vocabulary: High-frequency ●●● S3 verb
+sake Core vocabulary: Medium-frequency ●●○ S3 noun
+salad Core vocabulary: High-frequency ●●● S2 noun
+salary Core vocabulary: High-frequency ●●● S2 W3 noun
+sale Core vocabulary: High-frequency ●●● S1 W1 noun
+salt Core vocabulary: High-frequency ●●● S2 W3 noun
+same Core vocabulary: High-frequency ●●● S1 W1 adjective
+same Core vocabulary: High-frequency ●●● S1 W1 pronoun
+same Core vocabulary: High-frequency ●●● S1 W1 adverb
+sample Core vocabulary: High-frequency ●●● S3 W2 noun
+sand Core vocabulary: High-frequency ●●● S3 W3 noun
+sandwich Core vocabulary: High-frequency ●●● S2 noun
+satisfied Core vocabulary: High-frequency ●●● S3 adjective
+Saturday Core vocabulary: High-frequency ●●● S2 W2 noun
+sauce Core vocabulary: High-frequency ●●● S3 noun
+sausage Core vocabulary: High-frequency ●●● S3 noun
+save Core vocabulary: High-frequency ●●● S1 W1 verb
+saving Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+say Core vocabulary: High-frequency ●●● S1 W1 verb
+scale Core vocabulary: High-frequency ●●● S2 W2 noun
+scare Core vocabulary: High-frequency ●●● S2 verb
+scared Core vocabulary: High-frequency ●●● S3 adjective
+scarf Core vocabulary: High-frequency ●●● S3 noun
+scary Core vocabulary: High-frequency ●●● S1 adjective
+scene Core vocabulary: High-frequency ●●● S2 W2 noun
+schedule Core vocabulary: High-frequency ●●● S2 W3 noun
+schedule Core vocabulary: High-frequency ●●● S3 verb
+scheme Core vocabulary: High-frequency ●●● S2 W1 noun
+school Core vocabulary: High-frequency ●●● S1 W1 noun
+science Core vocabulary: High-frequency ●●● S1 W1 noun
+scientific Core vocabulary: High-frequency ●●● S3 W2 adjective
+scientist Core vocabulary: High-frequency ●●● S3 W2 noun
+scissors Core vocabulary: High-frequency ●●● S3 noun
+score Core vocabulary: High-frequency ●●● S2 W2 noun
+score Core vocabulary: High-frequency ●●● S3 W2 verb
+scratch Core vocabulary: High-frequency ●●● S3 verb
+scream Core vocabulary: High-frequency ●●● S3 verb
+scream Core vocabulary: High-frequency ●●● S3 noun
+screen Core vocabulary: High-frequency ●●● S2 W2 noun
+screw Core vocabulary: High-frequency ●●● S3 noun
+script Core vocabulary: Medium-frequency ●●○ S3 noun
+sea Core vocabulary: High-frequency ●●● S2 W1 noun
+seal Core vocabulary: Medium-frequency ●●○ S3 noun
+search Core vocabulary: High-frequency ●●● S3 W2 noun
+season Core vocabulary: High-frequency ●●● S2 W1 noun
+seat Core vocabulary: High-frequency ●●● S2 W1 noun
+second Core vocabulary: High-frequency ●●● S1 W1 number
+second Core vocabulary: High-frequency ●●● S1 W2 noun
+second Core vocabulary: High-frequency ●●● S2 W2 adverb
+secondary Core vocabulary: Medium-frequency ●●○ S3 W2 adjective
+secondly Core vocabulary: Medium-frequency ●●○ S3 adverb
+secret Core vocabulary: High-frequency ●●● S3 W2 adjective
+secret Core vocabulary: High-frequency ●●● S3 W3 noun
+secretary Core vocabulary: High-frequency ●●● S2 W1 noun
+section Core vocabulary: High-frequency ●●● S1 W1 noun
+secure Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+see Core vocabulary: High-frequency ●●● S1 W1 verb
+seed Core vocabulary: High-frequency ●●● S3 W3 noun
+seek Core vocabulary: High-frequency ●●● S2 W1 verb
+seem Core vocabulary: High-frequency ●●● S1 W1 verb
+select Core vocabulary: High-frequency ●●● S2 W2 verb
+selection Core vocabulary: High-frequency ●●● S3 W2 noun
+self Core vocabulary: High-frequency ●●● S2 W3 noun
+sell Core vocabulary: High-frequency ●●● S1 W1 verb
+semester Core vocabulary: High-frequency ●●● S2 noun
+send Core vocabulary: High-frequency ●●● S1 W1 verb
+sense Core vocabulary: High-frequency ●●● S1 W1 noun
+sensible Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+sensitive Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+sentence Core vocabulary: High-frequency ●●● S1 W2 noun
+separate Core vocabulary: High-frequency ●●● S2 W2 adjective
+separate Core vocabulary: High-frequency ●●● S2 W2 verb
+September Core vocabulary: High-frequency ●●● S2 W2 noun
+series Core vocabulary: High-frequency ●●● S2 W1 noun
+serious Core vocabulary: High-frequency ●●● S1 W1 adjective
+seriously Core vocabulary: High-frequency ●●● S2 W2 adverb
+serve Core vocabulary: High-frequency ●●● S1 W1 verb
+service Core vocabulary: High-frequency ●●● S1 W1 noun
+set Core vocabulary: High-frequency ●●● S1 W1 verb
+set Core vocabulary: High-frequency ●●● S1 W1 noun
+settle Core vocabulary: High-frequency ●●● S2 W2 verb
+seven Core vocabulary: High-frequency ●●● S2 W2 number
+seventeen Core vocabulary: High-frequency ●●● S3 W3 number
+seventh Core vocabulary: High-frequency ●●● S3 W3 adjective
+several Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+severe Core vocabulary: High-frequency ●●● S3 W3 adjective
+sew Core vocabulary: High-frequency ●●● S3 verb
+sex Core vocabulary: High-frequency ●●● S1 W2 noun
+sexual Core vocabulary: High-frequency ●●● S3 W2 adjective
+shadow Core vocabulary: High-frequency ●●● S3 W2 noun
+shake Core vocabulary: High-frequency ●●● S3 W2 verb
+shall Core vocabulary: High-frequency ●●● S1 W1 modal verb
+shallow Core vocabulary: High-frequency ●●● S3 adjective
+shame Core vocabulary: High-frequency ●●● S2 noun
+shampoo Core vocabulary: High-frequency ●●● S3 noun
+shape Core vocabulary: High-frequency ●●● S2 W2 noun
+share Core vocabulary: High-frequency ●●● S1 W1 verb
+share Core vocabulary: High-frequency ●●● S1 W1 noun
+sharp Core vocabulary: High-frequency ●●● S3 W2 adjective
+shave Core vocabulary: High-frequency ●●● S3 verb
+she Core vocabulary: High-frequency ●●● S1 W1 pronoun
+shed Core vocabulary: Medium-frequency ●●○ S3 noun
+sheep Core vocabulary: High-frequency ●●● S2 W3 noun
+sheet Core vocabulary: High-frequency ●●● S1 W2 noun
+shelf Core vocabulary: High-frequency ●●● S3 W3 noun
+shell Core vocabulary: High-frequency ●●● S3 W3 noun
+shift Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+shine Core vocabulary: High-frequency ●●● S3 verb
+ship Core vocabulary: High-frequency ●●● S2 W2 noun
+shirt Core vocabulary: High-frequency ●●● S2 W3 noun
+shock Core vocabulary: High-frequency ●●● S2 W2 noun
+shock Core vocabulary: High-frequency ●●● S2 verb
+shocked Core vocabulary: High-frequency ●●● S3 adjective
+shocking Core vocabulary: High-frequency ●●● S3 adjective
+shoe Core vocabulary: High-frequency ●●● S1 W3 noun
+shoot Core vocabulary: High-frequency ●●● S2 W2 verb
+shop Core vocabulary: High-frequency ●●● S1 W1 noun
+shop Core vocabulary: High-frequency ●●● S2 verb
+shopping Core vocabulary: High-frequency ●●● S2 W3 noun
+short Core vocabulary: High-frequency ●●● S1 W1 adjective
+shortly Core vocabulary: High-frequency ●●● S3 W3 adverb
+shot Core vocabulary: High-frequency ●●● S2 W2 noun
+should Core vocabulary: High-frequency ●●● S1 W1 modal verb
+shoulder Core vocabulary: High-frequency ●●● S2 W2 noun
+shout Core vocabulary: High-frequency ●●● S2 W2 verb
+show Core vocabulary: High-frequency ●●● S1 W1 verb
+show Core vocabulary: High-frequency ●●● S1 W1 noun
+shower Core vocabulary: High-frequency ●●● S2 noun
+shut Core vocabulary: High-frequency ●●● S1 W2 verb
+shut Core vocabulary: High-frequency ●●● S3 adjective
+sick Core vocabulary: High-frequency ●●● S1 W3 adjective
+side Core vocabulary: High-frequency ●●● S1 W1 noun
+side Core vocabulary: High-frequency ●●● S3 adjective
+sidewalk Core vocabulary: High-frequency ●●● S3 noun
+sight Core vocabulary: High-frequency ●●● S2 W2 noun
+sign Core vocabulary: High-frequency ●●● S1 W1 noun
+sign Core vocabulary: High-frequency ●●● S1 W1 verb
+signal Core vocabulary: High-frequency ●●● S2 W2 noun
+signature Core vocabulary: Medium-frequency ●●○ S3 noun
+significant Core vocabulary: High-frequency ●●● S2 W1 adjective
+silly Core vocabulary: High-frequency ●●● S2 adjective
+similar Core vocabulary: High-frequency ●●● S1 W1 adjective
+simple Core vocabulary: High-frequency ●●● S1 W1 adjective
+simply Core vocabulary: High-frequency ●●● S1 W1 adverb
+since Core vocabulary: High-frequency ●●● S1 W1 preposition , conjunction , adverb
+sing Core vocabulary: High-frequency ●●● S1 W2 verb
+singer Core vocabulary: High-frequency ●●● S3 noun
+single Core vocabulary: High-frequency ●●● S1 W1 adjective
+sink Core vocabulary: High-frequency ●●● S3 noun
+sir Core vocabulary: High-frequency ●●● S1 W3 noun
+sister Core vocabulary: High-frequency ●●● S1 W1 noun
+sit Core vocabulary: High-frequency ●●● S1 W1 verb
+site Core vocabulary: High-frequency ●●● S1 W2 noun
+situation Core vocabulary: High-frequency ●●● S1 W1 noun
+six Core vocabulary: High-frequency ●●● S2 W2 number
+sixteen Core vocabulary: High-frequency ●●● S3 W3 number
+sixth Core vocabulary: High-frequency ●●● S3 W3 adjective
+size Core vocabulary: High-frequency ●●● S1 W1 noun
+skating Core vocabulary: High-frequency ●●● S3 noun
+skiing Core vocabulary: High-frequency ●●● S3 noun
+skill Core vocabulary: High-frequency ●●● S2 W1 noun
+skin Core vocabulary: High-frequency ●●● S2 W2 noun
+skirt Core vocabulary: High-frequency ●●● S3 noun
+sky Core vocabulary: High-frequency ●●● S2 W2 noun
+sleep Core vocabulary: High-frequency ●●● S1 W2 verb
+sleep Core vocabulary: High-frequency ●●● S2 W3 noun
+sleepy Core vocabulary: High-frequency ●●● S3 adjective
+slice Core vocabulary: High-frequency ●●● S3 noun
+slide Core vocabulary: High-frequency ●●● S3 W3 verb
+slide Core vocabulary: Medium-frequency ●●○ S3 noun
+slight Core vocabulary: High-frequency ●●● S2 W3 adjective
+slightly Core vocabulary: High-frequency ●●● S1 W2 adverb
+slim Core vocabulary: Medium-frequency ●●○ S3 adjective
+slip Core vocabulary: High-frequency ●●● S3 W2 verb
+slip Core vocabulary: Medium-frequency ●●○ S3 noun
+slot Core vocabulary: High-frequency ●●● S3 noun
+slow Core vocabulary: High-frequency ●●● S2 W2 adjective
+slow Core vocabulary: High-frequency ●●● S3 W2 verb
+slowly Core vocabulary: High-frequency ●●● S3 W2 adverb
+small Core vocabulary: High-frequency ●●● S1 W1 adjective
+smart Core vocabulary: High-frequency ●●● S2 W2 adjective
+smell Core vocabulary: High-frequency ●●● S2 W3 noun
+smell Core vocabulary: High-frequency ●●● S2 W3 verb
+smile Core vocabulary: High-frequency ●●● S3 W1 verb
+smile Core vocabulary: High-frequency ●●● S2 W2 noun
+smoke Core vocabulary: High-frequency ●●● S1 W2 noun
+smoke Core vocabulary: High-frequency ●●● S2 W2 verb
+smoking Core vocabulary: High-frequency ●●● S2 noun
+snack Core vocabulary: High-frequency ●●● S2 noun
+sneeze Core vocabulary: High-frequency ●●● S3 verb
+snow Core vocabulary: High-frequency ●●● S2 W3 noun
+snow Core vocabulary: High-frequency ●●● S2 verb
+snowy Core vocabulary: High-frequency ●●● S3 adjective
+so Core vocabulary: High-frequency ●●● S1 W1 adverb
+so Core vocabulary: High-frequency ●●● S1 W3 conjunction
+soap Core vocabulary: High-frequency ●●● S3 noun
+soccer Core vocabulary: High-frequency ●●● S2 noun
+social Core vocabulary: High-frequency ●●● S1 W1 adjective
+society Core vocabulary: High-frequency ●●● S1 W1 noun
+sock Core vocabulary: High-frequency ●●● S3 noun
+soda Core vocabulary: High-frequency ●●● S3 noun
+sofa Core vocabulary: High-frequency ●●● S3 noun
+soft Core vocabulary: High-frequency ●●● S2 W2 adjective
+software Core vocabulary: High-frequency ●●● S3 W1 noun
+soldier Core vocabulary: High-frequency ●●● S3 W2 noun
+solicitor Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+solid Core vocabulary: High-frequency ●●● S3 W3 adjective
+solution Core vocabulary: High-frequency ●●● S2 W1 noun
+solve Core vocabulary: High-frequency ●●● S2 W3 verb
+some Core vocabulary: High-frequency ●●● S1 W1 determiner
+some Core vocabulary: High-frequency ●●● S1 W1 pronoun
+some Core vocabulary: High-frequency ●●● S1 W1 adverb
+somebody Core vocabulary: High-frequency ●●● S1 W3 pronoun
+somehow Core vocabulary: High-frequency ●●● S2 W2 adverb
+someone Core vocabulary: High-frequency ●●● S1 W1 pronoun
+something Core vocabulary: High-frequency ●●● S1 W1 pronoun
+sometime Core vocabulary: High-frequency ●●● S2 adverb
+sometimes Core vocabulary: High-frequency ●●● S1 W1 adverb
+somewhat Core vocabulary: High-frequency ●●● S3 W2 adverb
+somewhere Core vocabulary: High-frequency ●●● S1 W2 adverb
+son Core vocabulary: High-frequency ●●● S1 W1 noun
+song Core vocabulary: High-frequency ●●● S1 W2 noun
+soon Core vocabulary: High-frequency ●●● S1 W1 adverb
+sore Core vocabulary: High-frequency ●●● S3 adjective
+sorry Core vocabulary: High-frequency ●●● S1 W2 adjective
+sort Core vocabulary: High-frequency ●●● S1 W1 noun
+sort Core vocabulary: High-frequency ●●● S1 W3 verb
+soul Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+sound Core vocabulary: High-frequency ●●● S1 W1 noun
+sound Core vocabulary: High-frequency ●●● S1 W2 verb
+soup Core vocabulary: High-frequency ●●● S3 noun
+sour Core vocabulary: High-frequency ●●● S3 adjective
+source Core vocabulary: High-frequency ●●● S2 W1 noun
+south Core vocabulary: High-frequency ●●● S1 W1 noun
+south Core vocabulary: High-frequency ●●● S2 W2 adjective
+south Core vocabulary: High-frequency ●●● S3 W3 adverb
+southern Core vocabulary: High-frequency ●●● S2 W2 adjective
+space Core vocabulary: High-frequency ●●● S1 W1 noun
+spaghetti Core vocabulary: High-frequency ●●● S3 noun
+speak Core vocabulary: High-frequency ●●● S1 W1 verb
+speaker Core vocabulary: High-frequency ●●● S2 W2 noun
+special Core vocabulary: High-frequency ●●● S1 W1 adjective
+specialist Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+specific Core vocabulary: High-frequency ●●● S1 W1 adjective
+specifically Core vocabulary: Medium-frequency ●●○ S3 W3 adverb
+speech Core vocabulary: High-frequency ●●● S2 W2 noun
+speed Core vocabulary: High-frequency ●●● S2 W1 noun
+spell Core vocabulary: High-frequency ●●● S2 verb
+spelling Core vocabulary: High-frequency ●●● S2 noun
+spend Core vocabulary: High-frequency ●●● S1 W1 verb
+spicy Core vocabulary: High-frequency ●●● S3 adjective
+spider Core vocabulary: High-frequency ●●● S3 noun
+spill Core vocabulary: High-frequency ●●● S3 verb
+spin Core vocabulary: High-frequency ●●● S3 verb
+spirit Core vocabulary: High-frequency ●●● S2 W2 noun
+split Core vocabulary: High-frequency ●●● S2 W3 verb
+spoil Core vocabulary: High-frequency ●●● S3 verb
+spoon Core vocabulary: High-frequency ●●● S3 noun
+sport Core vocabulary: High-frequency ●●● S2 W2 noun
+spot Core vocabulary: High-frequency ●●● S2 W2 noun
+spot Core vocabulary: Medium-frequency ●●○ S3 verb
+spray Core vocabulary: High-frequency ●●● S3 verb
+spray Core vocabulary: High-frequency ●●● S3 noun
+spread Core vocabulary: High-frequency ●●● S2 W2 verb
+spring Core vocabulary: High-frequency ●●● S2 W2 noun
+square Core vocabulary: High-frequency ●●● S2 W3 adjective
+square Core vocabulary: High-frequency ●●● S2 W3 noun
+squeeze Core vocabulary: High-frequency ●●● S3 verb
+staff Core vocabulary: High-frequency ●●● S2 W2 noun
+stage Core vocabulary: High-frequency ●●● S1 W1 noun
+stair Core vocabulary: High-frequency ●●● S2 W3 noun
+stall Core vocabulary: Medium-frequency ●●○ S3 noun
+stamp Core vocabulary: High-frequency ●●● S2 noun
+stand Core vocabulary: High-frequency ●●● S1 W1 verb
+stand Core vocabulary: High-frequency ●●● S2 W2 noun
+standard Core vocabulary: High-frequency ●●● S2 W2 noun
+standard Core vocabulary: High-frequency ●●● S2 W2 adjective
+star Core vocabulary: High-frequency ●●● S2 W2 noun
+stare Core vocabulary: High-frequency ●●● S3 W2 verb
+start Core vocabulary: High-frequency ●●● S1 W1 verb
+start Core vocabulary: High-frequency ●●● S1 W2 noun
+starve Core vocabulary: Medium-frequency ●●○ S3 verb
+state Core vocabulary: High-frequency ●●● S1 W2 noun
+state Core vocabulary: Medium-frequency ●●○ S3 W2 verb
+statement Core vocabulary: High-frequency ●●● S2 W1 noun
+station Core vocabulary: High-frequency ●●● S1 W1 noun
+status Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+stay Core vocabulary: High-frequency ●●● S1 W1 verb
+stay Core vocabulary: Medium-frequency ●●○ S3 noun
+steak Core vocabulary: High-frequency ●●● S3 noun
+steal Core vocabulary: High-frequency ●●● S3 W3 verb
+steel Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+steep Core vocabulary: Medium-frequency ●●○ S3 adjective
+step Core vocabulary: High-frequency ●●● S2 W1 noun
+step Core vocabulary: High-frequency ●●● S3 W3 verb
+stick Core vocabulary: High-frequency ●●● S1 W3 verb
+stick Core vocabulary: High-frequency ●●● S3 noun
+sticker Core vocabulary: High-frequency ●●● S3 noun
+stiff Core vocabulary: Medium-frequency ●●○ S3 adjective
+still Core vocabulary: High-frequency ●●● S1 W1 adverb
+still Core vocabulary: High-frequency ●●● S3 adjective
+stir Core vocabulary: High-frequency ●●● S3 W3 verb
+stock Core vocabulary: High-frequency ●●● S2 W2 noun
+stomach Core vocabulary: High-frequency ●●● S3 W3 noun
+stomachache Core vocabulary: High-frequency ●●● S3 noun
+stone Core vocabulary: High-frequency ●●● S2 W1 noun
+stool Core vocabulary: High-frequency ●●● S3 noun
+stop Core vocabulary: High-frequency ●●● S1 W1 verb
+stop Core vocabulary: High-frequency ●●● S2 W3 noun
+store Core vocabulary: High-frequency ●●● S1 W1 noun
+store Core vocabulary: High-frequency ●●● S3 W3 verb
+stormy Core vocabulary: High-frequency ●●● S3 adjective
+story Core vocabulary: High-frequency ●●● S1 W1 noun
+straight Core vocabulary: High-frequency ●●● S1 W2 adverb
+straight Core vocabulary: High-frequency ●●● S2 W3 adjective
+straightforward Core vocabulary: Medium-frequency ●●○ S3 adjective
+strange Core vocabulary: High-frequency ●●● S2 W2 adjective
+straw Core vocabulary: Medium-frequency ●●○ S3 noun
+strawberry Core vocabulary: High-frequency ●●● S3 noun
+street Core vocabulary: High-frequency ●●● S1 W1 noun
+strength Core vocabulary: High-frequency ●●● S2 W2 noun
+stress Core vocabulary: High-frequency ●●● S3 W3 noun
+stress Core vocabulary: High-frequency ●●● S3 W3 verb
+stretch Core vocabulary: High-frequency ●●● S3 W3 verb
+strict Core vocabulary: Medium-frequency ●●○ S3 adjective
+strike Core vocabulary: High-frequency ●●● S3 W3 verb
+strike Core vocabulary: High-frequency ●●● S3 W2 noun
+string Core vocabulary: High-frequency ●●● S3 W2 noun
+stroke Core vocabulary: Medium-frequency ●●○ S3 noun
+strong Core vocabulary: High-frequency ●●● S1 W1 adjective
+strongly Core vocabulary: Medium-frequency ●●○ S3 adverb
+structure Core vocabulary: High-frequency ●●● S3 W2 noun
+student Core vocabulary: High-frequency ●●● S1 W1 noun
+studio Core vocabulary: High-frequency ●●● S3 W2 noun
+study Core vocabulary: High-frequency ●●● S1 W1 noun
+study Core vocabulary: High-frequency ●●● S1 W1 verb
+stuff Core vocabulary: High-frequency ●●● S1 W3 noun
+stupid Core vocabulary: High-frequency ●●● S1 W3 adjective
+style Core vocabulary: High-frequency ●●● S2 W1 noun
+subject Core vocabulary: High-frequency ●●● S2 W1 noun
+submit Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+succeed Core vocabulary: High-frequency ●●● S3 W2 verb
+success Core vocabulary: High-frequency ●●● S1 W1 noun
+successful Core vocabulary: High-frequency ●●● S2 W1 adjective
+such Core vocabulary: High-frequency ●●● S1 W1 determiner , predeterminer , pronoun
+suck Core vocabulary: Medium-frequency ●●○ S3 verb
+sudden Core vocabulary: High-frequency ●●● S2 W3 adjective
+suddenly Core vocabulary: High-frequency ●●● S1 W1 adverb
+suffer Core vocabulary: High-frequency ●●● S1 W1 verb
+sugar Core vocabulary: High-frequency ●●● S2 W3 noun
+suggest Core vocabulary: High-frequency ●●● S1 W1 verb
+suggestion Core vocabulary: High-frequency ●●● S1 W2 noun
+suit Core vocabulary: High-frequency ●●● S2 W3 noun
+suit Core vocabulary: High-frequency ●●● S3 W3 verb
+suitable Core vocabulary: High-frequency ●●● S3 W2 adjective
+suitcase Core vocabulary: High-frequency ●●● S3 noun
+summer Core vocabulary: High-frequency ●●● S1 W1 noun
+Sun, The Core vocabulary: High-frequency ●●● S2 W1 noun
+Sunday Core vocabulary: High-frequency ●●● S2 W2 noun
+sunglasses Core vocabulary: High-frequency ●●● S3 noun
+sunny Core vocabulary: High-frequency ●●● S3 adjective
+super Core vocabulary: High-frequency ●●● S2 adjective
+supermarket Core vocabulary: High-frequency ●●● S3 noun
+supper Core vocabulary: High-frequency ●●● S3 noun
+supply Core vocabulary: High-frequency ●●● S2 W2 noun
+supply Core vocabulary: High-frequency ●●● S3 W2 verb
+support Core vocabulary: High-frequency ●●● S2 W1 verb
+support Core vocabulary: High-frequency ●●● S2 W1 noun
+supporter Core vocabulary: High-frequency ●●● S3 W2 noun
+suppose Core vocabulary: High-frequency ●●● S1 W1 verb
+sure Core vocabulary: High-frequency ●●● S1 W1 adjective
+sure Core vocabulary: High-frequency ●●● S1 adverb
+surely Core vocabulary: High-frequency ●●● S1 W2 adverb
+surface Core vocabulary: High-frequency ●●● S3 W1 noun
+surgery Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+surname Core vocabulary: High-frequency ●●● S3 noun
+surprise Core vocabulary: High-frequency ●●● S3 W2 noun
+surprise Core vocabulary: High-frequency ●●● S3 W2 verb
+surprised Core vocabulary: High-frequency ●●● S2 W2 adjective
+surprising Core vocabulary: High-frequency ●●● S3 W3 adjective
+survive Core vocabulary: High-frequency ●●● S2 W2 verb
+swap Core vocabulary: Medium-frequency ●●○ S3 verb
+swear Core vocabulary: Medium-frequency ●●○ S3 verb
+sweater Core vocabulary: High-frequency ●●● S2 noun
+sweatshirt Core vocabulary: High-frequency ●●● S3 noun
+sweet Core vocabulary: High-frequency ●●● S2 W3 adjective
+sweet Core vocabulary: High-frequency ●●● S2 noun
+swim Core vocabulary: High-frequency ●●● S3 verb
+swimming Core vocabulary: High-frequency ●●● S2 noun
+switch Core vocabulary: High-frequency ●●● S2 W3 verb
+switch Core vocabulary: High-frequency ●●● S3 noun
+system Core vocabulary: High-frequency ●●● S1 W1 noun
+table Core vocabulary: High-frequency ●●● S1 W1 noun
+tablet Core vocabulary: High-frequency ●●● S3 noun
+tackle Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+tag Core vocabulary: High-frequency ●●● S3 noun
+tail Core vocabulary: High-frequency ●●● S2 W3 noun
+take Core vocabulary: High-frequency ●●● S1 W1 verb
+talk Core vocabulary: High-frequency ●●● S1 W1 verb
+talk Core vocabulary: High-frequency ●●● S1 W1 noun
+tall Core vocabulary: High-frequency ●●● S2 W2 adjective
+tank Core vocabulary: High-frequency ●●● S2 W2 noun
+tap Core vocabulary: Medium-frequency ●●○ S3 noun
+tape Core vocabulary: High-frequency ●●● S3 W3 noun
+target Core vocabulary: High-frequency ●●● S2 W2 noun
+task Core vocabulary: High-frequency ●●● S2 W1 noun
+taste Core vocabulary: High-frequency ●●● S2 W2 noun
+taste Core vocabulary: High-frequency ●●● S2 verb
+tax Core vocabulary: High-frequency ●●● S1 W1 noun
+taxi Core vocabulary: High-frequency ●●● S3 noun
+tea Core vocabulary: High-frequency ●●● S1 W2 noun
+teach Core vocabulary: High-frequency ●●● S1 W2 verb
+teacher Core vocabulary: High-frequency ●●● S1 W1 noun
+teaching Core vocabulary: High-frequency ●●● S2 W2 noun
+team Core vocabulary: High-frequency ●●● S1 W1 noun
+tear Core vocabulary: High-frequency ●●● S2 W3 noun
+tear Core vocabulary: High-frequency ●●● S2 W3 verb
+technical Core vocabulary: High-frequency ●●● S2 W2 adjective
+technique Core vocabulary: High-frequency ●●● S3 W1 noun
+technology Core vocabulary: High-frequency ●●● S2 W1 noun
+teenager Core vocabulary: High-frequency ●●● S3 noun
+telephone Core vocabulary: High-frequency ●●● S1 W2 noun
+television Core vocabulary: High-frequency ●●● S1 W1 noun
+tell Core vocabulary: High-frequency ●●● S1 W1 verb
+temperature Core vocabulary: High-frequency ●●● S2 W2 noun
+temporary Core vocabulary: High-frequency ●●● S3 W3 adjective
+ten Core vocabulary: High-frequency ●●● S1 W2 number , noun
+tend Core vocabulary: High-frequency ●●● S1 W1 verb
+tendency Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+tennis Core vocabulary: High-frequency ●●● S3 W3 noun
+tent Core vocabulary: Medium-frequency ●●○ S3 noun
+tenth Core vocabulary: High-frequency ●●● S3 W3 adjective
+term Core vocabulary: High-frequency ●●● S1 W1 noun
+terrible Core vocabulary: High-frequency ●●● S1 W3 adjective
+test Core vocabulary: High-frequency ●●● S1 W1 noun
+test Core vocabulary: High-frequency ●●● S3 W2 verb
+text Core vocabulary: High-frequency ●●● S2 W1 noun
+text Core vocabulary: High-frequency ●●● S2 verb
+than Core vocabulary: High-frequency ●●● S1 W1 conjunction , preposition
+thank Core vocabulary: High-frequency ●●● S1 W2 verb
+thanks Core vocabulary: High-frequency ●●● S1 interjection
+thanksgiving Core vocabulary: High-frequency ●●● S2 noun
+that Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+that Core vocabulary: High-frequency ●●● S1 W1 conjunction
+that Core vocabulary: High-frequency ●●● S1 W2 adverb
+the Core vocabulary: High-frequency ●●● S1 W1 definite article , determiner
+the Core vocabulary: High-frequency ●●● S3 adverb
+theatre Core vocabulary: High-frequency ●●● S2 W2 noun
+their Core vocabulary: High-frequency ●●● S1 W1 determiner
+theirs Core vocabulary: High-frequency ●●● S3 pronoun
+them Core vocabulary: High-frequency ●●● S1 W1 pronoun
+theme Core vocabulary: High-frequency ●●● S2 W2 noun
+themselves Core vocabulary: High-frequency ●●● S1 W1 pronoun
+then Core vocabulary: High-frequency ●●● S1 W1 adverb
+theory Core vocabulary: High-frequency ●●● S2 W1 noun
+there Core vocabulary: High-frequency ●●● S1 W1 pronoun
+there Core vocabulary: High-frequency ●●● S1 W1 adverb
+therefore Core vocabulary: High-frequency ●●● S3 W1 adverb
+they Core vocabulary: High-frequency ●●● S1 W1 pronoun
+thick Core vocabulary: High-frequency ●●● S2 W2 adjective
+thin Core vocabulary: High-frequency ●●● S2 W2 adjective
+thing Core vocabulary: High-frequency ●●● S1 W1 noun
+think Core vocabulary: High-frequency ●●● S1 W1 verb
+third Core vocabulary: High-frequency ●●● W2 S2 adjective
+thirsty Core vocabulary: High-frequency ●●● S3 adjective
+thirteen Core vocabulary: High-frequency ●●● S3 W3 number
+thirty Core vocabulary: High-frequency ●●● S3 W3 number
+this Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+this Core vocabulary: High-frequency ●●● S1 adverb
+though Core vocabulary: High-frequency ●●● S1 W1 conjunction
+though Core vocabulary: High-frequency ●●● S1 adverb
+thought Core vocabulary: High-frequency ●●● S1 W1 noun
+threat Core vocabulary: High-frequency ●●● S3 W2 noun
+threaten Core vocabulary: High-frequency ●●● S3 W2 verb
+three Core vocabulary: High-frequency ●●● S1 W2 number
+throat Core vocabulary: High-frequency ●●● S3 W3 noun
+through Core vocabulary: High-frequency ●●● S1 W1 preposition , adverb
+throughout Core vocabulary: High-frequency ●●● S2 W1 preposition , adverb
+throw Core vocabulary: High-frequency ●●● S1 W1 verb
+thumb Core vocabulary: High-frequency ●●● S3 noun
+Thursday Core vocabulary: High-frequency ●●● S2 W2 noun
+ticket Core vocabulary: High-frequency ●●● S1 W2 noun
+tidy Core vocabulary: High-frequency ●●● S3 adjective
+tie Core vocabulary: High-frequency ●●● S2 W3 verb
+tie Core vocabulary: High-frequency ●●● S3 W3 noun
+tight Core vocabulary: High-frequency ●●● S2 W3 adjective
+tight Core vocabulary: High-frequency ●●● S2 adverb
+tile Core vocabulary: Medium-frequency ●●○ S3 noun
+till Core vocabulary: High-frequency ●●● S1 preposition , conjunction
+time Core vocabulary: High-frequency ●●● S1 W1 noun
+time Core vocabulary: High-frequency ●●● S1 W2 verb
+tiny Core vocabulary: High-frequency ●●● S2 W2 adjective
+tip Core vocabulary: High-frequency ●●● S2 W3 noun
+tip Core vocabulary: Medium-frequency ●●○ S3 verb
+tired Core vocabulary: High-frequency ●●● S1 W2 adjective
+tiring Core vocabulary: High-frequency ●●● S3 adjective
+tissue Core vocabulary: High-frequency ●●● S2 noun
+title Core vocabulary: High-frequency ●●● S3 W1 noun
+to Core vocabulary: High-frequency ●●● S1 W1
+to Core vocabulary: High-frequency ●●● S1 W1 preposition
+toast Core vocabulary: Medium-frequency ●●○ S3 noun
+today Core vocabulary: High-frequency ●●● S1 W1 adverb
+toe Core vocabulary: High-frequency ●●● S3 noun
+together Core vocabulary: High-frequency ●●● S1 W1 adverb
+toilet Core vocabulary: High-frequency ●●● S2 noun
+tomato Core vocabulary: High-frequency ●●● S2 noun
+tomorrow Core vocabulary: High-frequency ●●● S1 W2 adverb
+ton Core vocabulary: Medium-frequency ●●○ S3 noun
+tone Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+tongue Core vocabulary: High-frequency ●●● S3 W3 noun
+tonight Core vocabulary: High-frequency ●●● S1 W2 adverb
+too Core vocabulary: High-frequency ●●● S1 W1 adverb
+tool Core vocabulary: High-frequency ●●● S2 W2 noun
+tooth Core vocabulary: High-frequency ●●● S2 W2 noun
+toothache Core vocabulary: High-frequency ●●● S3 noun
+toothbrush Core vocabulary: High-frequency ●●● S3 noun
+toothpaste Core vocabulary: High-frequency ●●● S3 noun
+top Core vocabulary: High-frequency ●●● S1 W1 noun
+top Core vocabulary: High-frequency ●●● S1 W1 adjective
+topic Core vocabulary: High-frequency ●●● S3 W2 noun
+total Core vocabulary: High-frequency ●●● S1 W1 adjective
+total Core vocabulary: High-frequency ●●● S2 W2 noun
+totally Core vocabulary: High-frequency ●●● S1 W2 adverb
+touch Core vocabulary: High-frequency ●●● S2 W2 verb
+touch Core vocabulary: High-frequency ●●● S2 W2 noun
+tough Core vocabulary: High-frequency ●●● S2 W2 adjective
+tour Core vocabulary: High-frequency ●●● S3 W2 noun
+towards Core vocabulary: High-frequency ●●● S1 W1 preposition
+towel Core vocabulary: High-frequency ●●● S3 noun
+tower Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+town Core vocabulary: High-frequency ●●● S1 W1 noun
+toy Core vocabulary: High-frequency ●●● S3 noun
+track Core vocabulary: High-frequency ●●● S2 W2 noun
+trade Core vocabulary: High-frequency ●●● S3 W1 noun
+trade Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+tradition Core vocabulary: High-frequency ●●● S2 W2 noun
+traditional Core vocabulary: High-frequency ●●● S3 W1 adjective
+traffic Core vocabulary: High-frequency ●●● S1 W2 noun
+trailer Core vocabulary: Medium-frequency ●●○ S3 noun
+train Core vocabulary: High-frequency ●●● S1 W2 noun
+train Core vocabulary: High-frequency ●●● S1 W2 verb
+training Core vocabulary: High-frequency ●●● S2 W1 noun
+transfer Core vocabulary: Medium-frequency ●●○ S3 W3 verb
+translate Core vocabulary: High-frequency ●●● S3 verb
+translation Core vocabulary: High-frequency ●●● S3 noun
+transport Core vocabulary: High-frequency ●●● S2 W2 noun
+trash Core vocabulary: High-frequency ●●● S3 noun
+travel Core vocabulary: High-frequency ●●● S2 W2 verb
+travel Core vocabulary: High-frequency ●●● S2 W2 noun
+tray Core vocabulary: Medium-frequency ●●○ S3 noun
+treat Core vocabulary: High-frequency ●●● S2 W1 verb
+treat Core vocabulary: High-frequency ●●● S3 noun
+treatment Core vocabulary: High-frequency ●●● S2 W1 noun
+tree Core vocabulary: High-frequency ●●● S1 W1 noun
+trend Core vocabulary: Medium-frequency ●●○ S3 W2 noun
+trial Core vocabulary: High-frequency ●●● S3 W2 noun
+trick Core vocabulary: High-frequency ●●● S3 noun
+trick Core vocabulary: High-frequency ●●● S3 verb
+tricky Core vocabulary: Medium-frequency ●●○ S3 adjective
+trip Core vocabulary: High-frequency ●●● S2 W2 noun
+trouble Core vocabulary: High-frequency ●●● S1 W2 noun
+trousers Core vocabulary: High-frequency ●●● S2 noun
+truck Core vocabulary: High-frequency ●●● S2 W3 noun
+true Core vocabulary: High-frequency ●●● S1 W1 adjective
+trunk Core vocabulary: High-frequency ●●● S3 noun
+trust Core vocabulary: High-frequency ●●● S1 W2 noun
+trust Core vocabulary: High-frequency ●●● S2 W3 verb
+truth Core vocabulary: High-frequency ●●● S1 W2 noun
+try Core vocabulary: High-frequency ●●● S1 W1 verb
+try Core vocabulary: High-frequency ●●● S3 noun
+tube Core vocabulary: High-frequency ●●● S3 W3 noun
+Tuesday Core vocabulary: High-frequency ●●● S2 W2 noun
+tune Core vocabulary: High-frequency ●●● S3 noun
+turkey Core vocabulary: High-frequency ●●● S3 noun
+turn Core vocabulary: High-frequency ●●● S1 W1 verb
+turn Core vocabulary: High-frequency ●●● S1 W1 noun
+TV Core vocabulary: High-frequency ●●● S2 W2 noun
+twelve Core vocabulary: High-frequency ●●● S3 W2 number
+twenty Core vocabulary: High-frequency ●●● S2 W2 number , noun
+twice Core vocabulary: High-frequency ●●● S2 W2 adverb , predeterminer
+twin Core vocabulary: High-frequency ●●● S3 noun
+twist Core vocabulary: Medium-frequency ●●○ S3 verb
+two Core vocabulary: High-frequency ●●● S2 W1 number
+type Core vocabulary: High-frequency ●●● S1 W1 noun
+type Core vocabulary: High-frequency ●●● S2 W3 verb
+typical Core vocabulary: High-frequency ●●● S2 W2 adjective
+tyre Core vocabulary: High-frequency ●●● S3 noun
+ugly Core vocabulary: High-frequency ●●● S3 adjective
+umbrella Core vocabulary: High-frequency ●●● S3 noun
+uncle Core vocabulary: High-frequency ●●● S2 W3 noun
+under Core vocabulary: High-frequency ●●● S1 W1 preposition , adverb
+underneath Core vocabulary: High-frequency ●●● S2 preposition , adverb
+understand Core vocabulary: High-frequency ●●● S1 W1 verb
+underwear Core vocabulary: High-frequency ●●● S3 noun
+unemployed Core vocabulary: High-frequency ●●● S2 W3 adjective
+unemployment Core vocabulary: High-frequency ●●● S2 W2 noun
+unfair Core vocabulary: High-frequency ●●● S3 adjective
+unfortunate Core vocabulary: Medium-frequency ●●○ S3 adjective
+unfortunately Core vocabulary: High-frequency ●●● S1 W3 adverb
+unhappy Core vocabulary: High-frequency ●●● S3 adjective
+uniform Core vocabulary: High-frequency ●●● S3 noun
+union Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+unique Core vocabulary: High-frequency ●●● S3 W2 adjective
+unit Core vocabulary: High-frequency ●●● S2 W2 noun
+university Core vocabulary: High-frequency ●●● S2 W1 noun
+unless Core vocabulary: High-frequency ●●● S1 W1 conjunction
+unlikely Core vocabulary: High-frequency ●●● S3 W2 adjective
+until Core vocabulary: High-frequency ●●● S1 W1 preposition , conjunction
+unusual Core vocabulary: High-frequency ●●● S2 W3 adjective
+up Core vocabulary: High-frequency ●●● S1 W1 adverb , preposition , adjective
+upon Core vocabulary: High-frequency ●●● S3 W2 preposition
+upset Core vocabulary: High-frequency ●●● S2 adjective
+upset Core vocabulary: High-frequency ●●● S2 verb
+upstairs Core vocabulary: High-frequency ●●● S2 adverb
+urgent Core vocabulary: Medium-frequency ●●○ S3 adjective
+us Core vocabulary: High-frequency ●●● S1 W1 pronoun
+use Core vocabulary: High-frequency ●●● S1 W1 verb
+use Core vocabulary: High-frequency ●●● S1 W1 noun
+used Core vocabulary: High-frequency ●●● S1 W2 adjective
+useful Core vocabulary: High-frequency ●●● S1 W1 adjective
+user Core vocabulary: High-frequency ●●● S3 W1 noun
+usual Core vocabulary: High-frequency ●●● S2 W2 adjective
+usually Core vocabulary: High-frequency ●●● S1 W1 adverb
+vacation Core vocabulary: High-frequency ●●● S2 W3 noun
+vague Core vocabulary: Medium-frequency ●●○ S3 adjective
+valley Core vocabulary: High-frequency ●●● S3 W3 noun
+value Core vocabulary: High-frequency ●●● S2 W1 noun
+van Core vocabulary: High-frequency ●●● S2 W3 noun
+variety Core vocabulary: High-frequency ●●● S2 W1 noun
+various Core vocabulary: High-frequency ●●● S1 W1 adjective
+vary Core vocabulary: High-frequency ●●● S3 W2 verb
+vegetable Core vocabulary: High-frequency ●●● S3 W3 noun
+vehicle Core vocabulary: High-frequency ●●● S2 W2 noun
+version Core vocabulary: High-frequency ●●● S2 W2 noun
+very Core vocabulary: High-frequency ●●● S1 W1 adverb
+very Core vocabulary: Medium-frequency ●●○ S3 W3 adjective
+vet Core vocabulary: Medium-frequency ●●○ S3 noun
+victim Core vocabulary: High-frequency ●●● S3 W2 noun
+video Core vocabulary: High-frequency ●●● S1 W2 noun
+view Core vocabulary: High-frequency ●●● S1 W1 noun
+village Core vocabulary: High-frequency ●●● S1 W1 noun
+violence Core vocabulary: High-frequency ●●● S2 W2 noun
+violent Core vocabulary: High-frequency ●●● S3 W3 adjective
+virtually Core vocabulary: High-frequency ●●● S2 W2 adverb
+vision Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+visit Core vocabulary: High-frequency ●●● S2 W1 verb
+visit Core vocabulary: High-frequency ●●● S3 W2 noun
+visitor Core vocabulary: High-frequency ●●● S3 W2 noun
+vocabulary Core vocabulary: High-frequency ●●● S3 noun
+voice Core vocabulary: High-frequency ●●● S2 W1 noun
+volume Core vocabulary: High-frequency ●●● S3 W2 noun
+vote Core vocabulary: High-frequency ●●● S2 W2 verb
+vote Core vocabulary: High-frequency ●●● S2 W2 noun
+wage Core vocabulary: High-frequency ●●● S2 W2 noun
+wait Core vocabulary: High-frequency ●●● S1 W1 verb
+waiter Core vocabulary: High-frequency ●●● S3 noun
+waitress Core vocabulary: High-frequency ●●● S3 noun
+wake Core vocabulary: High-frequency ●●● S2 W3 verb
+walk Core vocabulary: High-frequency ●●● S1 W1 verb
+walk Core vocabulary: High-frequency ●●● S2 W2 noun
+wall Core vocabulary: High-frequency ●●● S1 W1 noun
+wallet Core vocabulary: High-frequency ●●● S2 noun
+wander Core vocabulary: Medium-frequency ●●○ S3 verb
+want Core vocabulary: High-frequency ●●● S1 W1 verb
+war Core vocabulary: High-frequency ●●● S2 W1 noun
+wardrobe Core vocabulary: High-frequency ●●● S3 noun
+warm Core vocabulary: High-frequency ●●● S2 W2 adjective
+warn Core vocabulary: High-frequency ●●● S3 W2 verb
+warning Core vocabulary: High-frequency ●●● S3 W2 noun
+wash Core vocabulary: High-frequency ●●● S1 W3 verb
+washing Core vocabulary: High-frequency ●●● S2 noun
+waste Core vocabulary: High-frequency ●●● S2 W3 noun
+waste Core vocabulary: High-frequency ●●● S2 W3 verb
+watch Core vocabulary: High-frequency ●●● S1 W1 verb
+watch Core vocabulary: High-frequency ●●● S2 W3 noun
+water Core vocabulary: High-frequency ●●● S1 W1 noun
+Wave Core vocabulary: High-frequency ●●● S3 W2 noun
+Wave Core vocabulary: High-frequency ●●● S3 W3 verb
+way Core vocabulary: High-frequency ●●● S1 W1 noun
+way Core vocabulary: Medium-frequency ●●○ S3 adverb
+we Core vocabulary: High-frequency ●●● S1 W1 pronoun
+weak Core vocabulary: High-frequency ●●● S3 W2 adjective
+wear Core vocabulary: High-frequency ●●● S1 W1 verb
+weather Core vocabulary: High-frequency ●●● S1 W2 noun
+web Core vocabulary: High-frequency ●●● S2 W2 noun
+webpage Core vocabulary: High-frequency ●●● S2 noun
+website Core vocabulary: High-frequency ●●● S2 W1 noun
+wedding Core vocabulary: High-frequency ●●● S2 W3 noun
+Wednesday Core vocabulary: High-frequency ●●● S2 W2 noun
+week Core vocabulary: High-frequency ●●● S1 W1 noun
+weekend Core vocabulary: High-frequency ●●● S1 W2 noun
+weigh Core vocabulary: High-frequency ●●● S3 W3 verb
+weight Core vocabulary: High-frequency ●●● S1 W2 noun
+weird Core vocabulary: High-frequency ●●● S2 adjective
+welcome Core vocabulary: High-frequency ●●● S1 interjection
+welcome Core vocabulary: High-frequency ●●● S2 W3 adjective
+welcome Core vocabulary: High-frequency ●●● S3 W2 verb
+well Core vocabulary: High-frequency ●●● S1 W1 adverb
+well Core vocabulary: High-frequency ●●● S1 W1 interjection
+well Core vocabulary: High-frequency ●●● S1 W2 adjective
+west Core vocabulary: High-frequency ●●● S1 W2 noun
+west Core vocabulary: High-frequency ●●● S3 W3 adjective
+west Core vocabulary: High-frequency ●●● S3 W3 adverb
+western Core vocabulary: High-frequency ●●● S2 W2 adjective
+wet Core vocabulary: High-frequency ●●● S2 W3 adjective
+what Core vocabulary: High-frequency ●●● S1 W1 pronoun , determiner , predeterminer
+whatever Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+whatever Core vocabulary: High-frequency ●●● S2 adverb
+wheel Core vocabulary: High-frequency ●●● S2 W3 noun
+when Core vocabulary: High-frequency ●●● S1 W1 adverb , conjunction , pronoun
+whenever Core vocabulary: High-frequency ●●● S2 W3 adverb , conjunction
+where Core vocabulary: High-frequency ●●● S1 W1 adverb , conjunction , pronoun
+wherever Core vocabulary: High-frequency ●●● S2 adverb
+whether Core vocabulary: High-frequency ●●● S1 W1 conjunction
+which Core vocabulary: High-frequency ●●● S1 W1 determiner , pronoun
+while Core vocabulary: High-frequency ●●● S1 W1 conjunction
+while Core vocabulary: High-frequency ●●● S1 W2 noun
+whisky Core vocabulary: Medium-frequency ●●○ S3 noun
+white Core vocabulary: High-frequency ●●● S1 W1 adjective
+white Core vocabulary: High-frequency ●●● S3 W2 noun
+who Core vocabulary: High-frequency ●●● S1 W1 pronoun
+whoever Core vocabulary: Medium-frequency ●●○ S3 pronoun
+whole Core vocabulary: High-frequency ●●● S1 W1 adjective
+whole Core vocabulary: High-frequency ●●● S2 W2 noun
+whose Core vocabulary: High-frequency ●●● S2 W1 determiner , pronoun
+why Core vocabulary: High-frequency ●●● S1 W1 adverb
+wicked Core vocabulary: Medium-frequency ●●○ S3 adjective
+wide Core vocabulary: High-frequency ●●● S1 W1 adjective
+wide Core vocabulary: High-frequency ●●● W3 S3 adverb
+wife Core vocabulary: High-frequency ●●● S1 W1 noun
+wild Core vocabulary: High-frequency ●●● S2 W2 adjective
+will Core vocabulary: High-frequency ●●● S1 W1 modal verb
+will Core vocabulary: High-frequency ●●● S2 W2 noun
+willing Core vocabulary: High-frequency ●●● S2 W3 adjective
+win Core vocabulary: High-frequency ●●● S1 W1 verb
+wind Core vocabulary: High-frequency ●●● S2 W2 noun
+wind Core vocabulary: High-frequency ●●● S3 W3 verb
+window Core vocabulary: High-frequency ●●● S1 W1 noun
+windy Core vocabulary: High-frequency ●●● S3 adjective
+wine Core vocabulary: High-frequency ●●● S2 W2 noun
+wing Core vocabulary: High-frequency ●●● S2 W2 noun
+winner Core vocabulary: High-frequency ●●● S3 W2 noun
+winter Core vocabulary: High-frequency ●●● S2 W2 noun
+wipe Core vocabulary: High-frequency ●●● S3 verb
+wire Core vocabulary: High-frequency ●●● S2 W3 noun
+wise Core vocabulary: High-frequency ●●● S3 adjective
+wish Core vocabulary: High-frequency ●●● S1 W1 verb
+wish Core vocabulary: High-frequency ●●● S3 noun
+with Core vocabulary: High-frequency ●●● S1 W1 preposition
+within Core vocabulary: High-frequency ●●● S1 W1 preposition , adverb
+without Core vocabulary: High-frequency ●●● S1 W1 preposition , adverb
+witness Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+woman Core vocabulary: High-frequency ●●● S1 W1 noun
+wonder Core vocabulary: High-frequency ●●● S1 W2 verb
+wonderful Core vocabulary: High-frequency ●●● S1 W2 adjective
+wood Core vocabulary: High-frequency ●●● S2 W2 noun
+wooden Core vocabulary: High-frequency ●●● S3 W3 adjective
+wool Core vocabulary: High-frequency ●●● S3 noun
+word Core vocabulary: High-frequency ●●● S1 W1 noun
+work Core vocabulary: High-frequency ●●● S1 W1 verb
+work Core vocabulary: High-frequency ●●● S1 W1 noun
+worker Core vocabulary: High-frequency ●●● S2 W1 noun
+workshop Core vocabulary: Medium-frequency ●●○ S3 W3 noun
+world Core vocabulary: High-frequency ●●● S1 W1 noun
+worried Core vocabulary: High-frequency ●●● S2 W3 adjective
+worry Core vocabulary: High-frequency ●●● S1 W2 verb
+worry Core vocabulary: High-frequency ●●● S2 noun
+worrying Core vocabulary: Medium-frequency ●●○ S3 adjective
+worse Core vocabulary: High-frequency ●●● S1 W2 adjective
+worse Core vocabulary: High-frequency ●●● S3 W2 adverb
+worst Core vocabulary: High-frequency ●●● S2 W1 adjective
+worst Core vocabulary: High-frequency ●●● S2 W3 noun
+worth Core vocabulary: High-frequency ●●● S1 W2 adjective
+would Core vocabulary: High-frequency ●●● S1 W1 modal verb
+wrap Core vocabulary: High-frequency ●●● S3 verb
+write Core vocabulary: High-frequency ●●● S1 W1 verb
+writer Core vocabulary: High-frequency ●●● S3 W2 noun
+writing Core vocabulary: High-frequency ●●● S2 W3 noun
+wrong Core vocabulary: High-frequency ●●● S1 W1 adjective
+wrong Core vocabulary: High-frequency ●●● S2 adverb
+yard Core vocabulary: High-frequency ●●● S2 W2 noun
+yeah Core vocabulary: High-frequency ●●● S1 adverb
+year Core vocabulary: High-frequency ●●● S1 W1 noun
+yellow Core vocabulary: High-frequency ●●● S2 W3 adjective
+yellow Core vocabulary: High-frequency ●●● S3 W3 noun
+yes Core vocabulary: High-frequency ●●● S1 W1 adverb
+yesterday Core vocabulary: High-frequency ●●● S1 W1 adverb
+yet Core vocabulary: High-frequency ●●● S1 W1 adverb
+yogurt Core vocabulary: High-frequency ●●● S3 noun
+you Core vocabulary: High-frequency ●●● S1 W1 pronoun
+young Core vocabulary: High-frequency ●●● S1 W1 adjective
+your Core vocabulary: High-frequency ●●● S1 W1 determiner
+yours Core vocabulary: High-frequency ●●● S1 W3 pronoun
+yourself Core vocabulary: High-frequency ●●● S1 W2 pronoun
+youth Core vocabulary: High-frequency ●●● S2 W2 noun
+zero Core vocabulary: High-frequency ●●● S3 number
+zip Core vocabulary: High-frequency ●●● S3 noun
+zipper Core vocabulary: High-frequency ●●● S3 noun
+zoo Core vocabulary: High-frequency ●●● S3 noun
