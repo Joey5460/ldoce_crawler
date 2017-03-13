@@ -1,0 +1,3178 @@
+A               ●●● S1 W1 indefinite article ,
+abandon         ●●○ W3 verb   
+ability         ●●● S2 W1 noun  
+able            ●●● S1 W1 adjective  
+about           ●●● S1 W1 preposition  
+about           ●●● S1 W1 adverb  
+about           ●●● S3 W2 adjective  
+above           ●●● S2 W1 adverb , preposition
+above           ●●○ W3 adjective   
+abroad          ●●● S2 W3 adverb  
+absence         ●●● S3 W2 noun  
+absent          ●●● W2 adjective   
+absolutely      ●●● S1 W3 adverb  
+absorb          ●●○ W3 verb   
+abuse           ●●○ S3 W3 noun  
+academic        ●●○ W2 adjective   
+accept          ●●● S1 W1 verb  
+acceptable      ●●○ S3 W3 adjective  
+access          ●●● S2 W1 noun  
+accident        ●●● S2 W2 noun  
+accommodation   ●●○ W2 noun   
+accompany       ●●○ W2 verb   
+account         ●●● S1 W1 noun  
+account         ●●○ S3 W3 verb  
+accurate        ●●● S2 W3 adjective  
+accuse          ●●○ W3 verb   
+achieve         ●●● S2 W1 verb  
+achievement     ●●● S3 W2 noun  
+acid            ●●○ W3 noun   
+acknowledge     ●●○ S3 W3 verb  
+acquire         ●●○ W2 verb   
+across          ●●● S1 W1 adverb , preposition
+act             ●●● S1 W1 noun  
+act             ●●● S2 W1 verb  
+action          ●●● S1 W1 noun  
+active          ●●● S2 W2 adjective  
+activity        ●●● S2 W1 noun  
+actor           ●●● W3 noun   
+actress         ●●● W3 noun   
+actual          ●●● S1 W2 adjective  
+actually        ●●● S1 W1 adverb  
+ad              ●●● S3 W3 noun  
+adapt           ●●○ W3 verb   
+add             ●●● S1 W1 verb  
+addition        ●●● S3 W1 noun  
+additional      ●●○ W2 adjective   
+address         ●●● S2 W2 noun  
+adequate        ●●○ S3 W3 adjective  
+adjust          ●●○ W3 verb   
+administration  ●●○ S3 W3 noun  
+administrative  ●●○ W3 adjective   
+admission       ●●○ W3 noun   
+admit           ●●● S2 W1 verb  
+adopt           ●●○ S3 W2 verb  
+adult           ●●● S2 W2 noun  
+adult           ●●● W3 adjective   
+advance         ●●○ W3 noun   
+advance         ●●○ W3 verb   
+advanced        ●●● W3 adjective   
+advantage       ●●● S2 W1 noun  
+adventure       ●●● W2 noun   
+advertise       ●●○ S3 W3 verb  
+advertising     ●●○ W3 noun   
+advice          ●●● S2 W2 noun  
+advise          ●●● S2 W2 verb  
+adviser         ●●○ S3 W3 noun  
+affair          ●●● S2 W1 noun  
+affect          ●●● S2 W1 verb  
+afford          ●●● S1 W3 verb  
+afraid          ●●● S1 W2 adjective  
+after           ●●● S1 W1 preposition , conjunction
+afternoon       ●●● S1 W2 noun  
+afterwards      ●●● S2 W3 adverb  
+again           ●●● S1 W1 adverb  
+against         ●●● S1 W1 preposition  
+age             ●●● S1 W1 noun  
+aged            ●●○ W3 adjective   
+agency          ●●○ W3 noun   
+agent           ●●○ S3 W3 noun  
+aggressive      ●●○ S3 W3 adjective  
+ago             ●●● S1 W1 adverb  
+agree           ●●● S1 W1 verb  
+agreement       ●●● S2 W1 noun  
+agriculture     ●●○ W2 noun   
+ahead           ●●● S1 W2 adverb  
+aid             ●●○ W3 noun   
+aim             ●●● S2 W2 noun  
+aim             ●●● S2 W2 verb  
+air             ●●● S1 W1 noun  
+aircraft        ●●● S2 W2 noun  
+airline         ●●○ S3 W3 noun  
+airport         ●●● S3 W3 noun  
+album           ●●○ S3 W3 noun  
+alcohol         ●●● S2 W2 noun  
+alive           ●●● S2 W3 adjective  
+all             ●●● S1 W1 determiner , predeterminer
+all             ●●● S1 W1 adverb  
+allow           ●●● S1 W1 verb  
+almost          ●●● S1 W1 adverb  
+alone           ●●● S2 W1 adjective , adverb
+along           ●●● S1 W1 adverb  
+along           ●●● S1 W1 preposition  
+alongside       ●●○ W3 adverb , preposition 
+aloud           ●●● S3 W2 adverb  
+alphabet        ●●● W3 noun   
+alphabetical    ●●● W3 adjective   
+already         ●●● S1 W1 adverb  
+also            ●●● S1 W1 adverb  
+alter           ●●● S3 W3 verb  
+alternative     ●●○ S3 W2 adjective  
+alternative     ●●○ S3 W3 noun  
+although        ●●● S1 W1 conjunction  
+altogether      ●●● S2 W3 adverb  
+always          ●●● S1 W1 adverb  
+am              ●●● W2    
+ambition        ●●○ W3 noun   
+among           ●●● S2 W1 preposition  
+amount          ●●● S1 W1 noun  
+an              ●●● S1 W1 indefinite article ,
+analyse         ●●○ W3 verb   
+analysis        ●●○ S3 W3 noun  
+analyst         ●●○ W3 noun   
+ancient         ●●● W2 adjective   
+and             ●●● S1 W1 conjunction  
+anger           ●●○ W3 noun   
+angle           ●●● S3 W3 noun  
+angry           ●●● S2 W2 adjective  
+animal          ●●● S1 W1 noun  
+announce        ●●● S2 W1 verb  
+announcement    ●●● S3 W3 noun  
+annual          ●●○ W2 adjective   
+another         ●●● S1 W1 determiner , pronoun
+answer          ●●● S1 W1 noun  
+answer          ●●● S1 W2 verb  
+anticipate      ●●○ S3 W3 verb  
+anxiety         ●●○ S3 W3 noun  
+anxious         ●●○ S3 W3 adjective  
+any             ●●● S1 W1 determiner , pronoun
+anybody         ●●● S1 W3 pronoun  
+anymore         ●●● S1 W3 adverb  
+anyone          ●●● S1 W1 pronoun  
+anything        ●●● S1 W1 pronoun  
+anyway          ●●● S1 W2 adverb  
+anywhere        ●●● S1 W3 adverb  
+apart           ●●● S2 W1 adverb , adjective
+apartment       ●●● S2 W3 noun  
+apparent        ●●○ W2 adjective   
+apparently      ●●● S1 W2 adverb  
+appeal          ●●● S2 W1 noun  
+appeal          ●●● S3 W3 verb  
+appear          ●●● S2 W1 verb  
+appearance      ●●● W2 noun   
+apple           ●●● S2 W3 noun  
+application     ●●● S1 W1 noun  
+apply           ●●● S1 W1 verb  
+appoint         ●●○ W3 verb   
+appointment     ●●● S2 W2 noun  
+appreciate      ●●○ S3 W3 verb  
+approach        ●●● S2 W1 noun  
+approach        ●●● S3 W2 verb  
+appropriate     ●●● S2 W1 adjective  
+approval        ●●○ W3 noun   
+approve         ●●● S3 W2 verb  
+approximate     ●●○ W3 adjective   
+approximately   ●●○ W3 adverb   
+April           ●●● S2 W2 noun  
+architect       ●●○ W3 noun   
+architecture    ●●○ S3 W3 noun  
+area            ●●● S1 W1 noun  
+argue           ●●● S2 W1 verb  
+argument        ●●● S1 W1 noun  
+arise           ●●○ W2 verb   
+arm             ●●● S1 W1 noun  
+armed           ●●○ S3 W3 adjective  
+army            ●●● S1 W1 noun  
+around          ●●● S1 W1 adverb , preposition
+arrange         ●●● S2 W2 verb  
+arrangement     ●●● S2 W2 noun  
+arrest          ●●● S3 W2 verb  
+arrest          ●●● S3 W2 noun  
+arrival         ●●● W3 noun   
+arrive          ●●● S2 W1 verb  
+art             ●●● S1 W1 noun  
+article         ●●● S2 W1 noun  
+artist          ●●● S3 W2 noun  
+as              ●●● S1 W1 preposition , adverb
+as              ●●● S1 W1 conjunction  
+aside           ●●○ S3 W3 adverb  
+ask             ●●● S1 W1 verb  
+aspect          ●●● S2 W1 noun  
+assist          ●●○ W3 verb   
+assistance      ●●○ W2 noun   
+assistant       ●●○ W3 adjective   
+assistant       ●●○ W3 noun   
+associate       ●●○ S3 W2 verb  
+association     ●●○ W3 noun   
+assume          ●●● S2 W1 verb  
+assumption      ●●○ W2 noun   
+assure          ●●○ W3 verb   
+at              ●●● S1 W1 preposition  
+atmosphere      ●●● S3 W2 noun  
+attach          ●●● S2 W2 verb  
+attack          ●●● S2 W2 noun  
+attack          ●●● S3 W2 verb  
+attempt         ●●● S2 W1 noun  
+attempt         ●●● S2 W2 verb  
+attend          ●●● S2 W2 verb  
+attention       ●●● S2 W1 noun  
+attitude        ●●● S2 W1 noun  
+attorney        ●●● S2 W3 noun  
+attract         ●●● S2 W2 verb  
+attraction      ●●○ W3 noun   
+attractive      ●●● S2 W2 adjective  
+audience        ●●● S2 W2 noun  
+august          ●●● S2 W2 noun  
+aunt            ●●● S3 W3 noun  
+author          ●●● W2 noun   
+authority       ●●● W1 noun   
+automatically   ●●○ S3 W3 adverb  
+autumn          ●●● W3 noun   
+available       ●●● S1 W1 adjective  
+average         ●●● S2 W2 adjective  
+average         ●●● S2 W2 noun  
+avoid           ●●● S2 W1 verb  
+award           ●●● S3 W2 noun  
+award           ●●○ W3 verb   
+aware           ●●● S1 W1 adjective  
+awareness       ●●○ W3 noun   
+away            ●●● S1 W1 adverb  
+baby            ●●● S1 W1 noun  
+back            ●●● S1 W1 adverb  
+back            ●●● S1 W1 noun  
+back            ●●● S2 W3 verb  
+back            ●●● S2 W3 adjective  
+background      ●●● S2 W2 noun  
+bad             ●●● S1 W1 adjective  
+badly           ●●● S3 W3 adverb  
+bag             ●●● S1 W2 noun  
+balance         ●●● S2 W2 noun  
+ball            ●●● S1 W2 noun  
+ban             ●●○ W3 noun   
+band            ●●● S2 W2 noun  
+bank            ●●● S1 W1 noun  
+bar             ●●● S1 W1 noun  
+barrier         ●●○ W3 noun   
+base            ●●● S1 W1 verb  
+base            ●●● S2 W2 noun  
+baseball        ●●● S3 W2 noun  
+basic           ●●● S2 W1 adjective  
+basis           ●●● S2 W1 noun  
+bath            ●●● S2 W3 noun  
+bathroom        ●●● S2 W3 noun  
+battle          ●●● W2 noun   
+be              ●●● S1 W1 auxiliary verb 
+be              ●●● S1 W1 verb  
+beach           ●●● S2 W2 noun  
+bear            ●●● S2 W2 verb  
+beat            ●●● S2 W2 verb  
+beautiful       ●●● S1 W2 adjective  
+beauty          ●●● S3 W2 noun  
+because         ●●● S1 W1 conjunction  
+because         ●●● S1 W1 preposition  
+become          ●●● S1 W1 verb  
+bed             ●●● S1 W1 noun  
+bedroom         ●●● S1 W2 noun  
+beer            ●●● S2 W3 noun  
+before          ●●● S1 W1 conjunction  
+before          ●●● S1 W1 preposition  
+before          ●●● S1 W1 adverb  
+begin           ●●● S1 W1 verb  
+beginner        ●●● W3 noun   
+beginning       ●●● S1 W2 noun  
+behalf          ●●○ S3 W3 noun  
+behave          ●●● S3 W3 verb  
+behaviour       ●●● S2 W1 noun  
+behind          ●●● S1 W1 preposition , adverb
+being           ●●○ W3 noun   
+belief          ●●● S3 W2 noun  
+believe         ●●● S1 W1 verb  
+bell            ●●● S2 W3 noun  
+belong          ●●● S2 W2 verb  
+below           ●●● S2 W2 adverb , preposition
+belt            ●●● S2 W3 noun  
+bench           ●●● S2 W3 noun  
+bend            ●●● S3 W3 verb  
+beneath         ●●● W2 adverb , preposition 
+benefit         ●●● S2 W1 noun  
+benefit         ●●○ W3 verb   
+beside          ●●● S3 W2 preposition  
+best            ●●● S1 W1 adjective  
+best            ●●● S1 W2 adverb  
+best            ●●● S2 W2 noun  
+better          ●●● S1 W1 adjective  
+better          ●●● S1 W1 adverb  
+between         ●●● S1 W1 adverb , preposition
+beyond          ●●● S2 W1 preposition , adverb
+bicycle         ●●● W3 noun   
+bid             ●●○ W3 noun   
+big             ●●● S1 W1 adjective  
+bill            ●●● S1 W1 noun  
+billion         ●●● W2 number   
+biology         ●●● W3 noun   
+bird            ●●● S2 W2 noun  
+birth           ●●● S2 W2 noun  
+birthday        ●●● S1 W3 noun  
+bit             ●●● S1 W1 noun  
+bitter          ●●○ S3 W3 adjective  
+black           ●●● S1 W1 adjective  
+black           ●●● S2 W2 noun  
+blame           ●●● S2 W3 verb  
+blame           ●●● S3 W2 noun  
+blind           ●●● S2 W3 adjective  
+block           ●●● S2 W2 noun  
+blood           ●●● S2 W1 noun  
+blow            ●●● S2 W3 verb  
+blow            ●●○ S3 W3 noun  
+blue            ●●● S1 W2 adjective  
+blue            ●●● S3 W3 noun  
+board           ●●● S1 W1 noun  
+boat            ●●● S1 W2 noun  
+body            ●●● S1 W1 noun  
+bomb            ●●● S3 W3 noun  
+bomb            ●●● W3 verb   
+bone            ●●● S2 W2 noun  
+book            ●●● S1 W1 noun  
+bookshop        ●●● W3 noun   
+boot            ●●● S2 W3 noun  
+border          ●●● S3 W2 noun  
+born            ●●● S1 W1 verb  
+borrow          ●●● S2 W3 verb  
+boss            ●●● S2 W3 noun  
+both            ●●● S1 W1 determiner , predeterminer
+bother          ●●● S1 W3 verb  
+bottle          ●●● S1 W2 noun  
+bottom          ●●● S1 W3 noun  
+bottom          ●●● S1 W3 adjective  
+bowl            ●●● S2 W3 noun  
+box             ●●● S1 W1 noun  
+boy             ●●● S1 W1 noun  
+brain           ●●● S2 W2 noun  
+branch          ●●● S2 W2 noun  
+bread           ●●● S2 W3 noun  
+break           ●●● S1 W1 verb  
+break           ●●● S2 W2 noun  
+breakfast       ●●● S2 W2 noun  
+breath          ●●● S3 W2 noun  
+breathe         ●●● S3 W3 verb  
+brick           ●●● S2 W3 noun  
+bridge          ●●● S2 W2 noun  
+brief           ●●● S2 W2 adjective  
+briefly         ●●○ W3 adverb   
+bright          ●●● S2 W2 adjective  
+brilliant       ●●● S2 W3 adjective  
+bring           ●●● S1 W1 verb  
+broad           ●●● S2 W2 adjective  
+broken          ●●● S3 W2 adjective  
+brother         ●●● S1 W1 noun  
+brown           ●●● S2 W2 adjective  
+brown           ●●● S2 W2 noun  
+budget          ●●○ S3 W3 noun  
+build           ●●● S1 W1 verb  
+building        ●●● S1 W1 noun  
+burn            ●●● S2 W3 verb  
+burst           ●●○ W3 verb   
+bury            ●●● W3 verb   
+bus             ●●● S1 W2 noun  
+business        ●●● S1 W1 noun  
+businessman     ●●● W3 noun   
+busy            ●●● S1 W2 adjective  
+but             ●●● S1 W1 conjunction  
+but             ●●● S2 W3 preposition  
+buy             ●●● S1 W1 verb  
+buyer           ●●○ S3 W3 noun  
+by              ●●● S1 W1 preposition  
+by              ●●● S1 W1 adverb  
+cable           ●●● W3 noun   
+cake            ●●● S2 W3 noun  
+calculate       ●●● S2 W3 verb  
+call            ●●● S1 W1 verb  
+call            ●●● S1 W1 noun  
+calm            ●●● S3 W3 adjective  
+camera          ●●● S2 W3 noun  
+camp            ●●● S3 W3 noun  
+campaign        ●●○ S3 W3 noun  
+campus          ●●● S2 W3 noun  
+can             ●●● S1 W1 modal verb 
+cancer          ●●● S2 W2 noun  
+candidate       ●●● W2 noun   
+cannot          ●●● W1 modal verb  
+capable         ●●○ S3 W2 adjective  
+capacity        ●●○ W3 noun   
+capital         ●●● S3 W1 noun  
+captain         ●●● W3 noun   
+capture         ●●○ W3 verb   
+car             ●●● S1 W1 noun  
+card            ●●● S1 W2 noun  
+care            ●●● S1 W1 noun  
+care            ●●● S1 W2 verb  
+career          ●●● S2 W2 noun  
+careful         ●●● S1 W2 adjective  
+carefully       ●●● S2 W2 adverb  
+carpet          ●●● S2 W3 noun  
+carry           ●●● S1 W1 verb  
+case            ●●● S1 W1 noun  
+cash            ●●● S2 W2 noun  
+cast            ●●○ W3 verb   
+castle          ●●● W3 noun   
+cat             ●●● S1 W3 noun  
+catalogue       ●●○ W3 noun   
+catch           ●●● S1 W1 verb  
+category        ●●● S2 W2 noun  
+cattle          ●●● W3 noun   
+cause           ●●● S1 W1 verb  
+cause           ●●● S2 W1 noun  
+CD              ●●○ S3 W3 noun  
+cease           ●●○ W3 verb   
+ceiling         ●●● S3 W3 noun  
+celebrate       ●●● W3 verb   
+cell            ●●● S3 W2 noun  
+cellphone       ●●● S2 W3 noun  
+cent            ●●● S1 W1 noun  
+centimetre      ●●● S3 W3 noun  
+central         ●●● S1 W1 adjective  
+centre          ●●● S1 W1 noun  
+century         ●●● S2 W1 noun  
+ceremony        ●●● S3 W2 noun  
+certain         ●●● S1 W1 adjective  
+certainly       ●●● S1 W1 adverb  
+certificate     ●●○ S3 W3 noun  
+chain           ●●● S3 W2 noun  
+chair           ●●● S1 W2 noun  
+chairman        ●●○ W3 noun   
+challenge       ●●● S2 W2 noun  
+challenge       ●●● S3 W3 verb  
+champion        ●●● W3 noun   
+championship    ●●● W3 noun   
+chance          ●●● S1 W1 noun  
+change          ●●● S1 W1 verb  
+change          ●●● S1 W1 noun  
+channel         ●●● S3 W2 noun  
+chapter         ●●● S3 W1 noun  
+character       ●●● S1 W1 noun  
+characteristic  ●●○ S3 W2 noun  
+characterize    ●●○ W3 verb   
+charge          ●●● S1 W1 noun  
+charge          ●●● S1 W2 verb  
+charity         ●●○ S3 W3 noun  
+chart           ●●● S3 W3 noun  
+cheap           ●●● S1 W2 adjective  
+check           ●●● S1 W2 verb  
+check           ●●● S1 W3 noun  
+cheek           ●●● W3 noun   
+cheese          ●●● S2 W3 noun  
+chemical        ●●● S3 W3 noun  
+chemical        ●●● W3 adjective   
+chemistry       ●●● W3 noun   
+chest           ●●● S2 W3 noun  
+chief           ●●● S2 W2 adjective  
+chief           ●●● W3 noun   
+child           ●●● S1 W1 noun  
+childhood       ●●○ W3 noun   
+chin            ●●● W3 noun   
+chip            ●●● S2 W3 noun  
+choice          ●●● S1 W1 noun  
+choose          ●●● S1 W1 verb  
+Christmas       ●●● S2 W2 noun  
+church          ●●● S1 W1 noun  
+cigarette       ●●● S2 W3 noun  
+circle          ●●● S2 W2 noun  
+circuit         ●●○ W3 noun   
+circumstance    ●●● S2 W1 noun  
+citizen         ●●● S2 W2 noun  
+city            ●●● S1 W1 noun  
+civil           ●●○ S3 W2 adjective  
+claim           ●●● S1 W1 verb  
+claim           ●●● S2 W1 noun  
+class           ●●● S1 W1 noun  
+classic         ●●○ W3 adjective   
+classical       ●●○ W3 adjective   
+classroom       ●●● S3 W3 noun  
+clean           ●●● S2 W2 adjective  
+clean           ●●● S1 W3 verb  
+clear           ●●● S1 W1 adjective  
+clear           ●●● S1 W2 verb  
+clearly         ●●● S1 W1 adverb  
+client          ●●● S2 W1 noun  
+climate         ●●○ W3 noun   
+climb           ●●● W2 verb   
+clock           ●●● S2 W3 noun  
+close           ●●● S1 W1 verb  
+close           ●●● S1 W1 adjective  
+close           ●●● S2 W2 adverb  
+closely         ●●● S3 W2 adverb  
+clothes         ●●● S2 W2 noun  
+clothing        ●●● S3 W3 noun  
+cloud           ●●● S3 W3 noun  
+cloudy          ●●● S2 W3 adjective  
+club            ●●● S1 W1 noun  
+coach           ●●● S3 W2 noun  
+coal            ●●● S2 W2 noun  
+coast           ●●● S3 W2 noun  
+coat            ●●● S2 W3 noun  
+code            ●●● S2 W2 noun  
+coffee          ●●● S1 W2 noun  
+cold            ●●● S1 W1 adjective  
+cold            ●●● S2 W3 noun  
+colleague       ●●● S2 W2 noun  
+collect         ●●● S1 W2 verb  
+collection      ●●● S2 W1 noun  
+college         ●●● S1 W2 noun  
+colour          ●●● S1 W1 noun  
+column          ●●○ W2 noun   
+combination     ●●● S3 W2 noun  
+combine         ●●● S3 W2 verb  
+come            ●●● S1 W1 verb  
+comedy          ●●● W3 noun   
+Comfort         ●●○ W3 noun   
+comfortable     ●●● S2 W3 adjective  
+command         ●●○ W3 noun   
+comment         ●●● S1 W2 noun  
+comment         ●●○ S3 W3 verb  
+commercial      ●●○ S3 W3 adjective  
+commission      ●●○ S3 W3 noun  
+commit          ●●● S2 W2 verb  
+commitment      ●●○ S3 W2 noun  
+committee       ●●● S3 W1 noun  
+common          ●●● S1 W1 adjective  
+communicate     ●●● S3 W3 verb  
+communication   ●●● S2 W1 noun  
+community       ●●● S1 W1 noun  
+company         ●●● S1 W1 noun  
+compare         ●●● S1 W1 verb  
+comparison      ●●○ W2 noun   
+compete         ●●● S3 W3 verb  
+competition     ●●● S2 W1 noun  
+competitive     ●●○ S3 W3 adjective  
+complain        ●●● S2 W3 verb  
+complaint       ●●● S3 W3 noun  
+complete        ●●● S2 W1 adjective  
+complete        ●●● S2 W1 verb  
+completely      ●●● S1 W2 adverb  
+complex         ●●○ W2 adjective   
+complicated     ●●● S2 W3 adjective  
+comprehensive   ●●○ W3 adjective   
+comprise        ●●○ W3 verb   
+computer        ●●● S1 W1 noun  
+concentrate     ●●● S2 W2 verb  
+concentration   ●●● S3 W2 noun  
+concept         ●●○ W2 noun   
+concern         ●●● S3 W1 noun  
+concern         ●●○ W3 verb   
+concerned       ●●● S2 W2 adjective  
+concerning      ●●○ W3 preposition   
+concert         ●●● S3 W3 noun  
+conclude        ●●○ W2 verb   
+conclusion      ●●○ S3 W2 noun  
+condition       ●●● S2 W1 noun  
+conduct         ●●○ W2 verb   
+conference      ●●● S2 W1 noun  
+confidence      ●●● S2 W2 noun  
+confident       ●●● S3 W3 adjective  
+confine         ●●○ W3 verb   
+confirm         ●●● S2 W2 verb  
+conflict        ●●○ W3 noun   
+confusion       ●●○ S3 W3 noun  
+connect         ●●● S2 W2 verb  
+connected       ●●● S3 W3 adjective  
+connection      ●●● S3 W2 noun  
+conscious       ●●○ S3 W3 adjective  
+consciousness   ●●○ W3 noun   
+consent         ●●○ W3 noun   
+consequence     ●●○ W2 noun   
+consider        ●●● S1 W1 verb  
+considerable    ●●○ W3 adjective   
+considerably    ●●○ W3 adverb   
+consist         ●●● W3 verb   
+consistent      ●●○ S3 W3 adjective  
+constant        ●●○ S3 W3 adjective  
+constantly      ●●○ S3 W3 adverb  
+constitute      ●●○ W3 verb   
+construct       ●●○ W3 verb   
+consult         ●●○ S3 W3 verb  
+consumer        ●●○ S3 W3 noun  
+consumption     ●●○ W3 noun   
+contact         ●●● S2 W2 noun  
+contact         ●●● S2 W2 verb  
+contain         ●●● S2 W1 verb  
+content         ●●● S3 W2 noun  
+contest         ●●○ W3 noun   
+context         ●●○ W2 noun   
+continue        ●●● S1 W1 verb  
+continuous      ●●○ S3 W3 adjective  
+contract        ●●● S1 W1 noun  
+contrast        ●●○ W2 noun   
+contribute      ●●○ S3 W2 verb  
+contribution    ●●○ W3 noun   
+control         ●●● S1 W1 noun  
+control         ●●● S2 W1 verb  
+conventional    ●●○ W3 adjective   
+conversation    ●●● S1 W2 noun  
+convert         ●●○ W3 verb   
+convince        ●●○ S3 W3 verb  
+cook            ●●● S1 W3 verb  
+cookie          ●●● S3 W3 noun  
+cool            ●●● S2 W3 adjective  
+cooperation     ●●○ S3 W3 noun  
+cope            ●●○ S3 W3 verb  
+copy            ●●● S1 W2 noun  
+core            ●●○ W3 noun   
+corner          ●●● S1 W2 noun  
+correct         ●●● S1 W2 adjective  
+corridor        ●●○ S3 W3 noun  
+cost            ●●● S1 W1 noun  
+cost            ●●● S1 W2 verb  
+cottage         ●●○ S3 W3 noun  
+cotton          ●●● W3 noun   
+cough           ●●● S3 W3 verb  
+cough           ●●● S3 W3 noun  
+could           ●●● S1 W1 modal verb 
+council         ●●○ S3 W3 noun  
+count           ●●● S2 W3 verb  
+country         ●●● S1 W1 noun  
+countryside     ●●● S3 W3 noun  
+county          ●●● W2 noun   
+couple          ●●● S1 W1 noun  
+course          ●●● S1 W1 noun  
+court           ●●● S1 W1 noun  
+cover           ●●● S1 W1 verb  
+cover           ●●● S1 W2 noun  
+crack           ●●● S2 W2 verb  
+craft           ●●○ W3 noun   
+crash           ●●● S3 W2 verb  
+crash           ●●● S3 W2 noun  
+create          ●●● S2 W1 verb  
+creation        ●●○ W3 noun   
+creative        ●●○ W3 adjective   
+creature        ●●● W3 noun   
+credit          ●●● S2 W2 noun  
+crew            ●●● S3 W3 noun  
+crime           ●●● S2 W2 noun  
+criminal        ●●● S3 W2 adjective  
+criminal        ●●● W3 noun   
+crisis          ●●○ S3 W3 noun  
+criterion       ●●○ W2 noun   
+critic          ●●○ W3 noun   
+critical        ●●○ S3 W2 adjective  
+criticism       ●●○ S3 W2 noun  
+criticize       ●●● W3 verb   
+crop            ●●● W3 noun   
+cross           ●●● S2 W2 verb  
+cross           ●●● S3 W3 noun  
+crowd           ●●● S3 W2 noun  
+crown           ●●○ W3 noun   
+crucial         ●●○ W2 adjective   
+cry             ●●● S2 W2 verb  
+cry             ●●○ W3 noun   
+cultural        ●●● W2 adjective   
+culture         ●●● S2 W1 noun  
+cup             ●●● S1 W1 noun  
+curious         ●●○ W3 adjective   
+currency        ●●○ W3 noun   
+current         ●●● S2 W2 adjective  
+current         ●●○ W3 noun   
+currently       ●●● S2 W2 adverb  
+curtain         ●●● S3 W3 noun  
+curve           ●●○ S3 W3 noun  
+custom          ●●● W3 noun   
+customer        ●●● S1 W1 noun  
+cut             ●●● S1 W1 verb  
+cut             ●●● S2 W2 noun  
+cycle           ●●○ S3 W3 noun  
+dad             ●●● S1 W3 noun  
+daily           ●●● S3 W2 adjective  
+damage          ●●● S3 W2 noun  
+damage          ●●● S3 W3 verb  
+dance           ●●● S2 W3 noun  
+dance           ●●● S2 W3 verb  
+dancer          ●●● W3 noun   
+danger          ●●● S2 W2 noun  
+dangerous       ●●● S2 W2 adjective  
+dare            ●●○ S3 W3 verb , modal
+dark            ●●● S2 W1 adjective  
+dark            ●●● S3 W3 noun  
+darkness        ●●● W3 noun   
+data            ●●● S1 W1 noun  
+database        ●●○ S3 W3 noun  
+date            ●●● S1 W1 noun  
+date            ●●○ S3 W3 verb  
+daughter        ●●● S1 W1 noun  
+day             ●●● S1 W1 noun  
+dead            ●●● S1 W1 adjective  
+deaf            ●●○ W3 adjective   
+deal            ●●● S1 W1 noun  
+deal            ●●● S1 W1 verb  
+dealer          ●●○ W3 noun   
+dear            ●●● W1 adjective   
+death           ●●● S1 W1 noun  
+debate          ●●● S2 W2 noun  
+debt            ●●● S3 W2 noun  
+decade          ●●● W1 noun   
+December        ●●● S2 W2 noun  
+decide          ●●● S1 W1 verb  
+decision        ●●● S1 W1 noun  
+declare         ●●○ W2 verb   
+decline         ●●○ W3 noun   
+decline         ●●○ W3 verb   
+deep            ●●● S2 W1 adjective  
+deep            ●●● W3 adverb   
+deeply          ●●● W3 adverb   
+defeat          ●●● W3 noun   
+defeat          ●●● W3 verb   
+defence         ●●● S2 W1 noun  
+defend          ●●● S3 W3 verb  
+define          ●●● S2 W2 verb  
+definition      ●●○ S3 W2 noun  
+degree          ●●● S2 W1 noun  
+delay           ●●○ W3 noun   
+delay           ●●○ W3 verb   
+deliver         ●●● S2 W2 verb  
+delivery        ●●● S3 W3 noun  
+demand          ●●● S2 W1 noun  
+demand          ●●● W2 verb   
+democracy       ●●○ W3 noun   
+democratic      ●●○ W3 adjective   
+demonstrate     ●●○ W2 verb   
+demonstration   ●●○ W3 noun   
+deny            ●●● S3 W2 verb  
+department      ●●● S2 W1 noun  
+departure       ●●○ W3 noun   
+depend          ●●● S1 W2 verb  
+dependent       ●●○ W3 adjective   
+deposit         ●●○ S3 W3 noun  
+depression      ●●○ W3 noun   
+depth           ●●● S3 W3 noun  
+derive          ●●○ W3 verb   
+describe        ●●● S2 W1 verb  
+description     ●●● S2 W2 noun  
+desert          ●●○ W3 noun   
+deserve         ●●● S3 W3 verb  
+design          ●●● S2 W1 noun  
+design          ●●● S3 W1 verb  
+designer        ●●○ W3 noun   
+desire          ●●● W2 noun   
+desk            ●●● S2 W2 noun  
+desperate       ●●○ S3 W3 adjective  
+despite         ●●● S3 W1 preposition  
+destroy         ●●● S2 W2 verb  
+destruction     ●●○ W3 noun   
+detail          ●●● S2 W1 noun  
+detailed        ●●● W2 adjective   
+detect          ●●○ W3 verb   
+determination   ●●○ W3 noun   
+determined      ●●○ W3 adjective   
+develop         ●●● S2 W1 verb  
+development     ●●● S1 W1 noun  
+device          ●●○ S3 W2 noun  
+die             ●●● S1 W1 verb  
+diet            ●●● S3 W2 noun  
+differ          ●●○ W3 verb   
+difference      ●●● S1 W1 noun  
+different       ●●● S1 W1 adjective  
+difficult       ●●● S1 W1 adjective  
+difficulty      ●●● S2 W1 noun  
+dimension       ●●○ W3 noun   
+dinner          ●●● S1 W2 noun  
+direct          ●●● S2 W1 adjective  
+direct          ●●● S3 W2 verb  
+direction       ●●● S1 W1 noun  
+directly        ●●● S2 W2 adverb  
+director        ●●● S2 W1 noun  
+dirty           ●●● S2 W3 adjective  
+disabled        ●●● S3 W3 adjective  
+disadvantage    ●●● W2 noun   
+disappear       ●●● S2 W2 verb  
+disappoint      ●●● W3 verb   
+disappointed    ●●● S3 W3 adjective  
+disaster        ●●● S3 W3 noun  
+disc            ●●○ S3 W3 noun  
+discipline      ●●○ S3 W3 noun  
+discount        ●●○ S3 W3 noun  
+discover        ●●● S2 W1 verb  
+discovery       ●●○ W3 noun   
+discuss         ●●● S2 W1 verb  
+discussion      ●●● S2 W1 noun  
+disease         ●●● S3 W1 noun  
+dish            ●●● S2 W2 noun  
+dismiss         ●●○ W3 verb   
+display         ●●● S3 W2 noun  
+display         ●●● W2 verb   
+dispute         ●●○ W3 noun   
+distance        ●●● S2 W2 noun  
+distant         ●●○ W3 adjective   
+distinct        ●●○ W3 adjective   
+distinction     ●●○ W3 noun   
+distinguish     ●●○ S3 W3 verb  
+distribute      ●●○ W2 verb   
+distribution    ●●○ W3 noun   
+district        ●●● S3 W2 noun  
+disturb         ●●○ W3 verb   
+divide          ●●● S2 W2 verb  
+division        ●●● S3 W1 noun  
+divorce         ●●● S2 W2 noun  
+divorce         ●●● S2 W3 verb  
+divorced        ●●● S2 W3 adjective  
+do              ●●● S1 W1 auxiliary verb 
+do              ●●● S1 W1 verb  
+doctor          ●●● S1 W1 noun  
+document        ●●● S2 W2 noun  
+dog             ●●● S1 W1 noun  
+dollar          ●●● S1 W2 noun  
+domestic        ●●○ W3 adjective   
+dominant        ●●○ W3 adjective   
+dominate        ●●○ W3 verb   
+door            ●●● S1 W1 noun  
+double          ●●● S1 W2 adjective  
+double          ●●● S3 W3 noun  
+doubt           ●●● S1 W1 noun  
+down            ●●● S1 W1 adverb , preposition
+download        ●●● S2 W2 verb  
+downtown        ●●● S3 W3 adverb  
+dozen           ●●● S2 W3 number  
+Dr              ●●● W2    
+draft           ●●○ S3 W3 noun  
+drag            ●●● S3 W3 verb  
+drama           ●●● W3 noun   
+dramatic        ●●○ W3 adjective   
+draw            ●●● S1 W1 verb  
+drawing         ●●● S3 W3 noun  
+dream           ●●● S2 W2 noun  
+dream           ●●● S3 W3 verb  
+dress           ●●● S2 W2 noun  
+dress           ●●● S2 W2 verb  
+drink           ●●● S1 W2 verb  
+drink           ●●● S1 W2 noun  
+drive           ●●● S1 W1 verb  
+drive           ●●● S2 W2 noun  
+driver          ●●● S1 W2 noun  
+drop            ●●● S1 W2 verb  
+drop            ●●● S2 W3 noun  
+drug            ●●● S2 W1 noun  
+dry             ●●● S2 W2 adjective  
+dry             ●●● S2 W3 verb  
+due             ●●● S1 W1 adjective  
+during          ●●● S1 W1 preposition  
+dust            ●●● S3 W3 noun  
+duty            ●●● S2 W1 noun  
+DVD             ●●● S3 W3 noun  
+each            ●●● S1 W1 determiner , pronoun
+ear             ●●● S2 W2 noun  
+early           ●●● S1 W1 adjective  
+early           ●●● S1 W1 adverb  
+earn            ●●● S2 W2 verb  
+earth           ●●● S2 W2 noun  
+ease            ●●○ W3 noun   
+easily          ●●● S2 W1 adverb  
+east            ●●● S2 W1 noun  
+east            ●●● S3 W3 adjective  
+east            ●●● S2 W2 adverb  
+eastern         ●●● S2 W2 adjective  
+easy            ●●● S1 W1 adjective  
+eat             ●●● S1 W1 verb  
+economic        ●●● S2 W1 adjective  
+economics       ●●○ W3 noun   
+economy         ●●● S2 W1 noun  
+edge            ●●● S2 W2 noun  
+edition         ●●○ W3 noun   
+editor          ●●○ W2 noun   
+education       ●●● S1 W1 noun  
+educational     ●●○ S3 W2 adjective  
+effect          ●●● S1 W1 noun  
+effective       ●●● S2 W1 adjective  
+effectively     ●●● S3 W2 adverb  
+efficiency      ●●○ W3 noun   
+efficient       ●●● S3 W3 adjective  
+effort          ●●● S1 W1 noun  
+egg             ●●● S1 W2 noun  
+eight           ●●● S2 W2 number , noun
+eighteen        ●●● S3 W2 number  
+eighth          ●●● S3 W3 adjective  
+eighty          ●●● W3 number   
+either          ●●● S1 W1 conjunction  
+either          ●●● S1 W1 determiner , pronoun
+either          ●●● S1 W2 adverb  
+elderly         ●●● S3 W2 adjective  
+elect           ●●○ S3 W3 verb  
+election        ●●● S2 W1 noun  
+electric        ●●● S2 W3 adjective  
+electricity     ●●● S2 W3 noun  
+electronic      ●●● S3 W3 adjective  
+element         ●●● S2 W1 noun  
+elephant        ●●● W3 noun   
+elevator        ●●● S3 W3 noun  
+eleven          ●●● S3 W2 number , noun
+eleventh        ●●● S3 W3 adjective  
+else            ●●● S1 W1 adverb  
+elsewhere       ●●● S3 W2 adverb  
+email           ●●● S1 W1 noun  
+email           ●●● S1 W1 verb  
+emerge          ●●○ W2 verb   
+emergency       ●●● S3 W3 noun  
+emotion         ●●● W3 noun   
+emotional       ●●● S3 W3 adjective  
+emphasis        ●●○ W2 noun   
+emphasize       ●●○ W2 verb   
+Empire,         Medium-frequency ●●○ W3 noun  
+employ          ●●● S3 W2 verb  
+employee        ●●● S2 W2 noun  
+employer        ●●● S2 W2 noun  
+employment      ●●● S2 W1 noun  
+empty           ●●● S2 W2 adjective  
+enable          ●●● S3 W1 verb  
+encounter       ●●○ W3 verb   
+encourage       ●●● S2 W1 verb  
+end             ●●● S1 W1 noun  
+end             ●●● S1 W1 verb  
+enemy           ●●● W2 noun   
+energy          ●●● S2 W1 noun  
+engine          ●●● S2 W2 noun  
+engineer        ●●● S3 W3 noun  
+engineering     ●●○ S3 W3 noun  
+enhance         ●●○ W3 verb   
+enjoy           ●●● S1 W1 verb  
+enormous        ●●● S2 W3 adjective  
+enough          ●●● S1 W1 adverb  
+enough          ●●● S1 W2 determiner , pronoun
+ensure          ●●● S2 W1 verb  
+enter           ●●● S2 W1 verb  
+enterprise      ●●○ W3 noun   
+entertainment   ●●● S3 W3 noun  
+enthusiasm      ●●○ W3 noun   
+entire          ●●● S3 W2 adjective  
+entirely        ●●● S2 W2 adverb  
+entitle         ●●○ S3 W3 verb  
+entrance        ●●● S3 W3 noun  
+entry           ●●● S3 W2 noun  
+environment     ●●● S1 W1 noun  
+environmental   ●●● S2 W2 adjective  
+equal           ●●● S1 W2 adjective  
+equal           ●●○ S3 W3 verb  
+equally         ●●○ W2 adverb   
+equipment       ●●● S2 W2 noun  
+equivalent      ●●○ W3 adjective   
+era             ●●○ W3 noun   
+error           ●●● S3 W2 noun  
+escape          ●●● S3 W2 verb  
+especially      ●●● S1 W1 adverb  
+essential       ●●● S3 W2 adjective  
+essentially     ●●○ S3 W3 adverb  
+establish       ●●● S2 W1 verb  
+establishment   ●●○ W3 noun   
+estimate        ●●○ W2 noun   
+estimate        ●●○ S3 W2 verb  
+etc.            ●●● W2 adverb   
+ethnic          ●●○ W3 adjective   
+euro            ●●● S2 W2 noun  
+even            ●●● S1 W1 adverb  
+evening         ●●● S1 W1 noun  
+event           ●●● S1 W1 noun  
+eventually      ●●● S1 W2 adverb  
+ever            ●●● S1 W1 adverb  
+every           ●●● S1 W1 determiner  
+everybody       ●●● S1 W3 pronoun  
+everyone        ●●● S1 W1 pronoun  
+everything      ●●● S1 W1 pronoun  
+everywhere      ●●● S2 W3 adverb  
+evidence        ●●● S2 W1 noun  
+evil            ●●○ S3 W3 adjective  
+exact           ●●● S2 W3 adjective  
+exactly         ●●● S1 W2 adverb  
+examination     ●●○ W2 noun   
+examine         ●●● S3 W2 verb  
+example         ●●● S1 W1 noun  
+excellent       ●●● S1 W2 adjective  
+except          ●●● S2 W2 conjunction , preposition
+exception       ●●● S3 W2 noun  
+exchange        ●●○ S3 W3 noun  
+excitement      ●●○ S3 W3 noun  
+exciting        ●●● S2 W3 adjective  
+exclude         ●●○ W3 verb   
+executive       ●●○ W3 noun   
+exercise        ●●● S2 W2 noun  
+exercise        ●●○ S3 W2 verb  
+exhibition      ●●● W2 noun   
+exist           ●●● S2 W1 verb  
+existence       ●●○ W2 noun   
+existing        ●●○ S3 W2 adjective  
+exit            ●●● S3 W3 noun  
+expand          ●●○ S3 W3 verb  
+expansion       ●●○ W3 noun   
+expect          ●●● S1 W1 verb  
+expensive       ●●● S1 W2 adjective  
+experience      ●●● S1 W1 noun  
+experience      ●●○ S3 W2 verb  
+experiment      ●●● S3 W2 noun  
+experimental    ●●○ W3 adjective   
+expert          ●●● S3 W2 noun  
+expert          ●●● W3 adjective   
+explain         ●●● S1 W1 verb  
+explanation     ●●● S3 W2 noun  
+explode         ●●● W3 verb   
+explore         ●●● S3 W2 verb  
+explosion       ●●● W3 noun   
+export          ●●○ W3 noun   
+export          ●●○ W3 verb   
+expose          ●●○ W3 verb   
+express         ●●● S2 W1 verb  
+expression      ●●● S2 W2 noun  
+extend          ●●○ S3 W2 verb  
+extension       ●●○ S3 W3 noun  
+extensive       ●●○ W3 adjective   
+extent          ●●● S2 W1 noun  
+external        ●●○ W2 adjective   
+extra           ●●● S1 W2 adjective  
+extraordinary   ●●○ S3 W3 adjective  
+extreme         ●●○ S3 W3 adjective  
+extremely       ●●● S2 W2 adverb  
+eye             ●●● S1 W1 noun  
+face            ●●● S1 W1 noun  
+face            ●●● S1 W1 verb  
+facility        ●●○ W3 noun   
+fact            ●●● S1 W1 noun  
+factor          ●●● S3 W1 noun  
+factory         ●●● S2 W2 noun  
+fail            ●●● S2 W1 verb  
+failure         ●●● S3 W2 noun  
+fair            ●●● S1 W2 adjective  
+fairly          ●●● S1 W2 adverb  
+faith           ●●● S3 W2 noun  
+fall            ●●● S1 W1 verb  
+fall            ●●● S2 W2 noun  
+false           ●●● W3 adjective   
+familiar        ●●○ S3 W2 adjective  
+family          ●●● S1 W1 noun  
+famous          ●●● S2 W2 adjective  
+fan             ●●● S3 W2 noun  
+far             ●●● S1 W1 adverb  
+far             ●●● S1 W1 adjective  
+farm            ●●● S2 W2 noun  
+farmer          ●●● S2 W2 noun  
+fashion         ●●● S3 W2 noun  
+fashionable     ●●● S3 W2 adjective  
+fast            ●●● S2 W2 adjective  
+fast            ●●● S2 W3 adverb  
+fat             ●●● S1 W2 adjective  
+fat             ●●● S2 W2 noun  
+father          ●●● S1 W1 noun  
+fault           ●●● S2 W3 noun  
+favour          ●●● S2 W3 noun  
+favour          ●●○ W3 verb   
+favourite       ●●● S2 W2 adjective  
+favourite       ●●● S2 W2 noun  
+fear            ●●● S3 W1 noun  
+fear            ●●○ W2 verb   
+feature         ●●● S2 W1 noun  
+feature         ●●○ W3 verb   
+February        ●●● S2 W2 noun  
+federal         ●●● W1 adjective   
+fee             ●●● S3 W3 noun  
+feed            ●●● S1 W2 verb  
+feedback        ●●○ S3 W3 noun  
+feel            ●●● S1 W1 verb  
+feeling         ●●● S1 W1 noun  
+fellow          ●●○ W3 adjective   
+female          ●●● S3 W2 adjective  
+female          ●●● W3 noun   
+festival        ●●● S3 W3 noun  
+few             ●●● S1 W1 determiner , pronoun
+field           ●●● S1 W1 noun  
+fifteen         ●●● S3 W3 number , noun
+fifth           ●●● S3 W3 adjective  
+fifty           ●●● S3 W3 number , noun
+fight           ●●● S1 W1 verb  
+fight           ●●● S2 W3 noun  
+figure          ●●● S1 W1 noun  
+figure          ●●● S1 W3 verb  
+file            ●●● S1 W2 noun  
+file            ●●○ S3 W3 verb  
+fill            ●●● S1 W1 verb  
+film            ●●● S1 W1 noun  
+final           ●●● S1 W1 adjective  
+finally         ●●● S2 W1 adverb  
+finance         ●●○ W3 noun   
+financial       ●●● W1 adjective   
+find            ●●● S1 W1 verb  
+finding         ●●○ W3 noun   
+fine            ●●● S1 W1 adjective  
+finger          ●●● S2 W2 noun  
+finish          ●●● S1 W2 verb  
+fire            ●●● S1 W1 noun  
+fire            ●●○ S3 W3 verb  
+firefighter     ●●● W3 noun   
+firm            ●●● S1 W1 noun  
+firm            ●●● S3 W2 adjective  
+first           ●●● S1 W1 adjective  
+first           ●●● S1 W2 adverb  
+first           ●●● S2 W2 noun  
+first           ●●● S2 W2 pronoun  
+fish            ●●● S1 W1 noun  
+fit             ●●● S1 W2 verb  
+fit             ●●● S2 W3 adjective  
+five            ●●● S2 W2 number , noun
+fix             ●●● S2 W2 verb  
+fixed           ●●○ S3 W3 adjective  
+flag            ●●● S2 W2 noun  
+flat            ●●● S2 W2 adjective  
+flat            ●●● S2 W3 noun  
+flavour         ●●● S2 W2 noun  
+flesh           ●●○ W3 noun   
+flight          ●●● S3 W2 noun  
+float           ●●● S3 W2 verb  
+flood           ●●○ W3 verb   
+floor           ●●● S1 W1 noun  
+flour           ●●● S3 W3 noun  
+flow            ●●● S3 W2 noun  
+flow            ●●● W3 verb   
+flower          ●●● S2 W2 noun  
+fly             ●●● S1 W1 verb  
+fly             ●●● S3 W3 noun  
+focus           ●●○ S3 W2 verb  
+focus           ●●○ S3 W2 noun  
+fog             ●●● S3 W3 noun  
+fold            ●●○ W3 verb   
+folder          ●●● S2 W2 noun  
+folk            ●●● S2 W3 noun  
+follow          ●●● S1 W1 verb  
+following       ●●● S3 W1 adjective  
+food            ●●● S1 W1 noun  
+foot            ●●● S1 W1 noun  
+football        ●●● S1 W2 noun  
+for             ●●● S1 W1 preposition  
+force           ●●● S2 W1 noun  
+force           ●●● S2 W1 verb  
+foreign         ●●● S3 W1 adjective  
+foreigner       ●●● W3 noun   
+forest          ●●● S2 W2 noun  
+forever         ●●● S2 W3 adverb  
+forget          ●●● S1 W1 verb  
+form            ●●● S1 W1 noun  
+form            ●●● S2 W1 verb  
+formal          ●●● S2 W2 adjective  
+formally        ●●○ W3 adverb   
+formation       ●●○ W3 noun   
+former          ●●● S2 W1 adjective  
+formula         ●●○ S3 W3 noun  
+fortune         ●●○ S3 W3 noun  
+forty           ●●● S3 W3 number  
+forward         ●●● S1 W1 adverb  
+forward         ●●○ S3 W3 adjective  
+four            ●●● S2 W1 number , noun
+fourteen        ●●● S3 W3 number  
+fourth          ●●● S3 W3 adjective  
+fourth          ●●● S3 W3 pronoun  
+frame           ●●● S3 W3 noun  
+free            ●●● S1 W1 adjective  
+free            ●●● W3 verb   
+freedom         ●●● S3 W2 noun  
+freeway         ●●● S2 W3 noun  
+freeze          ●●● S3 W3 verb  
+frequent        ●●○ W3 adjective   
+frequently      ●●● S3 W2 adverb  
+fresh           ●●● S2 W2 adjective  
+Friday          ●●● S2 W2 noun  
+friend          ●●● S1 W1 noun  
+friendly        ●●● S2 W3 adjective  
+friendship      ●●○ W3 noun   
+frighten        ●●● S3 W3 verb  
+from            ●●● S1 W1 preposition  
+front           ●●● S1 W1 noun  
+front           ●●● S1 W2 adjective  
+frozen          ●●● S2 W2 adjective  
+fruit           ●●● S2 W2 noun  
+fry             ●●● S2 W3 verb  
+fuel            ●●● S3 W2 noun  
+fulfil          ●●○ W3 verb   
+full            ●●● S1 W1 adjective  
+fully           ●●● S2 W2 adverb  
+fun             ●●● S2 W3 noun  
+fun             ●●● S2 W3 adjective  
+function        ●●● S3 W1 noun  
+fund            ●●○ W3 noun   
+fund            ●●○ W3 verb   
+fundamental     ●●○ W2 adjective   
+funeral         ●●● S3 W3 noun  
+funny           ●●● S1 W3 adjective  
+furniture       ●●● S2 W3 noun  
+further         ●●● S1 W1 adverb  
+future          ●●● S1 W1 adjective  
+future          ●●● S1 W1 noun  
+gain            ●●● S3 W1 verb  
+gain            ●●○ W3 noun   
+gallery         ●●○ W3 noun   
+gallon          ●●● S3 W3 noun  
+game            ●●● S1 W1 noun  
+gap             ●●● S2 W2 noun  
+garden          ●●● S1 W1 noun  
+gas             ●●● S1 W2 noun  
+gasoline        ●●○ S3 W3 noun  
+gate            ●●● S2 W2 noun  
+gather          ●●● S3 W2 verb  
+gay             ●●○ S3 W3 adjective  
+gene            ●●○ S3 W3 noun  
+general         ●●● S1 W1 adjective  
+generally       ●●● S2 W1 adverb  
+generate        ●●○ W2 verb   
+generation      ●●● S3 W2 noun  
+generous        ●●○ W3 adjective   
+gentle          ●●○ S3 W3 adjective  
+gentleman       ●●● S2 W2 noun  
+gently          ●●○ W3 adverb   
+genuine         ●●○ S3 W3 adjective  
+geography       ●●● W3 noun   
+get             ●●● S1 W1 verb  
+giant           ●●● S3 W2 adjective  
+giant           ●●● W3 noun   
+gift            ●●● S2 W2 noun  
+girl            ●●● S1 W1 noun  
+give            ●●● S1 W1 verb  
+glad            ●●● S2 W3 adjective  
+glass           ●●● S1 W1 noun  
+global          ●●○ W2 adjective   
+glove           ●●● S3 W3 noun  
+go              ●●● S1 W1 verb  
+goal            ●●● S2 W1 noun  
+god             ●●● S1 W1 noun  
+gold            ●●● S2 W2 noun  
+gold            ●●● S3 W3 adjective  
+golden          ●●● W3 adjective   
+golf            ●●● S2 W3 noun  
+good            ●●● S1 W1 adjective  
+good            ●●● S3 W2 noun  
+goods           ●●○ W3 noun   
+govern          ●●○ W3 verb   
+government      ●●● S2 W1 noun  
+governor        ●●● W3 noun   
+grab            ●●● S1 W3 verb  
+grade           ●●● S2 W3 noun  
+gradually       ●●● S3 W3 adverb  
+graduate        ●●● S2 W2 noun  
+graduate        ●●● S2 W2 verb  
+grammar         ●●● S3 W3 noun  
+grand           ●●○ S3 W3 adjective  
+grandchild      ●●● S3 W3 noun  
+granddaughter   ●●● S3 W3 noun  
+grandfather     ●●● S2 W3 noun  
+grandmother     ●●● S2 W2 noun  
+grandparent     ●●● W3 noun   
+grandson        ●●● S3 W3 noun  
+grant           ●●○ W3 verb   
+grant           ●●○ W3 noun   
+graph           ●●● S3 W2 noun  
+grass           ●●● S2 W2 noun  
+grateful        ●●○ S3 W3 adjective  
+great           ●●● S1 W1 adjective  
+greatly         ●●○ W3 adverb   
+green           ●●● S1 W2 adjective  
+green           ●●● S2 W3 noun  
+grey            ●●● S2 W2 adjective  
+grey            ●●● S3 W3 noun  
+grill           ●●● S3 W3 verb  
+grill           ●●● S3 W3 noun  
+ground          ●●● S1 W1 noun  
+group           ●●● S1 W1 noun  
+grow            ●●● S1 W1 verb  
+growth          ●●● S3 W1 noun  
+guarantee       ●●○ S3 W3 verb  
+guard           ●●● S2 W2 noun  
+guard           ●●● W2 verb   
+guess           ●●● S1 W3 verb  
+guest           ●●● S3 W2 noun  
+guidance        ●●○ S3 W3 noun  
+guide           ●●● S3 W2 noun  
+guide           ●●○ W3 verb   
+guilty          ●●● S2 W3 adjective  
+guitar          ●●● S3 W3 noun  
+gun             ●●● S2 W2 noun  
+guy             ●●● S1 W3 noun  
+habit           ●●● S3 W3 noun  
+hair            ●●● S1 W1 noun  
+half            ●●● S1 W1 predeterminer , pronoun
+half            ●●● S1 W2 noun  
+hall            ●●● S2 W2 noun  
+hand            ●●● S1 W1 noun  
+hand            ●●○ W2 verb   
+handle          ●●● S1 W2 verb  
+handle          ●●● S1 W3 noun  
+handsome        ●●● W3 adjective   
+hang            ●●● S1 W2 verb  
+happen          ●●● S1 W1 verb  
+happiness       ●●● W3 noun   
+happy           ●●● S1 W1 adjective  
+hard            ●●● S1 W1 adjective  
+hard            ●●● S1 W2 adverb  
+hardly          ●●● S2 W2 adverb  
+harm            ●●○ S3 W3 noun  
+hat             ●●● S1 W3 noun  
+hate            ●●● S1 W3 verb  
+have            ●●● S1 W1 auxiliary verb 
+have            ●●● S1 W1 verb  
+have            ●●● S1 W3 verb  
+he              ●●● S1 W1 pronoun  
+head            ●●● S1 W1 noun  
+head            ●●● S2 W2 verb  
+headache        ●●● S2 W3 noun  
+headquarters    ●●○ W3 noun   
+health          ●●● S1 W1 noun  
+healthy         ●●● S3 W3 adjective  
+hear            ●●● S1 W1 verb  
+hearing         ●●● S3 W2 noun  
+heart           ●●● S1 W1 noun  
+heat            ●●● S2 W2 noun  
+heat            ●●● S3 W3 verb  
+heaven          ●●● S3 W3 noun  
+heavily         ●●○ W3 adverb   
+heavy           ●●● S1 W1 adjective  
+height          ●●● S2 W3 noun  
+helmet          ●●● W3 noun   
+help            ●●● S1 W1 verb  
+help            ●●● S1 W1 noun  
+helpful         ●●● S2 W3 adjective  
+her             ●●● S1 W1 determiner  
+her             ●●● S1 W1 pronoun  
+here            ●●● S1 W1 adverb  
+hero            ●●● W3 noun   
+hers            ●●● S3 W3 pronoun  
+herself         ●●● S2 W1 pronoun  
+hesitate        ●●○ W3 verb   
+hide            ●●● S2 W2 verb  
+high            ●●● S1 W1 adjective  
+high            ●●● S2 W3 adverb  
+highlight       ●●○ W3 verb   
+highly          ●●● S2 W2 adverb  
+highway         ●●● S3 W2 noun  
+hill            ●●● S2 W2 noun  
+him             ●●● S1 W1 pronoun  
+himself         ●●● S1 W1 pronoun  
+hire            ●●● S2 W3 verb  
+his             ●●● S1 W1 determiner , pronoun
+historian       ●●○ W3 noun   
+historical      ●●○ W2 adjective   
+history         ●●● S2 W1 noun  
+hit             ●●● S1 W2 verb  
+hit             ●●● S3 W3 noun  
+hold            ●●● S1 W1 verb  
+hold            ●●● S2 W3 noun  
+hole            ●●● S1 W2 noun  
+holiday         ●●● S1 W2 noun  
+holy            ●●● W3 adjective   
+home            ●●● S1 W1 noun  
+home            ●●● S1 W1 adverb  
+home            ●●● W3 adjective   
+homepage        ●●● S2 W1 noun  
+honest          ●●● S2 W3 adjective  
+honour          ●●○ W3 noun   
+hope            ●●● S1 W1 verb  
+hope            ●●● S2 W2 noun  
+horror          ●●○ W3 noun   
+horse           ●●● S1 W1 noun  
+hospital        ●●● S1 W1 noun  
+host            ●●○ W3 noun   
+hot             ●●● S1 W2 adjective  
+hotel           ●●● S2 W1 noun  
+hour            ●●● S1 W1 noun  
+house           ●●● S1 W1 noun  
+housewife       ●●● W3 noun   
+housing         ●●○ W2 noun   
+how             ●●● S1 W1 adverb  
+however         ●●● S2 W1 adverb  
+however         ●●● S2 W3 conjunction  
+huge            ●●● S1 W2 adjective  
+human           ●●● S2 W1 adjective  
+human           ●●● W3 noun   
+hundred         ●●● S2 W2 number , noun
+hunt            ●●● W3 verb   
+hurry           ●●● S3 W3 verb  
+hurt            ●●● S1 W2 verb  
+husband         ●●● S1 W1 noun  
+I               ●●● S1 W1 pronoun  
+ice             ●●● S2 W3 noun  
+idea            ●●● S1 W1 noun  
+ideal           ●●○ S3 W3 adjective  
+identify        ●●● W1 verb   
+identity        ●●○ W2 noun   
+if              ●●● S1 W1 conjunction  
+ignore          ●●● S2 W2 verb  
+ill             ●●● S3 W2 adjective  
+illegal         ●●● W3 adjective   
+illness         ●●● S3 W3 noun  
+image           ●●● S2 W1 noun  
+imagination     ●●● S3 W3 noun  
+imagine         ●●● S1 W2 verb  
+immediate       ●●● S3 W2 adjective  
+immediately     ●●● S2 W1 adverb  
+immigrant       ●●○ W3 noun   
+immigration     ●●○ W3 noun   
+impact          ●●● S3 W2 noun  
+implement       ●●○ W3 verb   
+implication     ●●○ W2 noun   
+imply           ●●○ W2 verb   
+importance      ●●● S3 W1 noun  
+important       ●●● S1 W1 adjective  
+impose          ●●○ W2 verb   
+impossible      ●●● S2 W2 adjective  
+impress         ●●○ S3 W3 verb  
+impression      ●●○ S3 W2 noun  
+impressive      ●●○ W3 adjective   
+improve         ●●● S2 W1 verb  
+improvement     ●●● S3 W2 noun  
+in              ●●● S1 W1 preposition  
+in              ●●● S1 W1 adverb  
+inch            ●●● S2 W3 noun  
+incident        ●●○ W3 noun   
+include         ●●● S1 W1 verb  
+including       ●●● S2 W1 preposition  
+income          ●●● S2 W1 noun  
+increase        ●●● S2 W1 verb  
+increase        ●●● S2 W1 noun  
+increasingly    ●●○ W2 adverb   
+indeed          ●●● S1 W1 adverb  
+independence    ●●● W2 noun   
+Independent,    High-frequency ●●● S2 W2 adjective 
+index           ●●○ W2 noun   
+indicate        ●●● S3 W1 verb  
+indication      ●●○ S3 W3 noun  
+individual      ●●○ S3 W3 adjective  
+individual      ●●○ S3 W3 noun  
+industrial      ●●● S3 W1 adjective  
+industry        ●●● S2 W1 noun  
+inevitable      ●●○ W3 adjective   
+inevitably      ●●○ W3 adverb   
+infant          ●●○ W3 noun   
+infection       ●●○ W3 noun   
+inflation       ●●○ W3 noun   
+influence       ●●● S3 W1 noun  
+influence       ●●● S3 W2 verb  
+inform          ●●○ S3 W3 verb  
+informal        ●●● W3 adjective   
+information     ●●● S1 W1 noun  
+initial         ●●○ S3 W2 adjective  
+initially       ●●○ S3 W3 adverb  
+initiative      ●●○ W3 noun   
+injure          ●●● W3 verb   
+injury          ●●● S3 W2 noun  
+inner           ●●○ W2 adjective   
+innocent        ●●○ W3 adjective   
+input           ●●○ W3 noun   
+inquiry         ●●○ S3 W2 noun  
+insect          ●●● W3 noun   
+inside          ●●● S2 W2 adverb , preposition
+insist          ●●● S3 W2 verb  
+inspection      ●●○ W3 noun   
+inspector       ●●○ S3 W3 noun  
+install         ●●○ W3 verb   
+instance        ●●○ W2 noun   
+instant         ●●○ W3 adjective   
+instead         ●●● S1 W1 adverb  
+institute       ●●○ W3 noun   
+institution     ●●○ W3 noun   
+instruction     ●●● S3 W2 noun  
+instrument      ●●● W2 noun   
+insurance       ●●● S2 W2 noun  
+intellectual    ●●○ W3 adjective   
+intelligence    ●●● S3 W3 noun  
+intelligent     ●●● S3 W3 adjective  
+intend          ●●● S2 W1 verb  
+intense         ●●○ W3 adjective   
+intention       ●●● S3 W2 noun  
+interaction     ●●○ W3 noun   
+interest        ●●● S2 W1 noun  
+interest        ●●● W2 verb   
+interested      ●●● S1 W2 adjective  
+interesting     ●●● S1 W2 adjective  
+internal        ●●○ W2 adjective   
+international   ●●● S2 W1 adjective  
+Internet        ●●● S2 W2 noun  
+interpret       ●●○ W3 verb   
+interpretation  ●●○ W3 noun   
+interval        ●●○ W3 noun   
+intervention    ●●○ W3 noun   
+interview       ●●● S2 W1 noun  
+interview       ●●○ S3 W3 verb  
+into            ●●● S1 W1 preposition  
+introduce       ●●● S2 W1 verb  
+introduction    ●●● S3 W2 noun  
+invent          ●●● S3 W3 verb  
+invention       ●●● W3 noun   
+invest          ●●○ S3 W3 verb  
+investigate     ●●● W2 verb   
+investigation   ●●● W2 noun   
+investment      ●●○ W3 noun   
+invite          ●●● S1 W2 verb  
+involve         ●●● S2 W1 verb  
+involved        ●●● S2 W3 adjective  
+involvement     ●●○ W3 noun   
+iron            ●●● S2 W3 noun  
+island          ●●● S3 W2 noun  
+issue           ●●● S1 W1 noun  
+issue           ●●○ S3 W2 verb  
+it              ●●● S1 W1 pronoun  
+item            ●●● S3 W2 noun  
+its             ●●● S1 W1 determiner  
+itself          ●●● S1 W1 pronoun  
+jacket          ●●● S2 W3 noun  
+jail            ●●● S3 W2 noun  
+January         ●●● S2 W2 noun  
+jeans           ●●● S2 W3 noun  
+job             ●●● S1 W1 noun  
+join            ●●● S1 W1 verb  
+joint           ●●○ S3 W2 adjective  
+joke            ●●● S2 W3 noun  
+journalist      ●●● W3 noun   
+journey         ●●● S3 W2 noun  
+joy             ●●● W3 noun   
+judge           ●●● S2 W2 noun  
+judge           ●●● S3 W3 verb  
+judgment        ●●○ W2 noun   
+July            ●●● S2 W3 noun  
+jump            ●●● S2 W3 verb  
+June            ●●● S2 W3 noun  
+junior          ●●● W3 adjective   
+jury            ●●○ S3 W3 noun  
+just            ●●● S1 W1 adverb  
+justice         ●●● W2 noun   
+justify         ●●○ S3 W3 verb  
+keen            ●●○ S3 W3 adjective  
+keep            ●●● S1 W1 verb  
+key             ●●● S1 W2 noun  
+key             ●●○ S3 W2 adjective  
+kick            ●●● S2 W3 verb  
+kid             ●●● S1 W2 noun  
+kill            ●●● S1 W1 verb  
+kilogram        ●●● S3 W3 noun  
+kilometre       ●●● S3 W3 noun  
+kind            ●●● S1 W1 noun  
+kind            ●●● S3 W3 adjective  
+king            ●●● W1 noun   
+kiss            ●●● S3 W3 verb  
+kitchen         ●●● S1 W2 noun  
+knee            ●●● S2 W2 noun  
+knife           ●●● S3 W3 noun  
+knock           ●●● S1 W3 verb  
+know            ●●● S1 W1 verb  
+knowledge       ●●● S2 W1 noun  
+known           ●●○ W3 adjective   
+label           ●●● S3 W3 noun  
+laboratory      ●●● W3 noun   
+labour          ●●○ S3 W3 noun  
+lack            ●●● S3 W2 noun  
+lack            ●●○ W3 verb   
+lady            ●●● S1 W2 noun  
+lake            ●●● S3 W3 noun  
+land            ●●● S1 W1 noun  
+land            ●●● S2 W3 verb  
+landlord        ●●○ W3 noun   
+landscape       ●●● W3 noun   
+lane            ●●● S3 W3 noun  
+language        ●●● S1 W1 noun  
+laptop          ●●● S2 W2 noun  
+large           ●●● S1 W1 adjective  
+largely         ●●○ W2 adverb   
+last            ●●● S1 W1 determiner , adjective
+last            ●●● S1 W1 adverb  
+last            ●●● S1 W1 noun , pronoun
+last            ●●● S1 W2 verb  
+late            ●●● S1 W1 adjective  
+late            ●●● S2 W3 adverb  
+later           ●●● S1 W1 adverb  
+latest          ●●● S2 W2 adjective  
+latter          ●●○ W2 noun   
+laugh           ●●● S2 W2 verb  
+laughter        ●●● W3 noun   
+launch          ●●○ W2 verb   
+law             ●●● S1 W1 noun  
+lawyer          ●●● S3 W2 noun  
+lay             ●●● S1 W2 verb  
+layer           ●●● S3 W3 noun  
+lead            ●●● S1 W1 verb  
+lead            ●●○ S3 W2 noun  
+leader          ●●● S2 W1 noun  
+leadership      ●●○ S3 W3 noun  
+leading         ●●○ W3 adjective   
+leaf            ●●● S2 W2 noun  
+league          ●●● W2 noun   
+learn           ●●● S1 W1 verb  
+least           ●●● S1 W1 determiner , pronoun
+leather         ●●● W3 noun   
+leave           ●●● S1 W1 verb  
+leave           ●●○ S3 W3 noun  
+lecture         ●●● S2 W3 noun  
+left            ●●● S1 W1 adjective  
+left            ●●● S3 W3 adverb  
+left            ●●● S3 W3 noun  
+leg             ●●● S1 W1 noun  
+legal           ●●● S2 W1 adjective  
+legislation     ●●○ W3 noun   
+leisure         ●●○ W3 noun   
+lend            ●●● S3 W3 verb  
+length          ●●● S2 W2 noun  
+less            ●●● S1 W1 adverb  
+less            ●●● S1 W1 determiner , pronoun
+lesson          ●●● S2 W3 noun  
+let             ●●● S1 W1 verb  
+letter          ●●● S1 W1 noun  
+level           ●●● S1 W1 noun  
+library         ●●● S2 W1 noun  
+licence         ●●● S3 W2 noun  
+lie             ●●● S2 W1 verb  
+lie             ●●● S3 W3 verb  
+life            ●●● S1 W1 noun  
+lift            ●●● S2 W2 verb  
+lift            ●●● S3 W3 noun  
+light           ●●● S1 W1 noun  
+light           ●●● S1 W1 adjective  
+light           ●●● S2 W3 verb  
+like            ●●● S1 W1 preposition  
+like            ●●● S1 W1 verb  
+like            ●●● W3 noun   
+likely          ●●● S1 W1 adjective  
+limit           ●●● S2 W2 noun  
+limit           ●●● S3 W2 verb  
+limitation      ●●○ W3 noun   
+limited         ●●● W2 adjective   
+line            ●●● S1 W1 noun  
+link            ●●● S3 W2 verb  
+link            ●●● S3 W2 noun  
+lion            ●●● S3 W3 noun  
+lip             ●●● S3 W2 noun  
+liquid          ●●● W3 noun   
+list            ●●● S1 W1 noun  
+list            ●●● S2 W3 verb  
+listen          ●●● S1 W1 verb  
+literary        ●●○ W2 adjective   
+literature      ●●● S3 W2 noun  
+litre           ●●● S3 W3 noun  
+litter          ●●● S3 W3 noun  
+little          ●●● S1 W1 adjective  
+little          ●●● S1 W1 determiner , pronoun
+little          ●●● S1 W1 adverb  
+live            ●●● S1 W1 verb  
+live            ●●○ S3 W3 adjective  
+load            ●●● S1 W3 noun  
+load            ●●● S2 W3 verb  
+loan            ●●● S2 W2 noun  
+local           ●●● S1 W1 adjective  
+locate          ●●○ W3 verb   
+location        ●●● S3 W2 noun  
+lock            ●●● S2 W3 verb  
+long            ●●● S1 W1 adjective  
+long            ●●● S1 W1 adverb  
+look            ●●● S1 W1 verb  
+look            ●●● S1 W1 noun  
+loose           ●●● S3 W3 adjective  
+lose            ●●● S1 W1 verb  
+loss            ●●● S2 W1 noun  
+lost            ●●● S2 W3 adjective  
+lot             ●●● S1 W1 pronoun , adverb
+loud            ●●● S2 W3 adjective  
+love            ●●● S1 W1 verb  
+love            ●●● S1 W1 noun  
+lovely          ●●● S1 W3 adjective  
+lover           ●●○ W3 noun   
+low             ●●● S1 W1 adjective  
+low             ●●● W1 adverb   
+lower           ●●● W3 adjective   
+lower           ●●○ S3 W3 verb  
+luck            ●●● S2 W3 noun  
+lucky           ●●● S2 W3 adjective  
+lunch           ●●● S1 W2 noun  
+machine         ●●● S1 W1 noun  
+machinery       ●●○ W3 noun   
+mad             ●●● S2 W3 adjective  
+magazine        ●●● S2 W2 noun  
+magic           ●●● S3 W3 noun  
+magic           ●●● S3 W3 adjective  
+mail            ●●● S3 W3 noun  
+main            ●●● S1 W1 adjective  
+mainly          ●●● S2 W2 adverb  
+maintain        ●●● S2 W1 verb  
+maintenance     ●●○ W3 noun   
+major           ●●● S1 W1 adjective  
+majority        ●●● S2 W1 noun  
+make            ●●● S1 W1 verb  
+male            ●●● S3 W2 adjective  
+male            ●●● W3 noun   
+mall            ●●● S3 W3 noun  
+man             ●●● S1 W1 noun  
+manage          ●●● S1 W1 verb  
+management      ●●● S1 W1 noun  
+manager         ●●● S1 W1 noun  
+manner          ●●● S3 W2 noun  
+manufacturer    ●●○ W2 noun   
+manufacturing   ●●○ W3 noun   
+many            ●●● S1 W1 determiner , pronoun
+map             ●●● S2 W2 noun  
+march           ●●● S2 W2 noun  
+mark            ●●● S2 W2 verb  
+mark            ●●● S3 W2 noun  
+market          ●●● S1 W1 noun  
+marketing       ●●○ S3 W3 noun  
+marriage        ●●● S2 W2 noun  
+married         ●●● S2 W2 adjective  
+marry           ●●● S1 W2 verb  
+mass            ●●○ S3 W3 noun  
+mass            ●●○ W3 adjective   
+massive         ●●● S2 W3 adjective  
+master          ●●○ S3 W3 noun  
+match           ●●● S2 W2 noun  
+match           ●●● S3 W2 verb  
+material        ●●● S1 W1 noun  
+mathematics     ●●● W3 noun   
+matter          ●●● S1 W1 noun  
+matter          ●●● S1 W3 verb  
+maximum         ●●● S3 W2 adjective  
+maximum         ●●● S3 W3 noun  
+may             ●●● S1 W1 modal verb 
+may             ●●● S2 W3 noun  
+maybe           ●●● S1 W1 adverb  
+mayor           ●●● W2 noun   
+me              ●●● S1 W1 pronoun  
+meal            ●●● S2 W2 noun  
+mean            ●●● S1 W1 verb  
+meaning         ●●● S2 W1 noun  
+means           ●●○ S3 W2 noun  
+meanwhile       ●●● W2 adverb   
+measure         ●●● S2 W2 verb  
+measure         ●●○ W2 noun   
+measurement     ●●● W3 noun   
+meat            ●●● S2 W3 noun  
+medal           ●●● W3 noun   
+media           ●●● S2 W2 noun  
+medical         ●●● S2 W2 adjective  
+medicine        ●●● S2 W3 noun  
+medieval        ●●○ W3 adjective   
+meet            ●●● S1 W1 verb  
+meeting         ●●● S1 W1 noun  
+member          ●●● S1 W1 noun  
+membership      ●●● S3 W2 noun  
+memory          ●●● S2 W1 noun  
+mental          ●●● S2 W2 adjective  
+mention         ●●● S1 W1 verb  
+merely          ●●○ W2 adverb   
+message         ●●● S1 W2 noun  
+metal           ●●● S2 W2 noun  
+method          ●●● S1 W1 noun  
+metre           ●●● S2 W3 noun  
+middle          ●●● S1 W2 noun  
+middle          ●●● S1 W2 adjective  
+might           ●●● S1 W1 modal verb 
+mile            ●●● S1 W1 noun  
+military        ●●● S2 W1 adjective  
+milk            ●●● S2 W3 noun  
+million         ●●● S3 W1 number  
+mind            ●●● S1 W1 noun  
+mind            ●●● S1 W2 verb  
+mine            ●●○ W3 noun   
+mineral         ●●○ W3 noun   
+minimum         ●●● S3 W2 adjective  
+minimum         ●●● S3 W2 noun  
+minor           ●●● S2 W2 adjective  
+minority        ●●● S3 W2 noun  
+minute          ●●● S1 W1 noun  
+mirror          ●●● S3 W3 noun  
+miserable       ●●● S3 W3 adjective  
+miss            ●●● S1 W2 verb  
+miss            ●●● S2 W2 noun  
+mission         ●●○ W2 noun   
+mistake         ●●● S2 W2 noun  
+mix             ●●● S2 W3 verb  
+mixture         ●●● S3 W3 noun  
+mobile          ●●● S1 W2 noun  
+model           ●●● S2 W1 noun  
+modern          ●●● S1 W1 adjective  
+moment          ●●● S1 W1 noun  
+Monday          ●●● S2 W2 noun  
+money           ●●● S1 W1 noun  
+monitor         ●●○ S3 W3 verb  
+month           ●●● S1 W1 noun  
+mood            ●●● S3 W3 noun  
+moon            ●●● S3 W3 noun  
+moral           ●●○ W2 adjective   
+more            ●●● S1 W1 adverb  
+more            ●●● S1 W1 determiner , pronoun
+moreover        ●●○ W2 adverb   
+morning         ●●● S1 W1 noun  
+mortgage        ●●○ W3 noun   
+most            ●●● S1 W1 adverb  
+most            ●●● S1 W1 determiner , pronoun
+mostly          ●●● S2 W3 adverb  
+mother          ●●● S1 W1 noun  
+motion          ●●○ W3 noun   
+motor           ●●○ S3 W3 noun  
+mountain        ●●● S3 W3 noun  
+mouse           ●●● S2 W3 noun  
+mouth           ●●● S2 W1 noun  
+move            ●●● S1 W1 verb  
+move            ●●● S2 W1 noun  
+movement        ●●● S1 W1 noun  
+movie           ●●● S2 W2 noun  
+Mr              ●●● W2    
+Mrs             ●●● W2    
+ms              ●●● W2    
+much            ●●● S1 W1 adverb  
+much            ●●● S1 W1 determiner , pronoun
+mum             ●●● S1 W2 noun  
+murder          ●●● S3 W2 noun  
+murder          ●●● W3 verb   
+muscle          ●●● S2 W3 noun  
+museum          ●●● S3 W2 noun  
+music           ●●● S1 W1 noun  
+musical         ●●● S3 W3 adjective  
+musician        ●●● W3 noun   
+must            ●●● S1 W1 modal verb 
+my              ●●● S1 W1 determiner  
+myself          ●●● S1 W1 pronoun  
+mystery         ●●● W3 noun   
+myth            ●●● S3 W3 noun  
+name            ●●● S1 W1 noun  
+name            ●●● S2 W2 verb  
+narrow          ●●● S3 W2 adjective  
+nation          ●●● S3 W2 noun  
+national        ●●● S1 W1 adjective  
+native          ●●○ S3 W3 adjective  
+natural         ●●● S2 W1 adjective  
+naturally       ●●○ S3 W3 adverb  
+nature          ●●● S1 W1 noun  
+near            ●●● S1 W1 adverb , preposition
+near            ●●● S2 W3 adjective  
+nearby          ●●● W3 adjective   
+nearly          ●●● S1 W1 adverb  
+necessarily     ●●● S2 W2 adverb  
+necessary       ●●● S2 W1 adjective  
+neck            ●●● S2 W2 noun  
+need            ●●● S1 W1 verb  
+need            ●●● S1 W1 noun  
+negative        ●●● S2 W2 adjective  
+negotiate       ●●○ S3 W3 verb  
+negotiation     ●●○ W3 noun   
+neighbour       ●●● S2 W2 noun  
+neighbourhood   ●●○ S3 W3 noun  
+neither         ●●● S3 W2 determiner , pronoun
+neither         ●●● W2 conjunction   
+nerve           ●●○ S3 W3 noun  
+nervous         ●●● S3 W3 adjective  
+net             ●●● S2 W2 noun  
+network         ●●● S3 W2 noun  
+never           ●●● S1 W1 adverb  
+nevertheless    ●●○ W2 adverb   
+new             ●●● S1 W1 adjective  
+newly           ●●○ W3 adverb   
+news            ●●● S1 W1 noun  
+newspaper       ●●● S2 W2 noun  
+next            ●●● S1 W1 determiner , adjective
+next            ●●● S1 W1 adverb  
+next            ●●● S3 W3 pronoun  
+nice            ●●● S1 W2 adjective  
+night           ●●● S1 W1 noun  
+nine            ●●● S2 W2 number  
+nineteen        ●●● S3 W3 number  
+ninety          ●●● S3 W3 number  
+ninth           ●●● S3 W3 adjective  
+no              ●●● S1 W1 adverb  
+no              ●●● S1 W1 determiner  
+nobody          ●●● S1 W2 pronoun  
+nod             ●●○ W2 verb   
+noise           ●●● S2 W2 noun  
+none            ●●● S1 W2 pronoun  
+noon            ●●● W3 noun   
+nor             ●●● S2 W1 conjunction , adverb
+normal          ●●● S1 W1 adjective  
+normally        ●●● S1 W2 adverb  
+north           ●●● S2 W1 noun  
+north           ●●● S3 W3 adjective  
+north           ●●● S3 W1 adverb  
+northern        ●●● S2 W2 adjective  
+nose            ●●● S2 W2 noun  
+not             ●●● S1 W1 adverb  
+notably         ●●○ W3 adverb   
+note            ●●● S1 W2 noun  
+nothing         ●●● S1 W1 pronoun  
+notice          ●●● S1 W2 verb  
+notice          ●●● S2 W2 noun  
+notion          ●●○ W3 noun   
+novel           ●●● W3 noun   
+November        ●●● S2 W2 noun  
+now             ●●● S1 W1 adverb  
+now             ●●● S1 W3 conjunction  
+nuclear         ●●○ W2 adjective   
+number          ●●● S1 W1 noun  
+numerous        ●●○ W3 adjective   
+nurse           ●●● S2 W3 noun  
+obey            ●●● W3 verb   
+object          ●●● S2 W2 noun  
+object          ●●○ W3 verb   
+objection       ●●○ W3 noun   
+objective       ●●○ S3 W3 noun  
+obligation      ●●○ W3 noun   
+observation     ●●○ W3 noun   
+observe         ●●○ W2 verb   
+obtain          ●●● S3 W2 verb  
+obvious         ●●● S2 W2 adjective  
+obviously       ●●● S1 W2 adverb  
+occasion        ●●● S1 W2 noun  
+occasional      ●●○ S3 W3 adjective  
+occasionally    ●●● S2 W3 adverb  
+occupation      ●●● S3 W3 noun  
+occupy          ●●○ W2 verb   
+occur           ●●● S3 W1 verb  
+ocean           ●●● S3 W2 noun  
+October         ●●● S2 W2 noun  
+odd             ●●● S1 W3 adjective  
+of              ●●● S1 W1 preposition  
+off             ●●● S1 W1 adverb , preposition
+offence         ●●● S3 W2 noun  
+offer           ●●● S1 W1 verb  
+offer           ●●● S2 W1 noun  
+office          ●●● S1 W1 noun  
+officer         ●●● S1 W1 noun  
+official        ●●● S3 W1 noun  
+official        ●●● S3 W2 adjective  
+often           ●●● S1 W1 adverb  
+oil             ●●● S2 W1 noun  
+old             ●●● S1 W1 adjective  
+on              ●●● S1 W1 preposition  
+on              ●●● S1 W1 adjective , adverb
+once            ●●● S1 W1 adverb  
+once            ●●● S1 W1 conjunction  
+one             ●●● S1 W1 number  
+one             ●●● S1 W1 pronoun  
+one             ●●● S1 W1 determiner  
+one             ●●● S3 W3 adjective  
+online          ●●● S2 W2 adjective  
+only            ●●● S1 W1 adverb  
+only            ●●● S1 W1 adjective  
+onto            ●●● S1 W2 preposition  
+open            ●●● S1 W1 adjective  
+open            ●●● S1 W1 verb  
+operate         ●●● S3 W2 verb  
+operation       ●●● S1 W1 noun  
+operator        ●●○ W3 noun   
+opinion         ●●● S1 W2 noun  
+opponent        ●●● W3 noun   
+opportunity     ●●● S1 W1 noun  
+oppose          ●●○ S3 W3 verb  
+opposite        ●●● S2 W2 preposition  
+opposite        ●●● S3 W2 adjective  
+opposition      ●●○ W3 noun   
+option          ●●● S1 W2 noun  
+or              ●●● S1 W1 conjunction  
+orange          ●●● S1 W2 noun  
+orange          ●●● S2 W2 adjective  
+order           ●●● S1 W1 noun  
+order           ●●● S2 W2 verb  
+ordinary        ●●● S1 W2 adjective  
+organ           ●●○ W3 noun   
+organic         ●●○ W3 adjective   
+organization    ●●● S2 W1 noun  
+organize        ●●● S1 W2 verb  
+origin          ●●● W2 noun   
+original        ●●● S1 W1 adjective  
+originally      ●●● S2 W2 adverb  
+other           ●●● S1 W1 determiner , adjective
+otherwise       ●●● S1 W2 adverb  
+ounce           ●●● S3 W3 noun  
+our             ●●● S1 W1 determiner  
+ourselves       ●●● S1 W3 pronoun  
+out             ●●● S1 W1 adverb  
+out             ●●● S1 W2 preposition  
+outcome         ●●○ W3 noun   
+output          ●●○ W3 noun   
+outside         ●●● S1 W1 adverb , preposition
+outside         ●●● S2 W2 adjective  
+outstanding     ●●○ W3 adjective   
+over            ●●● S1 W1 preposition  
+over            ●●● S1 W1 adverb , adjective
+overall         ●●○ S3 W2 adjective  
+overcome        ●●○ W3 verb   
+overseas        ●●○ W3 adverb   
+owe             ●●● S2 W3 verb  
+own             ●●● S1 W1 adjective , pronoun
+own             ●●● S2 W2 verb  
+owner           ●●● S2 W2 noun  
+ownership       ●●○ W3 noun   
+p.m.            ●●● W2    
+pace            ●●○ W3 noun   
+pack            ●●● S2 W3 verb  
+pack            ●●● S2 W3 noun  
+package         ●●● S2 W2 noun  
+page            ●●● S1 W1 noun  
+pain            ●●● S2 W2 noun  
+painful         ●●● W2 adjective   
+paint           ●●● S2 W2 noun  
+paint           ●●● S2 W3 verb  
+painting        ●●● S3 W2 noun  
+pair            ●●● S2 W2 noun  
+palace          ●●○ W3 noun   
+pale            ●●○ W3 adjective   
+pan             ●●● S3 W3 noun  
+panel           ●●○ S3 W3 noun  
+paper           ●●● S1 W1 noun  
+paper           ●●● S3 W2 adjective  
+parent          ●●● S1 W1 noun  
+park            ●●● S1 W2 noun  
+parliament      ●●● W2 noun   
+part            ●●● S1 W1 noun  
+participate     ●●○ W3 verb   
+particular      ●●● S1 W1 adjective  
+particularly    ●●● S1 W1 adverb  
+partly          ●●● S2 W2 adverb  
+partner         ●●● S2 W2 noun  
+partnership     ●●○ W3 noun   
+party           ●●● S1 W1 noun  
+pass            ●●● S1 W1 verb  
+pass            ●●● S2 W3 noun  
+passage         ●●○ W2 noun   
+passenger       ●●● S3 W2 noun  
+Passion,        Medium-frequency ●●○ W3 noun  
+password        ●●● S2 W2 noun  
+past            ●●● S1 W1 adjective  
+past            ●●● S1 W2 preposition , adverb
+past            ●●● S1 W2 noun  
+path            ●●● S2 W2 noun  
+patient         ●●● S2 W1 noun  
+patient         ●●● W3 adjective   
+pattern         ●●● S2 W1 noun  
+pause           ●●● W2 verb   
+pause           ●●● W2 noun   
+pay             ●●● S1 W1 verb  
+pay             ●●● S1 W2 noun  
+payment         ●●● S2 W1 noun  
+peace           ●●● S2 W2 noun  
+peak            ●●○ W3 noun   
+penalty         ●●○ W3 noun   
+pension         ●●○ S3 W2 noun  
+people          ●●● S1 W1 noun  
+per             ●●● S3 W1 preposition  
+perceive        ●●○ W3 verb   
+percent         ●●● W1 adjective , adverb 
+percent         ●●● S3 W2 noun  
+percentage      ●●○ W3 noun   
+perception      ●●○ W3 noun   
+perfect         ●●● S2 W2 adjective  
+perfectly       ●●● S2 W3 adverb  
+perform         ●●● S3 W2 verb  
+performance     ●●● S2 W1 noun  
+perhaps         ●●● S1 W1 adverb  
+period          ●●● S1 W1 noun  
+permanent       ●●● S2 W2 adjective  
+permission      ●●● S2 W3 noun  
+permit          ●●○ W3 verb   
+person          ●●● S1 W1 noun  
+personal        ●●● S1 W1 adjective  
+personality     ●●● S3 W3 noun  
+personnel       ●●○ W3 noun   
+perspective     ●●○ W3 noun   
+persuade        ●●● S3 W2 verb  
+phase           ●●○ W2 noun   
+phenomenon      ●●○ W3 noun   
+philosophy      ●●● W3 noun   
+phone           ●●● S1 W2 noun  
+photo           ●●● S3 W3 noun  
+photograph      ●●● S2 W2 noun  
+phrase          ●●● S3 W3 noun  
+physical        ●●● S2 W1 adjective  
+pick            ●●● S1 W1 verb  
+picture         ●●● S1 W1 noun  
+piece           ●●● S1 W1 noun  
+pilot           ●●● W3 noun   
+pipe            ●●● S2 W3 noun  
+pitch           ●●○ S3 W3 noun  
+place           ●●● S1 W1 noun  
+place           ●●○ S3 W2 verb  
+plain           ●●● S2 W3 adjective  
+plan            ●●● S1 W1 noun  
+plan            ●●● S1 W1 verb  
+plane           ●●● S2 W2 noun  
+planet          ●●● W3 noun   
+plant           ●●● S2 W1 noun  
+plastic         ●●● S2 W2 adjective  
+plastic         ●●● S3 W2 noun  
+plate           ●●● S2 W2 noun  
+platform        ●●○ S3 W3 noun  
+play            ●●● S1 W1 verb  
+play            ●●● S1 W2 noun  
+player          ●●● S2 W1 noun  
+pleasant        ●●○ S3 W3 adjective  
+please          ●●● S1 W2 interjection  
+please          ●●● W3 verb   
+pleased         ●●● S2 W3 adjective  
+pleasure        ●●● S2 W2 noun  
+plenty          ●●● S1 W1 pronoun  
+plot            ●●○ W3 noun   
+plus            ●●● S1 W2 preposition  
+pocket          ●●● S2 W2 noun  
+poem            ●●● S3 W3 noun  
+poet            ●●● W3 noun   
+poetry          ●●● W3 noun   
+point           ●●● S1 W1 noun  
+point           ●●● S2 W2 verb  
+pole            ●●● W3 noun   
+police          ●●● S1 W1 noun  
+policeman       ●●● S2 W3 noun  
+policy          ●●● S3 W1 noun  
+political       ●●● S2 W1 adjective  
+politician      ●●● W2 noun   
+politics        ●●● S2 W2 noun  
+poll            ●●○ W3 noun   
+pollution       ●●○ S3 W2 noun  
+pool            ●●● S2 W2 noun  
+poor            ●●● S1 W1 adjective  
+pop             ●●○ S3 W3 noun  
+popular         ●●● S2 W1 adjective  
+population      ●●● S2 W1 noun  
+port            ●●● W2 noun   
+pose            ●●○ W3 verb   
+position        ●●● S1 W1 noun  
+positive        ●●● S2 W2 adjective  
+possess         ●●○ W3 verb   
+possession      ●●○ W3 noun   
+possibility     ●●● S2 W2 noun  
+possible        ●●● S1 W1 adjective  
+possibly        ●●● S1 W2 adverb  
+post            ●●● S2 W2 noun  
+pot             ●●● S2 W2 noun  
+potential       ●●● S3 W2 adjective  
+potential       ●●○ W3 noun   
+pound           ●●● S1 W2 noun  
+pour            ●●● S2 W3 verb  
+poverty         ●●○ W3 noun   
+power           ●●● S1 W1 noun  
+powerful        ●●● S3 W2 adjective  
+practical       ●●● S3 W2 adjective  
+practice        ●●● S2 W1 noun  
+practise        ●●● S3 W3 verb  
+praise          ●●● W2 verb   
+praise          ●●● W3 noun   
+pray            ●●○ S3 W3 verb  
+prayer          ●●● S3 W3 noun  
+precise         ●●○ W3 adjective   
+precisely       ●●○ W3 adverb   
+predict         ●●● W3 verb   
+prefer          ●●● S2 W2 verb  
+preference      ●●○ W3 noun   
+premise         ●●○ W3 noun   
+preparation     ●●○ S3 W3 noun  
+prepare         ●●● S1 W1 verb  
+presence        ●●○ W3 noun   
+present         ●●● S2 W2 adjective  
+present         ●●● S2 W2 verb  
+present         ●●● S2 W3 noun  
+preserve        ●●○ W3 verb   
+President       ●●● S2 W2 noun  
+press           ●●● S2 W1 noun  
+press           ●●● S1 W2 verb  
+pressure        ●●● S1 W1 noun  
+presumably      ●●○ S3 W3 adverb  
+pretend         ●●● S2 W3 verb  
+pretty          ●●● S1 W3 adverb  
+pretty          ●●● S2 W3 adjective  
+prevent         ●●● S2 W1 verb  
+previous        ●●● S1 W1 adjective  
+previously      ●●● S3 W2 adverb  
+price           ●●● S1 W1 noun  
+pride           ●●● S3 W3 noun  
+priest          ●●● W3 noun   
+primarily       ●●○ W3 adverb   
+primary         ●●○ W2 adjective   
+prince          ●●● W3 noun   
+princess        ●●● W3 noun   
+principal       ●●○ W2 adjective   
+principle       ●●● S2 W1 noun  
+print           ●●● S2 W3 verb  
+print           ●●○ W3 noun   
+printer         ●●● S3 W3 noun  
+prior           ●●○ W3 adjective   
+priority        ●●○ S3 W2 noun  
+prison          ●●● S2 W2 noun  
+prisoner        ●●● S3 W2 noun  
+private         ●●● S1 W1 adjective  
+privilege       ●●○ W3 noun   
+prize           ●●● S2 W2 noun  
+probably        ●●● S1 W1 adverb  
+problem         ●●● S1 W1 noun  
+procedure       ●●○ W3 noun   
+proceed         ●●○ S3 W3 verb  
+process         ●●● S1 W1 noun  
+produce         ●●● S1 W1 verb  
+producer        ●●● W3 noun   
+product         ●●● S1 W1 noun  
+production      ●●● S1 W1 noun  
+profession      ●●○ W3 noun   
+professional    ●●● S2 W1 adjective  
+professional    ●●○ W3 noun   
+professor       ●●● S3 W3 noun  
+profile         ●●○ W3 noun   
+profit          ●●● S1 W1 noun  
+program         ●●● W1 noun   
+programme       ●●● S1 W1 noun  
+progress        ●●● S2 W2 noun  
+project         ●●● S1 W1 noun  
+promise         ●●● S2 W2 verb  
+promise         ●●● S3 W2 noun  
+promote         ●●○ W2 verb   
+promotion       ●●○ S3 W3 noun  
+prompt          ●●○ W3 verb   
+proof           ●●○ S3 W3 noun  
+proper          ●●● S1 W2 adjective  
+properly        ●●● S1 W2 adverb  
+property        ●●● S2 W1 noun  
+proportion      ●●○ W2 noun   
+proposal        ●●○ S3 W3 noun  
+propose         ●●○ W2 verb   
+proposed        ●●○ W3 adjective   
+prosecution     ●●○ W3 noun   
+prospect        ●●○ W3 noun   
+protect         ●●● S2 W2 verb  
+protection      ●●● S2 W2 noun  
+protest         ●●○ W3 noun   
+proud           ●●● S2 W3 adjective  
+prove           ●●● S2 W1 verb  
+provide         ●●● S1 W1 verb  
+provided        ●●○ S3 W2 conjunction  
+psychological   ●●○ W3 adjective   
+psychology      ●●○ W3 noun   
+pub             ●●● S2 W3 noun  
+public          ●●● S1 W1 adjective  
+public          ●●● S2 W2 noun  
+publicity       ●●○ S3 W3 noun  
+publish         ●●● S3 W1 verb  
+publisher       ●●○ W3 noun   
+pull            ●●● S1 W1 verb  
+punishment      ●●● W3 noun   
+pupil           ●●● S2 W1 noun  
+purchase        ●●○ W3 verb   
+pure            ●●● S3 W3 adjective  
+purely          ●●○ S3 W3 adverb  
+purple          ●●● S3 W3 noun  
+purple          ●●● S3 W3 adjective  
+purpose         ●●● S2 W2 noun  
+pursue          ●●○ S3 W2 verb  
+push            ●●● S1 W1 verb  
+put             ●●● S1 W1 verb  
+qualification   ●●○ W3 noun   
+qualify         ●●○ S3 W3 verb  
+quality         ●●● S1 W1 noun  
+quantity        ●●● S3 W2 noun  
+quarter         ●●● S1 W2 noun  
+queen           ●●● S2 W2 noun  
+question        ●●● S1 W1 noun  
+question        ●●● S2 W3 verb  
+quick           ●●● S1 W2 adjective  
+quickly         ●●● S1 W1 adverb  
+quiet           ●●● S2 W2 adjective  
+quietly         ●●● S3 W3 adverb  
+quite           ●●● S1 W1 predeterminer , adverb
+quote           ●●○ S3 W3 verb  
+race            ●●● S2 W2 noun  
+race            ●●● S3 W3 verb  
+radical         ●●○ W3 adjective   
+radio           ●●● S1 W2 noun  
+rail            ●●● S2 W2 noun  
+railway         ●●● S2 W2 noun  
+rain            ●●● S2 W2 noun  
+raise           ●●● S1 W1 verb  
+range           ●●● S1 W1 noun  
+range           ●●○ W3 verb   
+rank            ●●● W3 noun   
+rank            ●●● W3 verb   
+rapid           ●●○ W3 adjective   
+rapidly         ●●○ W3 adverb   
+rare            ●●● S3 W2 adjective  
+rarely          ●●● W2 adverb   
+rate            ●●● S1 W1 noun  
+rather          ●●● S1 W1 predeterminer , adverb
+ratio           ●●○ W3 noun   
+raw             ●●● W3 adjective   
+reach           ●●● S1 W1 verb  
+react           ●●● S3 W3 verb  
+reaction        ●●● S2 W2 noun  
+read            ●●● S1 W1 verb  
+reader          ●●● S3 W2 noun  
+readily         ●●○ W3 adverb   
+reading         ●●● W2 noun   
+ready           ●●● S1 W2 adjective  
+real            ●●● S1 W1 adjective  
+reality         ●●● S2 W2 noun  
+realize         ●●● S1 W1 verb  
+really          ●●● S1 W1 adverb  
+reason          ●●● S1 W1 noun  
+reasonable      ●●● S1 W2 adjective  
+reasonably      ●●○ S3 W3 adverb  
+recall          ●●○ S3 W3 verb  
+receive         ●●● S1 W1 verb  
+recent          ●●● S2 W1 adjective  
+recently        ●●● S1 W1 adverb  
+reception       ●●○ W3 noun   
+recognition     ●●○ W3 noun   
+recognize       ●●● S1 W1 verb  
+recommend       ●●● S2 W2 verb  
+recommendation  ●●○ S3 W3 noun  
+record          ●●● S1 W1 noun  
+record          ●●● S3 W2 verb  
+recording       ●●○ W3 noun   
+recover         ●●● W2 verb   
+recovery        ●●○ W3 noun   
+red             ●●● S1 W1 adjective  
+red             ●●● S2 W2 noun  
+reduce          ●●● S1 W1 verb  
+reduction       ●●● S3 W2 noun  
+refer           ●●● S1 W1 verb  
+reference       ●●● S2 W1 noun  
+reflect         ●●● S2 W1 verb  
+reflection      ●●○ W3 noun   
+reform          ●●○ W3 noun   
+refuse          ●●● S2 W1 verb  
+regard          ●●○ W3 noun   
+regard          ●●○ W3 verb   
+region          ●●● S1 W1 noun  
+regional        ●●● S1 W2 adjective  
+register        ●●○ S3 W3 noun  
+register        ●●○ S3 W3 verb  
+regret          ●●○ W3 verb   
+regular         ●●● S2 W2 adjective  
+regularly       ●●● S3 W3 adverb  
+regulation      ●●○ W3 noun   
+reinforce       ●●○ W3 verb   
+reject          ●●○ W2 verb   
+relate          ●●● S2 W1 verb  
+related         ●●● S2 W3 adjective  
+relation        ●●● S2 W1 noun  
+relationship    ●●● S1 W1 noun  
+relative        ●●● S3 W3 noun  
+relative        ●●○ W3 adjective   
+relatively      ●●○ S3 W2 adverb  
+relax           ●●● S3 W3 verb  
+relaxed         ●●● S2 W3 adjective  
+release         ●●● S3 W1 verb  
+release         ●●○ S3 W3 noun  
+relevant        ●●● S2 W2 adjective  
+relief          ●●○ W2 noun   
+religion        ●●● S2 W2 noun  
+religious       ●●● S2 W2 adjective  
+rely            ●●● S3 W2 verb  
+remain          ●●● S1 W1 verb  
+remains         ●●○ W3 noun   
+remark          ●●● W3 noun   
+remarkable      ●●○ W3 adjective   
+remember        ●●● S1 W1 verb  
+remind          ●●● S1 W2 verb  
+remote          ●●○ W3 adjective   
+remove          ●●● S2 W1 verb  
+rent            ●●● S2 W3 verb  
+rent            ●●● S2 W3 noun  
+repeat          ●●● S2 W2 verb  
+replace         ●●● S2 W1 verb  
+replacement     ●●○ W3 noun   
+reply           ●●● W2 verb   
+reply           ●●● S3 W3 noun  
+report          ●●● S2 W1 noun  
+report          ●●● S2 W1 verb  
+represent       ●●● S2 W1 verb  
+representation  ●●○ W3 noun   
+representative  ●●○ W3 noun   
+republic        ●●● W2 noun   
+reputation      ●●○ W3 noun   
+request         ●●● S3 W2 noun  
+require         ●●● S1 W1 verb  
+requirement     ●●● S2 W2 noun  
+rescue          ●●○ S3 W3 verb  
+research        ●●● S2 W1 noun  
+reservation     ●●● S3 W3 noun  
+reserve         ●●● W3 verb   
+resident        ●●○ S3 W3 noun  
+residential     ●●○ W3 adjective   
+resign          ●●○ W3 verb   
+resignation     ●●○ W3 noun   
+resist          ●●○ W3 verb   
+resistance      ●●○ S3 W3 noun  
+resolve         ●●○ W3 verb   
+resort          ●●○ W3 noun   
+resource        ●●● S2 W1 noun  
+respect         ●●● S3 W2 noun  
+respect         ●●● S3 W2 verb  
+respectively    ●●○ W3 adverb   
+respond         ●●● S2 W2 verb  
+response        ●●● S1 W1 noun  
+responsibility  ●●● S2 W1 noun  
+responsible     ●●● S2 W2 adjective  
+rest            ●●● S1 W1 noun  
+rest            ●●● S3 W3 verb  
+restaurant      ●●● S2 W2 noun  
+restore         ●●○ W3 verb   
+restrict        ●●○ W3 verb   
+restriction     ●●○ W3 noun   
+result          ●●● S1 W1 noun  
+result          ●●○ W2 verb   
+retain          ●●○ W3 verb   
+retire          ●●○ S3 W3 verb  
+retirement      ●●○ S3 W3 noun  
+return          ●●● S2 W1 verb  
+return          ●●● S2 W2 noun  
+reveal          ●●● W1 verb   
+reverse         ●●○ W3 verb   
+review          ●●● S2 W2 noun  
+review          ●●● S3 W3 verb  
+revolution      ●●○ W3 noun   
+reward          ●●● W3 noun   
+rhythm          ●●○ W3 noun   
+rich            ●●● S2 W2 adjective  
+ride            ●●● S2 W2 verb  
+right           ●●● S1 W1 adjective  
+right           ●●● S1 W1 adverb  
+right           ●●● S1 W1 noun  
+ring            ●●● S1 W2 noun  
+ring            ●●● S1 W2 verb  
+rise            ●●● S2 W1 verb  
+rise            ●●● S3 W2 noun  
+risk            ●●● S2 W1 noun  
+rival           ●●○ W3 noun   
+river           ●●● S2 W2 noun  
+road            ●●● S1 W1 noun  
+rock            ●●● S2 W2 noun  
+role            ●●● S2 W1 noun  
+roll            ●●● S1 W2 verb  
+roof            ●●● S2 W2 noun  
+room            ●●● S1 W1 noun  
+root            ●●● S2 W2 noun  
+rope            ●●● S3 W3 noun  
+rough           ●●● S2 W3 adjective  
+round           ●●● S2 W2 adverb, preposition 
+round           ●●● S1 W2 adjective  
+route           ●●● S3 W2 noun  
+routine         ●●○ W3 noun   
+row             ●●● S2 W2 noun  
+royal           ●●● S3 W1 adjective  
+rule            ●●● S1 W1 noun  
+rule            ●●● W2 verb   
+ruler           ●●● W3 noun   
+run             ●●● S1 W1 verb  
+run             ●●● S1 W1 noun  
+rural           ●●○ S3 W2 adjective  
+rush            ●●● S2 W3 verb  
+sad             ●●● S2 W3 adjective  
+safe            ●●● S2 W2 adjective  
+safety          ●●● S2 W2 noun  
+salary          ●●● S2 W3 noun  
+sale            ●●● S1 W1 noun  
+salt            ●●● S2 W3 noun  
+same            ●●● S1 W1 adjective  
+same            ●●● S1 W1 pronoun  
+same            ●●● S1 W1 adverb  
+sample          ●●● S3 W2 noun  
+sand            ●●● S3 W3 noun  
+satellite       ●●○ W3 noun   
+satisfaction    ●●○ W3 noun   
+satisfy         ●●○ W2 verb   
+Saturday        ●●● S2 W2 noun  
+save            ●●● S1 W1 verb  
+saving          ●●○ S3 W3 noun  
+say             ●●● S1 W1 verb  
+scale           ●●● S2 W2 noun  
+scene           ●●● S2 W2 noun  
+schedule        ●●● S2 W3 noun  
+scheme          ●●● S2 W1 noun  
+school          ●●● S1 W1 noun  
+science         ●●● S1 W1 noun  
+scientific      ●●● S3 W2 adjective  
+scientist       ●●● S3 W2 noun  
+scope           ●●○ W3 noun   
+score           ●●● S2 W2 noun  
+score           ●●● S3 W2 verb  
+screen          ●●● S2 W2 noun  
+sea             ●●● S2 W1 noun  
+search          ●●● S3 W2 noun  
+search          ●●● W3 verb   
+season          ●●● S2 W1 noun  
+seat            ●●● S2 W1 noun  
+second          ●●● S1 W1 number  
+second          ●●● S1 W2 noun  
+second          ●●● S2 W2 adverb  
+secondary       ●●○ S3 W2 adjective  
+secret          ●●● S3 W2 adjective  
+secret          ●●● S3 W3 noun  
+secretary       ●●● S2 W1 noun  
+section         ●●● S1 W1 noun  
+sector          ●●○ W3 noun   
+secure          ●●● W3 verb   
+secure          ●●○ S3 W3 adjective  
+security        ●●● W1 noun   
+see             ●●● S1 W1 verb  
+seed            ●●● S3 W3 noun  
+seek            ●●● S2 W1 verb  
+seem            ●●● S1 W1 verb  
+seize           ●●○ W3 verb   
+select          ●●● S2 W2 verb  
+selection       ●●● S3 W2 noun  
+self            ●●● S2 W3 noun  
+sell            ●●● S1 W1 verb  
+send            ●●● S1 W1 verb  
+senior          ●●● W2 adjective   
+sense           ●●● S1 W1 noun  
+sensible        ●●○ S3 W3 adjective  
+sensitive       ●●○ S3 W3 adjective  
+sentence        ●●● S1 W2 noun  
+separate        ●●● S2 W2 adjective  
+separate        ●●● S2 W2 verb  
+September       ●●● S2 W2 noun  
+series          ●●● S2 W1 noun  
+serious         ●●● S1 W1 adjective  
+seriously       ●●● S2 W2 adverb  
+serve           ●●● S1 W1 verb  
+service         ●●● S1 W1 noun  
+session         ●●○ W2 noun   
+set             ●●● S1 W1 verb  
+set             ●●● S1 W1 noun  
+settle          ●●● S2 W2 verb  
+settlement      ●●○ W3 noun   
+seven           ●●● S2 W2 number  
+seventeen       ●●● S3 W3 number  
+seventh         ●●● S3 W3 adjective  
+seventy         ●●● W3 number   
+several         ●●● S1 W1 determiner , pronoun
+severe          ●●● S3 W3 adjective  
+sex             ●●● S1 W2 noun  
+sexual          ●●● S3 W2 adjective  
+shadow          ●●● S3 W2 noun  
+shake           ●●● S3 W2 verb  
+shall           ●●● S1 W1 modal verb 
+shape           ●●● S2 W2 noun  
+share           ●●● S1 W1 verb  
+share           ●●● S1 W1 noun  
+sharp           ●●● S3 W2 adjective  
+sharply         ●●○ W3 adverb   
+she             ●●● S1 W1 pronoun  
+sheep           ●●● S2 W3 noun  
+sheet           ●●● S1 W2 noun  
+shelf           ●●● S3 W3 noun  
+shell           ●●● S3 W3 noun  
+shelter         ●●○ W3 noun   
+shift           ●●○ S3 W3 verb  
+ship            ●●● S2 W2 noun  
+shirt           ●●● S2 W3 noun  
+shock           ●●● S2 W2 noun  
+shoe            ●●● S1 W3 noun  
+shoot           ●●● S2 W2 verb  
+shop            ●●● S1 W1 noun  
+shopping        ●●● S2 W3 noun  
+shore           ●●● W3 noun   
+short           ●●● S1 W1 adjective  
+shortly         ●●● S3 W3 adverb  
+shot            ●●● S2 W2 noun  
+should          ●●● S1 W1 modal verb 
+shoulder        ●●● S2 W2 noun  
+shout           ●●● S2 W2 verb  
+shout           ●●● W3 noun   
+show            ●●● S1 W1 verb  
+show            ●●● S1 W1 noun  
+shrug           ●●○ W3 verb   
+shut            ●●● S1 W2 verb  
+sick            ●●● S1 W3 adjective  
+side            ●●● S1 W1 noun  
+sight           ●●● S2 W2 noun  
+sign            ●●● S1 W1 noun  
+sign            ●●● S1 W1 verb  
+signal          ●●● S2 W2 noun  
+significant     ●●● S2 W1 adjective  
+significantly   ●●○ W2 adverb   
+silence         ●●● W2 noun   
+silent          ●●● W3 adjective   
+silver          ●●● W3 noun   
+silver          ●●● W3 adjective   
+similar         ●●● S1 W1 adjective  
+similarly       ●●○ W3 adverb   
+simple          ●●● S1 W1 adjective  
+simply          ●●● S1 W1 adverb  
+since           ●●● S1 W1 preposition , conjunction
+sing            ●●● S1 W2 verb  
+single          ●●● S1 W1 adjective  
+sink            ●●● W3 verb   
+sir             ●●● S1 W3 noun  
+sister          ●●● S1 W1 noun  
+sit             ●●● S1 W1 verb  
+site            ●●● S1 W2 noun  
+situation       ●●● S1 W1 noun  
+six             ●●● S2 W2 number  
+sixteen         ●●● S3 W3 number  
+sixth           ●●● S3 W3 adjective  
+sixty           ●●● W3 number   
+size            ●●● S1 W1 noun  
+skilful         ●●● W2 adjective   
+skill           ●●● S2 W1 noun  
+skin            ●●● S2 W2 noun  
+sky             ●●● S2 W2 noun  
+sleep           ●●● S1 W2 verb  
+sleep           ●●● S2 W3 noun  
+slide           ●●● S3 W3 verb  
+slight          ●●● S2 W3 adjective  
+slightly        ●●● S1 W2 adverb  
+slip            ●●● S3 W2 verb  
+slope           ●●○ W3 noun   
+slow            ●●● S2 W2 adjective  
+slow            ●●● S3 W2 verb  
+slowly          ●●● S3 W2 adverb  
+small           ●●● S1 W1 adjective  
+smart           ●●● S2 W2 adjective  
+smell           ●●● S2 W3 noun  
+smell           ●●● S2 W3 verb  
+smile           ●●● S3 W1 verb  
+smile           ●●● S2 W2 noun  
+smoke           ●●● S1 W2 noun  
+smoke           ●●● S2 W2 verb  
+smooth          ●●● W3 adjective   
+snake           ●●● W3 noun   
+snap            ●●● W3 verb   
+snow            ●●● S2 W3 noun  
+so              ●●● S1 W1 adverb  
+so              ●●● S1 W3 conjunction  
+social          ●●● S1 W1 adjective  
+society         ●●● S1 W1 noun  
+soft            ●●● S2 W2 adjective  
+software        ●●● S3 W1 noun  
+soil            ●●● W2 noun   
+soldier         ●●● S3 W2 noun  
+sole            ●●○ W3 adjective   
+solicitor       ●●○ S3 W2 noun  
+solid           ●●● S3 W3 adjective  
+solution        ●●● S2 W1 noun  
+solve           ●●● S2 W3 verb  
+some            ●●● S1 W1 determiner  
+some            ●●● S1 W1 pronoun  
+some            ●●● S1 W1 adverb  
+somebody        ●●● S1 W3 pronoun  
+somehow         ●●● S2 W2 adverb  
+someone         ●●● S1 W1 pronoun  
+something       ●●● S1 W1 pronoun  
+sometimes       ●●● S1 W1 adverb  
+somewhat        ●●● S3 W2 adverb  
+somewhere       ●●● S1 W2 adverb  
+son             ●●● S1 W1 noun  
+song            ●●● S1 W2 noun  
+soon            ●●● S1 W1 adverb  
+sorry           ●●● S1 W2 adjective  
+sort            ●●● S1 W1 noun  
+sort            ●●● S1 W3 verb  
+soul            ●●○ S3 W3 noun  
+sound           ●●● S1 W1 noun  
+sound           ●●● S1 W2 verb  
+sound           ●●○ W3 adjective   
+source          ●●● S2 W1 noun  
+south           ●●● S1 W1 noun  
+south           ●●● S2 W2 adjective  
+south           ●●● S3 W3 adverb  
+southern        ●●● S2 W2 adjective  
+space           ●●● S1 W1 noun  
+speak           ●●● S1 W1 verb  
+speaker         ●●● S2 W2 noun  
+special         ●●● S1 W1 adjective  
+specialist      ●●○ S3 W3 noun  
+species         ●●○ W3 noun   
+specific        ●●● S1 W1 adjective  
+specifically    ●●○ S3 W3 adverb  
+specify         ●●○ W3 verb   
+speech          ●●● S2 W2 noun  
+speed           ●●● S2 W1 noun  
+spend           ●●● S1 W1 verb  
+spirit          ●●● S2 W2 noun  
+spiritual       ●●○ W3 adjective   
+spite           ●●○ W3 noun   
+splash          ●●● W3 verb   
+split           ●●● S2 W3 verb  
+spokesman       ●●○ W3 noun   
+sport           ●●● S2 W2 noun  
+spot            ●●● S2 W2 noun  
+spread          ●●● S2 W2 verb  
+spring          ●●● S2 W2 noun  
+squad           ●●○ W3 noun   
+square          ●●● S2 W3 adjective  
+square          ●●● S2 W3 noun  
+stable          ●●○ W3 adjective   
+stadium         ●●● W3 noun   
+staff           ●●● S2 W2 noun  
+stage           ●●● S1 W1 noun  
+stair           ●●● S2 W3 noun  
+stand           ●●● S1 W1 verb  
+stand           ●●● S2 W2 noun  
+standard        ●●● S2 W2 noun  
+standard        ●●● S2 W2 adjective  
+star            ●●● S2 W2 noun  
+stare           ●●● S3 W2 verb  
+start           ●●● S1 W1 verb  
+start           ●●● S1 W2 noun  
+state           ●●● S1 W2 noun  
+state           ●●○ S3 W2 verb  
+statement       ●●● S2 W1 noun  
+station         ●●● S1 W1 noun  
+statistic       ●●○ W3 noun   
+status          ●●○ S3 W2 noun  
+stay            ●●● S1 W1 verb  
+steady          ●●○ W3 adjective   
+steal           ●●● S3 W3 verb  
+steam           ●●○ W3 noun   
+steel           ●●○ S3 W3 noun  
+step            ●●● S2 W1 noun  
+step            ●●● S3 W3 verb  
+stick           ●●● S1 W3 verb  
+still           ●●● S1 W1 adverb  
+stir            ●●● S3 W3 verb  
+stock           ●●● S2 W2 noun  
+stomach         ●●● S3 W3 noun  
+stone           ●●● S2 W1 noun  
+stop            ●●● S1 W1 verb  
+stop            ●●● S2 W3 noun  
+storage         ●●○ W3 noun   
+store           ●●● S1 W1 noun  
+store           ●●● S3 W3 verb  
+storm           ●●● W3 noun   
+story           ●●● S1 W1 noun  
+straight        ●●● S1 W2 adverb  
+straight        ●●● S2 W3 adjective  
+strain          ●●○ W3 noun   
+strange         ●●● S2 W2 adjective  
+stranger        ●●○ W2 noun   
+strategic       ●●○ W3 adjective   
+strategy        ●●○ W3 noun   
+stream          ●●● W3 noun   
+street          ●●● S1 W1 noun  
+strength        ●●● S2 W2 noun  
+strengthen      ●●○ W3 verb   
+stress          ●●● S3 W3 noun  
+stress          ●●● S3 W3 verb  
+stretch         ●●● S3 W3 verb  
+strike          ●●● S3 W3 verb  
+strike          ●●● S3 W2 noun  
+string          ●●● S3 W2 noun  
+strip           ●●● W3 noun   
+strong          ●●● S1 W1 adjective  
+structure       ●●● S3 W2 noun  
+struggle        ●●○ W3 verb   
+struggle        ●●○ W3 noun   
+student         ●●● S1 W1 noun  
+studio          ●●● S3 W2 noun  
+study           ●●● S1 W1 noun  
+study           ●●● S1 W1 verb  
+stuff           ●●● S1 W3 noun  
+stupid          ●●● S1 W3 adjective  
+style           ●●● S2 W1 noun  
+subject         ●●● S2 W1 noun  
+submit          ●●○ S3 W3 verb  
+subsequent      ●●○ W2 adjective   
+subsequently    ●●○ W3 adverb   
+substance       ●●● W3 noun   
+succeed         ●●● S3 W2 verb  
+success         ●●● S1 W1 noun  
+successful      ●●● S2 W1 adjective  
+such            ●●● S1 W1 determiner , predeterminer
+sudden          ●●● S2 W3 adjective  
+suddenly        ●●● S1 W1 adverb  
+suffer          ●●● S1 W1 verb  
+sufficient      ●●○ W2 adjective   
+sugar           ●●● S2 W3 noun  
+suggest         ●●● S1 W1 verb  
+suggestion      ●●● S1 W2 noun  
+suit            ●●● S2 W3 noun  
+suit            ●●● S3 W3 verb  
+suitable        ●●● S3 W2 adjective  
+sum             ●●○ W2 noun   
+summer          ●●● S1 W1 noun  
+Sun,            High-frequency ●●● S2 W1 noun 
+Sunday          ●●● S2 W2 noun  
+supply          ●●● S2 W2 noun  
+supply          ●●● S3 W2 verb  
+support         ●●● S2 W1 verb  
+support         ●●● S2 W1 noun  
+supporter       ●●● S3 W2 noun  
+suppose         ●●● S1 W1 verb  
+sure            ●●● S1 W1 adjective  
+surely          ●●● S1 W2 adverb  
+surface         ●●● S3 W1 noun  
+surgery         ●●○ S3 W2 noun  
+surprise        ●●● S3 W2 noun  
+surprise        ●●● S3 W2 verb  
+surprised       ●●● S2 W2 adjective  
+surprising      ●●● S3 W3 adjective  
+surprisingly    ●●○ W3 adverb   
+surround        ●●● W2 verb   
+survey          ●●○ W2 noun   
+survival        ●●○ W3 noun   
+survive         ●●● S2 W2 verb  
+suspect         ●●○ W3 verb   
+sustain         ●●○ W3 verb   
+Sweep           ●●● W3 verb   
+sweet           ●●● S2 W3 adjective  
+swing           ●●● W3 verb   
+switch          ●●● S2 W3 verb  
+symbol          ●●● W3 noun   
+sympathy        ●●○ W3 noun   
+system          ●●● S1 W1 noun  
+table           ●●● S1 W1 noun  
+tackle          ●●○ S3 W3 verb  
+tail            ●●● S2 W3 noun  
+take            ●●● S1 W1 verb  
+tale            ●●● W3 noun   
+talent          ●●● W3 noun   
+talk            ●●● S1 W1 verb  
+talk            ●●● S1 W1 noun  
+tall            ●●● S2 W2 adjective  
+tank            ●●● S2 W2 noun  
+tape            ●●● S3 W3 noun  
+target          ●●● S2 W2 noun  
+task            ●●● S2 W1 noun  
+taste           ●●● S2 W2 noun  
+tax             ●●● S1 W1 noun  
+tea             ●●● S1 W2 noun  
+teach           ●●● S1 W2 verb  
+teacher         ●●● S1 W1 noun  
+teaching        ●●● S2 W2 noun  
+team            ●●● S1 W1 noun  
+tear            ●●● S2 W3 noun  
+tear            ●●● S2 W3 verb  
+technical       ●●● S2 W2 adjective  
+technique       ●●● S3 W1 noun  
+technology      ●●● S2 W1 noun  
+telephone       ●●● S1 W2 noun  
+television      ●●● S1 W1 noun  
+tell            ●●● S1 W1 verb  
+temperature     ●●● S2 W2 noun  
+temporary       ●●● S3 W3 adjective  
+ten             ●●● S1 W2 number , noun
+tend            ●●● S1 W1 verb  
+tendency        ●●○ S3 W3 noun  
+tennis          ●●● S3 W3 noun  
+tension         ●●○ W3 noun   
+tenth           ●●● S3 W3 adjective  
+term            ●●● S1 W1 noun  
+terrible        ●●● S1 W3 adjective  
+territory       ●●○ W3 noun   
+terror          ●●○ W3 noun   
+terrorist       ●●○ W3 noun   
+test            ●●● S1 W1 noun  
+test            ●●● S3 W2 verb  
+text            ●●● S2 W1 noun  
+than            ●●● S1 W1 conjunction , preposition
+thank           ●●● S1 W2 verb  
+thanks          ●●○ W3 noun   
+that            ●●● S1 W1 determiner , pronoun
+that            ●●● S1 W1 conjunction  
+that            ●●● S1 W2 adverb  
+the             ●●● S1 W1 definite article ,
+theatre         ●●● S2 W2 noun  
+their           ●●● S1 W1 determiner  
+them            ●●● S1 W1 pronoun  
+theme           ●●● S2 W2 noun  
+themselves      ●●● S1 W1 pronoun  
+then            ●●● S1 W1 adverb  
+theoretical     ●●○ W3 adjective   
+theory          ●●● S2 W1 noun  
+there           ●●● S1 W1 pronoun  
+there           ●●● S1 W1 adverb  
+therefore       ●●● S3 W1 adverb  
+they            ●●● S1 W1 pronoun  
+thick           ●●● S2 W2 adjective  
+thin            ●●● S2 W2 adjective  
+thing           ●●● S1 W1 noun  
+think           ●●● S1 W1 verb  
+third           ●●● W2 S2 adjective  
+third           ●●● W3 noun   
+thirteen        ●●● S3 W3 number  
+thirty          ●●● S3 W3 number  
+this            ●●● S1 W1 determiner , pronoun
+though          ●●● S1 W1 conjunction  
+thought         ●●● S1 W1 noun  
+thousand        ●●● W3 number   
+threat          ●●● S3 W2 noun  
+threaten        ●●● S3 W2 verb  
+three           ●●● S1 W2 number  
+throat          ●●● S3 W3 noun  
+through         ●●● S1 W1 preposition , adverb
+throughout      ●●● S2 W1 preposition , adverb
+throw           ●●● S1 W1 verb  
+Thursday        ●●● S2 W2 noun  
+thus            ●●○ W3 adverb   
+ticket          ●●● S1 W2 noun  
+tie             ●●● S2 W3 verb  
+tie             ●●● S3 W3 noun  
+tiger           ●●● W3 noun   
+tight           ●●● S2 W3 adjective  
+time            ●●● S1 W1 noun  
+time            ●●● S1 W2 verb  
+timetable       ●●● W3 noun   
+tiny            ●●● S2 W2 adjective  
+tip             ●●● S2 W3 noun  
+tired           ●●● S1 W2 adjective  
+title           ●●● S3 W1 noun  
+to              ●●● S1 W1   
+to              ●●● S1 W1 preposition  
+today           ●●● S1 W1 adverb  
+together        ●●● S1 W1 adverb  
+tomorrow        ●●● S1 W2 adverb  
+tone            ●●○ S3 W2 noun  
+tongue          ●●● S3 W3 noun  
+tonight         ●●● S1 W2 adverb  
+too             ●●● S1 W1 adverb  
+tool            ●●● S2 W2 noun  
+tooth           ●●● S2 W2 noun  
+top             ●●● S1 W1 noun  
+top             ●●● S1 W1 adjective  
+topic           ●●● S3 W2 noun  
+total           ●●● S1 W1 adjective  
+total           ●●● S2 W2 noun  
+totally         ●●● S1 W2 adverb  
+touch           ●●● S2 W2 verb  
+touch           ●●● S2 W2 noun  
+tough           ●●● S2 W2 adjective  
+tour            ●●● S3 W2 noun  
+tourist         ●●● W3 noun   
+towards         ●●● S1 W1 preposition  
+tower           ●●○ S3 W3 noun  
+town            ●●● S1 W1 noun  
+track           ●●● S2 W2 noun  
+trade           ●●● S3 W1 noun  
+trade           ●●○ S3 W3 verb  
+tradition       ●●● S2 W2 noun  
+traditional     ●●● S3 W1 adjective  
+traffic         ●●● S1 W2 noun  
+train           ●●● S1 W2 noun  
+train           ●●● S1 W2 verb  
+training        ●●● S2 W1 noun  
+transfer        ●●○ S3 W3 verb  
+transfer        ●●○ W3 noun   
+transform       ●●○ W3 verb   
+transition      ●●○ W3 noun   
+transport       ●●● S2 W2 noun  
+transportation  ●●● W3 noun   
+travel          ●●● S2 W2 verb  
+travel          ●●● S2 W2 noun  
+treat           ●●● S2 W1 verb  
+treatment       ●●● S2 W1 noun  
+treaty          ●●○ W3 noun   
+tree            ●●● S1 W1 noun  
+trend           ●●○ S3 W2 noun  
+trial           ●●● S3 W2 noun  
+trip            ●●● S2 W2 noun  
+troop           ●●● W2 noun   
+trouble         ●●● S1 W2 noun  
+truck           ●●● S2 W3 noun  
+true            ●●● S1 W1 adjective  
+truly           ●●○ W3 adverb   
+trust           ●●● S1 W2 noun  
+trust           ●●● S2 W3 verb  
+truth           ●●● S1 W2 noun  
+try             ●●● S1 W1 verb  
+tube            ●●● S3 W3 noun  
+Tuesday         ●●● S2 W2 noun  
+tunnel          ●●● W3 noun   
+turn            ●●● S1 W1 verb  
+turn            ●●● S1 W1 noun  
+TV              ●●● S2 W2 noun  
+twelve          ●●● S3 W2 number  
+twenty          ●●● S2 W2 number , noun
+twice           ●●● S2 W2 adverb , predeterminer
+two             ●●● S2 W1 number  
+type            ●●● S1 W1 noun  
+type            ●●● S2 W3 verb  
+typical         ●●● S2 W2 adjective  
+ultimate        ●●○ W3 adjective   
+ultimately      ●●○ W3 adverb   
+unable          ●●● W2 adjective   
+uncle           ●●● S2 W3 noun  
+uncomfortable   ●●● W3 adjective   
+under           ●●● S1 W1 preposition , adverb
+understand      ●●● S1 W1 verb  
+understanding   ●●○ W3 noun   
+undertake       ●●○ W3 verb   
+unemployed      ●●● S2 W3 adjective  
+unemployment    ●●● S2 W2 noun  
+unfortunately   ●●● S1 W3 adverb  
+union           ●●○ S3 W3 noun  
+unique          ●●● S3 W2 adjective  
+unit            ●●● S2 W2 noun  
+unity           ●●○ W3 noun   
+universal       ●●○ W3 adjective   
+universe        ●●○ W3 noun   
+university      ●●● S2 W1 noun  
+unknown         ●●● W2 adjective , adverb 
+unless          ●●● S1 W1 conjunction  
+unlike          ●●● W3 preposition   
+unlikely        ●●● S3 W2 adjective  
+until           ●●● S1 W1 preposition , conjunction
+unusual         ●●● S2 W3 adjective  
+up              ●●● S1 W1 adverb , preposition
+upon            ●●● S3 W2 preposition  
+upper           ●●● W2 adjective   
+urban           ●●○ W2 adjective   
+urge            ●●○ W3 verb   
+us              ●●● S1 W1 pronoun  
+use             ●●● S1 W1 verb  
+use             ●●● S1 W1 noun  
+used            ●●● S1 W2 adjective  
+useful          ●●● S1 W1 adjective  
+user            ●●● S3 W1 noun  
+usual           ●●● S2 W2 adjective  
+usually         ●●● S1 W1 adverb  
+vacation        ●●● S2 W3 noun  
+valley          ●●● S3 W3 noun  
+valuable        ●●● W3 adjective   
+value           ●●● S2 W1 noun  
+van             ●●● S2 W3 noun  
+variety         ●●● S2 W1 noun  
+various         ●●● S1 W1 adjective  
+vary            ●●● S3 W2 verb  
+vast            ●●○ W2 adjective   
+vegetable       ●●● S3 W3 noun  
+vehicle         ●●● S2 W2 noun  
+version         ●●● S2 W2 noun  
+very            ●●● S1 W1 adverb  
+very            ●●○ S3 W3 adjective  
+via             ●●○ W2 preposition   
+victim          ●●● S3 W2 noun  
+victory         ●●● W2 noun   
+video           ●●● S1 W2 noun  
+view            ●●● S1 W1 noun  
+village         ●●● S1 W1 noun  
+violence        ●●● S2 W2 noun  
+violent         ●●● S3 W3 adjective  
+virtually       ●●● S2 W2 adverb  
+virtue          ●●○ W3 noun   
+virus           ●●○ W3 noun   
+visible         ●●○ W3 adjective   
+vision          ●●○ S3 W3 noun  
+visit           ●●● S2 W1 verb  
+visit           ●●● S3 W2 noun  
+visitor         ●●● S3 W2 noun  
+visual          ●●○ W3 adjective   
+vital           ●●● W2 adjective   
+voice           ●●● S2 W1 noun  
+volume          ●●● S3 W2 noun  
+voluntary       ●●○ W3 adjective   
+vote            ●●● S2 W2 verb  
+vote            ●●● S2 W2 noun  
+vulnerable      ●●○ W3 adjective   
+wage            ●●● S2 W2 noun  
+waist           ●●● W3 noun   
+wait            ●●● S1 W1 verb  
+wake            ●●● S2 W3 verb  
+walk            ●●● S1 W1 verb  
+walk            ●●● S2 W2 noun  
+wall            ●●● S1 W1 noun  
+want            ●●● S1 W1 verb  
+war             ●●● S2 W1 noun  
+ward            ●●○ W3 noun   
+warm            ●●● S2 W2 adjective  
+warn            ●●● S3 W2 verb  
+warning         ●●● S3 W2 noun  
+wash            ●●● S1 W3 verb  
+waste           ●●● S2 W3 noun  
+waste           ●●● S2 W3 verb  
+waste           ●●○ W3 adjective   
+watch           ●●● S1 W1 verb  
+watch           ●●● S2 W3 noun  
+water           ●●● S1 W1 noun  
+Wave            ●●● S3 W2 noun  
+Wave            ●●● S3 W3 verb  
+way             ●●● S1 W1 noun  
+we              ●●● S1 W1 pronoun  
+weak            ●●● S3 W2 adjective  
+weakness        ●●○ W3 noun   
+wealth          ●●○ W3 noun   
+weapon          ●●● W2 noun   
+wear            ●●● S1 W1 verb  
+weather         ●●● S1 W2 noun  
+web             ●●● S2 W2 noun  
+website         ●●● S2 W1 noun  
+wedding         ●●● S2 W3 noun  
+Wednesday       ●●● S2 W2 noun  
+week            ●●● S1 W1 noun  
+weekend         ●●● S1 W2 noun  
+weekly          ●●● W3 adjective   
+weigh           ●●● S3 W3 verb  
+weight          ●●● S1 W2 noun  
+welcome         ●●● S2 W3 adjective  
+welcome         ●●● S3 W2 verb  
+welcome         ●●○ W3 noun   
+welfare         ●●○ W2 noun   
+well            ●●● S1 W1 adverb  
+well            ●●● S1 W1 interjection  
+well            ●●● S1 W2 adjective  
+west            ●●● S1 W2 noun  
+west            ●●● S3 W3 adjective  
+west            ●●● S3 W3 adverb  
+western         ●●● S2 W2 adjective  
+wet             ●●● S2 W3 adjective  
+what            ●●● S1 W1 pronoun , determiner
+whatever        ●●● S1 W1 determiner , pronoun
+wheel           ●●● S2 W3 noun  
+when            ●●● S1 W1 adverb , conjunction
+whenever        ●●● S2 W3 adverb , conjunction
+where           ●●● S1 W1 adverb , conjunction
+whereas         ●●○ W2 conjunction   
+whether         ●●● S1 W1 conjunction  
+which           ●●● S1 W1 determiner , pronoun
+while           ●●● S1 W1 conjunction  
+while           ●●● S1 W2 noun  
+whisper         ●●● W3 verb   
+whisper         ●●● W3 noun   
+white           ●●● S1 W1 adjective  
+white           ●●● S3 W2 noun  
+who             ●●● S1 W1 pronoun  
+whole           ●●● S1 W1 adjective  
+whole           ●●● S2 W2 noun  
+whom            ●●● W1 pronoun   
+whose           ●●● S2 W1 determiner , pronoun
+why             ●●● S1 W1 adverb  
+wide            ●●● S1 W1 adjective  
+wide            ●●● W3 S3 adverb  
+widely          ●●● W2 adverb   
+widespread      ●●○ W3 adjective   
+wife            ●●● S1 W1 noun  
+wild            ●●● S2 W2 adjective  
+will            ●●● S1 W1 modal verb 
+will            ●●● S2 W2 noun  
+willing         ●●● S2 W3 adjective  
+win             ●●● S1 W1 verb  
+win             ●●● W3 noun   
+wind            ●●● S2 W2 noun  
+wind            ●●● S3 W3 verb  
+window          ●●● S1 W1 noun  
+wine            ●●● S2 W2 noun  
+wing            ●●● S2 W2 noun  
+winner          ●●● S3 W2 noun  
+winter          ●●● S2 W2 noun  
+wire            ●●● S2 W3 noun  
+wish            ●●● S1 W1 verb  
+with            ●●● S1 W1 preposition  
+withdraw        ●●○ W2 verb   
+within          ●●● S1 W1 preposition , adverb
+without         ●●● S1 W1 preposition , adverb
+witness         ●●○ S3 W3 noun  
+woman           ●●● S1 W1 noun  
+wonder          ●●● S1 W2 verb  
+wonderful       ●●● S1 W2 adjective  
+wood            ●●● S2 W2 noun  
+wooden          ●●● S3 W3 adjective  
+word            ●●● S1 W1 noun  
+work            ●●● S1 W1 verb  
+work            ●●● S1 W1 noun  
+worker          ●●● S2 W1 noun  
+working         ●●○ W2 adjective   
+workshop        ●●○ S3 W3 noun  
+world           ●●● S1 W1 noun  
+worried         ●●● S2 W3 adjective  
+worry           ●●● S1 W2 verb  
+worse           ●●● S1 W2 adjective  
+worse           ●●● S3 W2 adverb  
+worst           ●●● S2 W1 adjective  
+worst           ●●● S2 W3 noun  
+worth           ●●● S1 W2 adjective  
+worth           ●●● W3 noun   
+would           ●●● S1 W1 modal verb 
+wound           ●●○ W3 verb   
+wrist           ●●● W3 noun   
+write           ●●● S1 W1 verb  
+writer          ●●● S3 W2 noun  
+writing         ●●● S2 W3 noun  
+written         ●●● W3 adjective   
+wrong           ●●● S1 W1 adjective  
+yard            ●●● S2 W2 noun  
+year            ●●● S1 W1 noun  
+yellow          ●●● S2 W3 adjective  
+yellow          ●●● S3 W3 noun  
+yes             ●●● S1 W1 adverb  
+yesterday       ●●● S1 W1 adverb  
+yet             ●●● S1 W1 adverb  
+yet             ●●● W2 conjunction   
+you             ●●● S1 W1 pronoun  
+young           ●●● S1 W1 adjective  
+your            ●●● S1 W1 determiner  
+yours           ●●● S1 W3 pronoun  
+yourself        ●●● S1 W2 pronoun  
+youth           ●●● S2 W2 noun  
+zone            ●●○ W3 noun   
