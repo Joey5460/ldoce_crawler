@@ -7,6 +7,10 @@ else
 fi
 
 case $1 in 
+    trim)
+        #awk  '{OFS= "\t"}{for(i=2;i<5;i++) $i=""; print  $0}' $2 
+        awk  '{printf("%15-s %s %s %s %s %s %s\n",$1,$5,$6,$7,$8,$9,$10);}' $2 
+    ;;
     s)
         if [ -z $2 ]
         then
@@ -23,10 +27,30 @@ case $1 in
             egrep 'W1|W2|W3' $2
         fi
     ;;
-    trim)
-        #awk  '{OFS= "\t"}{for(i=2;i<5;i++) $i=""; print  $0}' $2 
-        awk  '{printf("%15-s %s %s %s %s %s %s\n",$1,$5,$6,$7,$8,$9,$10);}' $2 
-        ;;
+    s1)
+        if [ -z $2 ]
+        then
+            egrep 'S1' $core_words
+        else
+            egrep 'S1' $2
+        fi
+    ;;
+    s2)
+        if [ -z $2 ]
+        then
+            egrep 'S2' $core_words
+        else
+            egrep 'S2' $2
+        fi
+    ;;
+    s3)
+        if [ -z $2 ]
+        then
+            egrep 'S3' $core_words
+        else
+            egrep 'S3' $2
+        fi
+    ;;
     freq)
 		egrep -v 'W1|W2|W3|S1|S2|S3' $core_words 
         ;;
